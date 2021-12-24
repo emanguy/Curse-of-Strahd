@@ -1,0 +1,13 @@
+{
+  "spellcheck": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "useTab": false,
+  "tabSize": 2,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "obsidian_data/Assets",
+  "defaultViewMode": "preview",
+  "promptDelete": false
+}
