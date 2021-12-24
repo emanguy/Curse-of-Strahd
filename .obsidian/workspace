@@ -70,8 +70,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "b4a803539d46bb1c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a038c8fea330297c",
