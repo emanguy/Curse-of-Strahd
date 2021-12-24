@@ -59,33 +59,9 @@
     "type": "split",
     "children": [
       {
-        "id": "59378f1d6c886cb0",
-        "type": "tabs",
-        "dimension": 33.30029732408325,
-        "children": [
-          {
-            "id": "8f4dc45e83de88e3",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "b4a803539d46bb1c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "a038c8fea330297c",
         "type": "tabs",
-        "dimension": 27.35381565906839,
+        "dimension": 41.010401188707284,
         "children": [
           {
             "id": "c148f00bbf92aea2",
@@ -96,13 +72,21 @@
                 "file": "Locations/Barovia/Barovia Town.md"
               }
             }
+          },
+          {
+            "id": "dc208e3ac59fe3f4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       },
       {
         "id": "154db812d1f4cdf4",
         "type": "tabs",
-        "dimension": 39.345887016848366,
+        "dimension": 58.989598811292716,
         "children": [
           {
             "id": "1e373c1578de3d9f",
