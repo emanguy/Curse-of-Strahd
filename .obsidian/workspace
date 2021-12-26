@@ -6,10 +6,12 @@
       {
         "id": "2cf68784e6ae9339",
         "type": "split",
+        "dimension": 63.70014771048744,
         "children": [
           {
             "id": "6cfe4931d9dfadf8",
             "type": "leaf",
+            "dimension": 67.64061358655952,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,10 +24,11 @@
           {
             "id": "c74c7438adb80fb4",
             "type": "leaf",
+            "dimension": 32.35938641344047,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,6 +40,7 @@
       {
         "id": "05bf5686ef1ff712",
         "type": "split",
+        "dimension": 36.29985228951256,
         "children": [
           {
             "id": "a92302ed4d5d6bcb",
@@ -131,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Barovia Town.md"
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md"
               }
             }
           }
@@ -159,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,8 +183,8 @@
   },
   "active": "c74c7438adb80fb4",
   "lastOpenFiles": [
-    "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
+    "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Locations/Barovia/Barovia (Country).md",
     "Characters/NPCs/Ismark.md",
     "Characters/NPCs/Groups/Vistani.md",
