@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Locations/Barovia/Barovia Town.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -61,7 +61,22 @@
       {
         "id": "a038c8fea330297c",
         "type": "tabs",
-        "dimension": 41.010401188707284,
+        "dimension": 26.59870250231696,
+        "children": [
+          {
+            "id": "b50f42d6b8b86707",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "eac3e8cee37be832",
+        "type": "tabs",
+        "dimension": 26.32066728452271,
         "children": [
           {
             "id": "c148f00bbf92aea2",
@@ -72,21 +87,13 @@
                 "file": "Locations/Barovia/Barovia Town.md"
               }
             }
-          },
-          {
-            "id": "dc208e3ac59fe3f4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ]
       },
       {
         "id": "154db812d1f4cdf4",
         "type": "tabs",
-        "dimension": 58.989598811292716,
+        "dimension": 47.08063021316033,
         "children": [
           {
             "id": "1e373c1578de3d9f",
