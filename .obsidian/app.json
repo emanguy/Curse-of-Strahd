@@ -9,5 +9,7 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "obsidian_data/Assets",
   "defaultViewMode": "preview",
-  "promptDelete": false
+  "promptDelete": false,
+  "legacyEditor": false,
+  "livePreview": true
 }

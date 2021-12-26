@@ -10,7 +10,20 @@
           "type": "markdown",
           "state": {
             "file": "Locations/Barovia/Barovia Town.md",
-            "mode": "preview"
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "a92302ed4d5d6bcb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Locations/Barovia/Barovia (Country).md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -133,9 +146,9 @@
   "active": "6cfe4931d9dfadf8",
   "lastOpenFiles": [
     "Locations/Barovia/Barovia Town.md",
+    "Locations/Barovia/Barovia (Country).md",
     "Characters/NPCs/Ismark.md",
     "Characters/NPCs/Groups/Vistani.md",
-    "Locations/Barovia/Barovia (Country).md",
     "Characters/NPCs/Groups/Barovians.md",
     "obsidian_data/Assets/CurseofStrahd_LandOfBarovia_DM.jpg",
     "Locations/Barovia/Untitled.md",
