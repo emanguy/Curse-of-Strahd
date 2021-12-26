@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Players/Bam Booty.md",
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Players/Bam Booty.md"
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md"
               }
             }
           }
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Players/Bam Booty.md",
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,13 +183,13 @@
   },
   "active": "c74c7438adb80fb4",
   "lastOpenFiles": [
+    "Locations/Barovia/Barovia Town/Haunted House.md",
     "Characters/Players/Bam Booty.md",
     "Characters/Players/Corvyn Folker.md",
     "Characters/Players/Kragg Thegrim.md",
     "Characters/Players/P'ome Gnossum.md",
     "Characters/Players/Asterion Tolger.md",
     "Ongoing Quests/Asterion's Master.md",
-    "Locations/Barovia/Barovia Town/Haunted House.md",
     "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Locations/Barovia/Barovia (Country).md",
     "Characters/NPCs/Ismark.md"
