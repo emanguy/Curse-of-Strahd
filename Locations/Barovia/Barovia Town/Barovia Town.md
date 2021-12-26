@@ -15,4 +15,4 @@
   * [[P'ome Gnossum]] - Ben (Dragonborn Wizard)
   * [[Bam Booty]] - Ruflyn (Tiefling Wizard)
   * [[Asterion Tolger]] - Rylith (Eladrin Wizard)
-* **E7** - 
+* **E7** - This is the mini-dungeon, the [[Haunted House]]
