@@ -11,7 +11,7 @@
           {
             "id": "6cfe4931d9dfadf8",
             "type": "leaf",
-            "dimension": 67.64061358655952,
+            "dimension": 19.430241051862673,
             "state": {
               "type": "markdown",
               "state": {
@@ -24,11 +24,11 @@
           {
             "id": "c74c7438adb80fb4",
             "type": "leaf",
-            "dimension": 32.35938641344047,
+            "dimension": 80.56975894813732,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
+                "file": "Characters/Players/Bam Booty.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Haunted House.md"
+                "file": "Characters/Players/Bam Booty.md"
               }
             }
           }
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
+                "file": "Characters/Players/Bam Booty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,15 +183,15 @@
   },
   "active": "c74c7438adb80fb4",
   "lastOpenFiles": [
+    "Characters/Players/Bam Booty.md",
+    "Characters/Players/Corvyn Folker.md",
+    "Characters/Players/Kragg Thegrim.md",
+    "Characters/Players/P'ome Gnossum.md",
+    "Characters/Players/Asterion Tolger.md",
+    "Ongoing Quests/Asterion's Master.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
     "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Locations/Barovia/Barovia (Country).md",
-    "Characters/NPCs/Ismark.md",
-    "Characters/NPCs/Groups/Vistani.md",
-    "Characters/NPCs/Groups/Barovians.md",
-    "obsidian_data/Assets/CurseofStrahd_LandOfBarovia_DM.jpg",
-    "Locations/Barovia/Untitled.md",
-    "Characters/Players/P'ome Gnossum.md",
-    "Locations/Daggerford/Daggerford Cistern.md"
+    "Characters/NPCs/Ismark.md"
   ]
 }
