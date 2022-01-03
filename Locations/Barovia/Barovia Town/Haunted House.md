@@ -70,7 +70,9 @@ Rose and Thorn are illusions created by the house who try to lure the characters
     * Jar of ink
     * Quill pen
     * Tinderbox
-    * Letter kit (wax candle. )
+    * Letter kit (wax candle, 4 sheets of parchment, wooden seal with windmill crest)
+  * Books cover subjects like history, warfare, alchemy. many are first editions
+    * They rot and fall apart if taken from the house
 
 ## Area 9
 
