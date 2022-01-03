@@ -24,6 +24,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 ## Area 2 - Main Hall
 * **A** - Longsword above the fireplace on the left side of the room with a windmill in the hilt. The walls have images of vines, flowers, nymphs, and satyrs.
   * **DC 12 Wisdom** to notice serpents and skulls in the wall designs
+  * Staircase is made of red marble
 * **B** - Cloak room with several black cloaks and a top hat.
 
 ## Area 3 - Den of wolves
@@ -53,4 +54,6 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * Portrait of the Dursts above the mantle and Elizabeth is giving Walter a dirty look.
 * Some suits of armor
 * Carvings of dancing children in the doors, **DC 12 Perception** reveals the children aren't playing, they're fighting off bats
-* Cold draft comes down the red marble 
+* Cold draft comes down the red marble stairs from the 3rd floor
+
+## Area 7 - 
