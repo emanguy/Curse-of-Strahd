@@ -143,9 +143,13 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 ## Area 16 - Attic Hall
 * The door to the Children's Room is secured with a padlock whose key can be found in the library
 
-## Area 17
+## Area 17 - Spare Bedroom
+* Bed, nightstand, small iron stove, writing desk with stool, empty wardrobe, rocking chair
+* There is a smiling doll in a yellow dress sitting in the northern window box covered in cobwebs
 
-## Area 18
+## Area 18 - Storage Room
+* Old furniture in white sheets
+* Under a sheet near the stove there is a wooden chest containing the following
 
 ## Area 19
 
