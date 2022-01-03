@@ -27,4 +27,6 @@ The wealthy family that used to live here (the **Durst** family) performed the d
   * There is a trapdoor in the corner of the room which is supernaturally hidden by the house until the players reach **area 32**, the Underside
 
 ## Area 4 - Kitchen and pantry
-* **A** - Kitchen - tidy, has dishes and standard kitchen stuff like pots and pans and stuff. For a full list see 
+* **A** - Kitchen - tidy, has dishes and standard kitchen stuff like pots and pans and stuff. For a full list see page **213**.
+  * There is a dumbwaiter at the bottom of this room which can be squeezed into by a small character with a 
+* **B** - Pantry - There is food in here that looks safe to eat but bland.
