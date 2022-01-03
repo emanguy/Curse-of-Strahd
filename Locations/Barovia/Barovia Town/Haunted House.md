@@ -79,7 +79,8 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * Bookshelves in here have fake fiend summoning rituals which are BS, determined via an hour of study and a **DC 12 Arcana Check**
 * There's a skeleton in leather armor who has poison darts sticking out of the armor. The dart firing mechanism no longer works, and the skeleton holds a scroll inside the chest with Strahd's seal on it. The scroll says:
 
-  > 
+  > My most pathetic servant,
+  >     I am not a messiah sent to you by the Dark Powers of this land. I have not come to lead you on a path to immortality. However many souls you have bled on your hidden altar, however many wisitors you have tortured in 
 
 ## Area 10
 
