@@ -71,6 +71,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
     * Quill pen
     * Tinderbox
     * Letter kit (wax candle, 4 sheets of parchment, wooden seal with windmill crest)
+    * In the drawer there's a key to the Children's Room in the attic
   * Books cover subjects like history, warfare, alchemy. many are first editions
     * They rot and fall apart if taken from the house
 * There is a secret door behind one of the shelves which can be opened by pulling a blank red book detected by a **DC 13 perception check** which leads to area 9
@@ -140,7 +141,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 # Attic
 
 ## Area 16 - Attic Hall
-* The door to the Children's Room is secured with a padlock
+* The door to the Children's Room is secured with a padlock whose key can be found in the library
 
 ## Area 17
 
