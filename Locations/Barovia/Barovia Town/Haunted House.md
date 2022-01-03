@@ -106,6 +106,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * Balcony is dusty and has a suit of black plate armor next to it
 * The armor becomes a suit of **animated armor** when a character gets within 5 feet of it and fights until destroyed
 * Oil lamps are on the wall and there are carvings of trees, leaves, and tiny critters. A **DC 12 Perception check** reveals there are corpses hanging from the trees
+* The **secret door** here can be detected with a **DC 15 Perception Check**
 
 ## Area 12 - Master Suite
 * Doors to this area have stained glass depictions of windmills
@@ -122,9 +123,14 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * The plumbing doesn't work
 
 ## Area 14 - Storage room
-* Dusty shelves w/ l
+* Dusty shelves w/ linens and soap
+* A **broom of animated attack (appendix d)**  leans against the far wall and attacks anyone that comes within 5 feet of it
 
-## Area 15
+## Area 15 - Nusemaid's suite
+* **A** - Dusty bedroom
+  * Unless she was a
+* **B** - Nursery
+* **C** - Balcony
 
 # Attic
 
