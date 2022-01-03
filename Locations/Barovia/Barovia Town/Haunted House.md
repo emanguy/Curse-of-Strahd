@@ -132,13 +132,15 @@ Rose and Thorn are illusions created by the house who try to lure the characters
   * Unless she was already defeated in the storage room in the attic the specter of the nursemaid haunts the bedroom and attacks anyone who tries to open the nursery
     * She looks like a skeletally thin, terrified young woman
   * Has a big bed, two end tables, and an empty wardrobe. There's a big mirror too whose frame is carved to look like ivy and berries. A **DC 12 Perception check** reveals there are eyeballs with the berries
+  * The secret door can be detected with a **DC 15 perception check**
 * **B** - Nursery
-  * 
+  * There's a crib in here with a black shroud over it. Inside the crib is a baby sized bundle which doesn't actually have anything inside
 * **C** - Balcony
 
 # Attic
 
-## Area 16
+## Area 16 - Attic Hall
+* The door to the Children's Room is secured with a padlock
 
 ## Area 17
 
