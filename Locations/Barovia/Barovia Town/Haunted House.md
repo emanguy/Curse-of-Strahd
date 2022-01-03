@@ -12,7 +12,9 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * There's a baby in the third floor nursery
 
 # The Dursts
-* Gu
+* Gustav and Elizabeth - Parents
+* Rose and Thorn - Children
+* Walter - Baby
 
 # First Floor
 ## Area 1 - Gate and foyer
@@ -47,4 +49,8 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 
 # Second Floor
 ## Area 6 - Upper Hall
-* Oil lamps on all 4 corners of the room, portrait of the Dursts above the mantle ()
+* Oil lamps on all 4 corners of the room
+* Portrait of the Dursts above the mantle and Elizabeth is giving Walter a dirty look.
+* Some suits of armor
+* Carvings of dancing children in the doors, **DC 12 Perception** reveals the children aren't playing, they're fighting off bats
+* Cold draft comes down the red marble 
