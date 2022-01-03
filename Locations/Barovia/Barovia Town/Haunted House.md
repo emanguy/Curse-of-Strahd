@@ -32,5 +32,10 @@ The wealthy family that used to live here (the **Durst** family) performed the d
 * **B** - Pantry - There is food in here that looks safe to eat but bland.
 
 ## Area 5 - Dining room
-* Fancy area with fine silver. There is a painting of a mountain range on the wall and images of deer and trees on the wall.
-  * Looking closer at the wall invokes a **DC 12 Perception check** which 
+* Fancy area with fine silver. There is a painting of a mountain range on the wall and images of deer and trees on the wall. More detail on page **213**
+  * Looking closer at the wall invokes a **DC 12 Perception check** which reveals evil faces in the tree trunks and wolves among the foliage
+  * If anything is removed from the dining room and taken off the grounds, it gets ruined
+
+# Second Floor
+## Upper Hall
+* 
