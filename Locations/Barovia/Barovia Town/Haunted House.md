@@ -130,7 +130,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 ## Area 15 - Nursemaid's suite
 * **A** - Dusty bedroom
   * This used to belong to the nursemaid. She had an affair with Gustav and is the mother of the stillborn baby Walter. She was then killed by the cult
-  * Unless she was already defeated in the storage room in the attic the specter of the nursemaid haunts the bedroom and attacks anyone who tries to open the nursery
+  * Unless she was already defeated in the storage room in the attic the **specter** of the nursemaid haunts the bedroom and attacks anyone who tries to open the nursery
     * She looks like a skeletally thin, terrified young woman
   * Has a big bed, two end tables, and an empty wardrobe. There's a big mirror too whose frame is carved to look like ivy and berries. A **DC 12 Perception check** reveals there are eyeballs with the berries
   * The secret door can be detected with a **DC 15 perception check**
@@ -149,11 +149,16 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 
 ## Area 18 - Storage Room
 * Old furniture in white sheets
-* Under a sheet near the stove there is a wooden chest containing the following
+* Under a sheet near the stove there is a wooden chest containing the remains of the nursemaid in a dry, bloody sheet
+  *  **DC 14 Medicine** can determine that the nursemaid has a bunch of stab wounds
+  * If the remains are disturbed and the party hasn't already fought the nursemaid her **specter** attacks them
 
-## Area 19
+## Area 19 - Spare bedroom
+* Cobwebbed to hell and back
+* Bed, nightstand, rocking chair, empty wardrobe, small stove
 
-## Area 20
+## Area 20 - Children's room
+* Rose and Thorn's remains are in the middle of the
 
 ## Area 21
 
