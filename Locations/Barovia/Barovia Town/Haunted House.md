@@ -158,7 +158,9 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * Bed, nightstand, rocking chair, empty wardrobe, small stove
 
 ## Area 20 - Children's room
-* Rose and Thorn's remains are in the middle of the
+* Bricked up window, children's beds, toy chest w/ windmills, dollhouse that's a replica of the house
+* Rose and Thorn's remains are in the middle of the floor and Thorn is cradling his doll
+* Inspecting the dollhouse and passing a **DC 15 Perception check** reveals all hidden doors
 
 ## Area 21
 
