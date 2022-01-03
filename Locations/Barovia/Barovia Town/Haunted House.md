@@ -56,4 +56,18 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * Carvings of dancing children in the doors, **DC 12 Perception** reveals the children aren't playing, they're fighting off bats
 * Cold draft comes down the red marble stairs from the 3rd floor
 
-## Area 7 - 
+## Area 7
+
+## Area 8
+
+## Area 9
+
+## Area 10
+
+# Third Floor
+## Area 11
+
+## Area 12
+
+## Area 13
+
