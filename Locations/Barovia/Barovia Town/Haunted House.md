@@ -93,9 +93,11 @@ Rose and Thorn are illusions created by the house who try to lure the characters
   * Three spell scrolls - *bless, protection from poison. spiritual weapon*
   * A deed to the house
   * A deed to a windmill ([[Old Bonegrinder]])
-  * A will s
+  * A will signed by Gustav and Elizabeth which states that in the event of their deaths all their property to Rosavalda and Thornboldt
+  * All of this ages but remains intact upon leaving the property
+
 ## Area 10 - Conservatory
-* 
+* Gossamer drapes cover the windows, there's a brass plated chandelier, a stain
 
 # Third Floor
 ## Area 11
