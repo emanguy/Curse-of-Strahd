@@ -9,7 +9,10 @@ The wealthy family that used to live here (the **Durst** family) performed the d
 Rose and Thorn are illusions created by the house who try to lure the characters inside the house. They think there are monsters in the basement but it's actually the screams of the Strahd cult murdering victims. They know the following info:
 * They don't know what the monster looks like
 * Their parents keep the monster locked in the basement
-* There's a baby in the third floor n
+* There's a baby in the third floor nursery
+
+# The Dursts
+* Gu
 
 # First Floor
 ## Area 1 - Gate and foyer
@@ -44,4 +47,4 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 
 # Second Floor
 ## Area 6 - Upper Hall
-* 
+* Oil lamps on all 4 corners of the room, portrait of the Dursts above the mantle ()
