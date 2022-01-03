@@ -6,9 +6,12 @@
 The wealthy family that used to live here (the **Durst** family) performed the dark arts here. They are the [[Strahd Cult]]. They used to try to summon extraplanar entities to no avail and involved innocents in their rituals. When [[Strahd]] came on the scene, they thought it was an omen but made a mistake when they sacrificed a group of adventurers Strahd brought into barovia to play with. He murdered them all and they now haunt the house.
 
 # Rose and Thorn
-Rose and Thorn are illusions created by the house who try to lure the characters inside the house.
-# First Floor
+Rose and Thorn are illusions created by the house who try to lure the characters inside the house. They think there are monsters in the basement but it's actually the screams of the Strahd cult murdering victims. They know the following info:
+* They don't know what the monster looks like
+* Their parents keep the monster locked in the basement
+* There's a baby in the third floor n
 
+# First Floor
 ## Area 1 - Gate and foyer
 * **A** - Wrought iron gate (unlocked), oil lamps hanging from the ceiling
 * **B** - Grand Foyer, coat of arms on the right - a golden windmill on a red field. There are also portraits of aristocrats (the Dursts)
