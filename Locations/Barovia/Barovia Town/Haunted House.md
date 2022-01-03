@@ -32,4 +32,4 @@ The wealthy family that used to live here (the **Durst** family) performed the d
 * **B** - Pantry - There is food in here that looks safe to eat but bland.
 
 ## Area 5 - Dining room
-* 
+* Fancy area with fine silver. There is a painting of a mountain range on the wall and images of 
