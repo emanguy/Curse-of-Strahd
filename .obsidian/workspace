@@ -10,6 +10,7 @@
           {
             "id": "0054dbd4df5f33c3",
             "type": "leaf",
+            "dimension": 30.387143900657414,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,11 +23,12 @@
           {
             "id": "c74c7438adb80fb4",
             "type": "leaf",
+            "dimension": 69.6128560993426,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Locations/Barovia/Barovia Town/Haunted House.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -196,8 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "c74c7438adb80fb4",
   "lastOpenFiles": [

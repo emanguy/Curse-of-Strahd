@@ -88,7 +88,14 @@ Rose and Thorn are illusions created by the house who try to lure the characters
   > Your dread lord and master,
   > Strahd von Zarovich
 
-## Area 10
+* The chest also contains the following:
+  * Three black books with black leather covers worth 25 gp each
+  * Three spell scrolls - *bless, protection from poison. spiritual weapon*
+  * A deed to the house
+  * A deed to a windmill ([[Old Bonegrinder]])
+  * A will s
+## Area 10 - Conservatory
+* 
 
 # Third Floor
 ## Area 11
