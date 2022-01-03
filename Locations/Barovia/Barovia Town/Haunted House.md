@@ -10,4 +10,4 @@ The wealthy family that used to live here (the **Durst** family) performed the d
 * **2A** - Longsword above the fireplace on the left side of the room with a windmill in the hilt. The walls have images of vines, flowers, nymphs, and satyrs.
   * **DC 12 Wisdom** to notice serpents and skulls in the wall designs
 * **2B** - Cloak room with several black cloaks and a top hat.
-* **3** - Den of wolves - Looks like a hunter's den. Fireplace, deer heads on the wall, etc. Animal furs draped over the chairs in the room, 3 stuffed wolves
+* **3** - Den of wolves - Looks like a hunter's den. Fireplace, deer heads on the wall, etc. Animal furs draped over the chairs in the room, 3 stuffed wolves, a chandelier
