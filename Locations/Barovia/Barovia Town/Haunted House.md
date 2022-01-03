@@ -11,4 +11,11 @@ The wealthy family that used to live here (the **Durst** family) performed the d
   * **DC 12 Wisdom** to notice serpents and skulls in the wall designs
 * **2B** - Cloak room with several black cloaks and a top hat.
 * **3** - Den of wolves - Looks like a hunter's den. Fireplace, deer heads on the wall, etc. more detail can be found on page **212**.
-  * One of the two cabinets against the wall has a simple lock which can be picked with a **DC 15 de
+  * One of the two cabinets against the wall has a simple lock which can be picked with a **DC 15 dexterity check**. It contains the following loot:
+    * Heavy crossbow
+    * Light crossbow
+    * 20 bolts for each weapon
+  * North cabinet contains the following loot:
+    * Small box containing a deck of cards
+    * Wine glasses
+  * There is a trapdoor in the corner of the room which is supernaturally hidden by the house until the players reach **area 32**, the Underside
