@@ -126,13 +126,14 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * Dusty shelves w/ linens and soap
 * A **broom of animated attack (appendix d)**  leans against the far wall and attacks anyone that comes within 5 feet of it
 
-## Area 15 - Nusemaid's suite
+## Area 15 - Nursemaid's suite
 * **A** - Dusty bedroom
   * This used to belong to the nursemaid. She had an affair with Gustav and is the mother of the stillborn baby Walter. She was then killed by the cult
   * Unless she was already defeated in the storage room in the attic the specter of the nursemaid haunts the bedroom and attacks anyone who tries to open the nursery
     * She looks like a skeletally thin, terrified young woman
-  * Has a big bed, two end tables, and an empty wardrobe. There's a big mirror too whose frame is carved to look like 
+  * Has a big bed, two end tables, and an empty wardrobe. There's a big mirror too whose frame is carved to look like ivy and berries. A **DC 12 Perception check** reveals there are eyeballs with the berries
 * **B** - Nursery
+  * 
 * **C** - Balcony
 
 # Attic
