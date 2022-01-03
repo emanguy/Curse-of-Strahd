@@ -113,12 +113,16 @@ Rose and Thorn are illusions created by the house who try to lure the characters
   * The vanity in this room has a jewelry box made of silver and gold worth 75gp on its own. It contains the following:
     * 3 gold rings worth 25gp each
     * A thin platinum necklace with a topaz worth 750 gp
+  * There is a button next to the dumbwaiter which rings the bell in the kitchen
 * **B** - a dusty closet
-* **
+* **C** - An outside balcony
 
-## Area 13
+## Area 13 - Bathroom
+* Wooden tub w/ clawed feet, small stove with kettle, barrel under spigot which collects water from a cistern on the roof
+* The plumbing doesn't work
 
-## Area 14
+## Area 14 - Storage room
+* Dusty shelves w/ l
 
 ## Area 15
 
