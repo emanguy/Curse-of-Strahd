@@ -109,7 +109,12 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 
 ## Area 12 - Master Suite
 * Doors to this area have stained glass depictions of windmills
-* **A** - Drapes cover the windows, see page 214 for a description of other furniture. 
+* **A** - Drapes cover the windows, see page **214** for a description of other furniture. There is a fireplace here which has a portrait of Gustav and Elizabeth above it.
+  * The vanity in this room has a jewelry box made of silver and gold worth 75gp on its own. It contains the following:
+    * 3 gold rings worth 25gp each
+    * A thin platinum necklace with a topaz worth 750 gp
+* **B** - a dusty closet
+* **
 
 ## Area 13
 
