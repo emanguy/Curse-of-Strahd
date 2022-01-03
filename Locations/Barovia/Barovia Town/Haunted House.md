@@ -28,5 +28,8 @@ The wealthy family that used to live here (the **Durst** family) performed the d
 
 ## Area 4 - Kitchen and pantry
 * **A** - Kitchen - tidy, has dishes and standard kitchen stuff like pots and pans and stuff. For a full list see page **213**.
-  * There is a dumbwaiter at the bottom of this room which can be squeezed into by a small character with a 
+  * There is a dumbwaiter at the bottom of this room which can be squeezed into by a small character with a **DC 10 Dex check**. It connects to area 7A (the servants' quarters) and 12A (the master bedroom).
 * **B** - Pantry - There is food in here that looks safe to eat but bland.
+
+## Area 5 - Dining room
+* 
