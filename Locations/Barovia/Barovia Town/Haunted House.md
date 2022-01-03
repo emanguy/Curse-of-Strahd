@@ -73,10 +73,13 @@ Rose and Thorn are illusions created by the house who try to lure the characters
     * Letter kit (wax candle, 4 sheets of parchment, wooden seal with windmill crest)
   * Books cover subjects like history, warfare, alchemy. many are first editions
     * They rot and fall apart if taken from the house
-* There is a secret door behind one of the shelves which can be opened by pulling a blank red book detected by a **DC 13 perception check** which leads to [area 9](#Area 9)
+* There is a secret door behind one of the shelves which can be opened by pulling a blank red book detected by a **DC 13 perception check** which leads to area 9
 
 ## Area 9 - Secret Room
-* 
+* Bookshelves in here have fake fiend summoning rituals which are BS, determined via an hour of study and a **DC 12 Arcana Check**
+* There's a skeleton in leather armor who has poison darts sticking out of the armor. The dart firing mechanism no longer works, and the skeleton holds a scroll inside the chest with Strahd's seal on it. The scroll says:
+
+  > 
 
 ## Area 10
 
