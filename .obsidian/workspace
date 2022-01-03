@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2cf68784e6ae9339",
+        "id": "5c4719df0888b253",
         "type": "split",
-        "dimension": 63.70014771048744,
         "children": [
           {
-            "id": "6cfe4931d9dfadf8",
+            "id": "0054dbd4df5f33c3",
             "type": "leaf",
-            "dimension": 32.53822629969419,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
                 "mode": "source",
                 "source": false
               }
@@ -24,7 +22,6 @@
           {
             "id": "c74c7438adb80fb4",
             "type": "leaf",
-            "dimension": 67.46177370030581,
             "state": {
               "type": "markdown",
               "state": {
@@ -38,13 +35,13 @@
         "direction": "horizontal"
       },
       {
-        "id": "05bf5686ef1ff712",
+        "id": "756314d7e17015d0",
         "type": "split",
-        "dimension": 36.29985228951256,
         "children": [
           {
-            "id": "a92302ed4d5d6bcb",
+            "id": "5a8595978ba8d37e",
             "type": "leaf",
+            "dimension": 45.28853177501826,
             "state": {
               "type": "markdown",
               "state": {
@@ -55,24 +52,32 @@
             }
           },
           {
-            "id": "d16347f761e4b9de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
-                "mode": "source",
-                "source": false
+            "id": "9a2ac69b83c2b467",
+            "type": "split",
+            "dimension": 54.71146822498174,
+            "children": [
+              {
+                "id": "eb910c8cdf3227a0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "176752a686d094be",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
               }
-            }
-          },
-          {
-            "id": "cc8764d0adda541b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+            ],
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -196,14 +201,14 @@
   "active": "c74c7438adb80fb4",
   "lastOpenFiles": [
     "Locations/Barovia/Barovia Town/Haunted House.md",
+    "Locations/Barovia/Barovia Town/Barovia Town.md",
+    "Locations/Barovia/Barovia (Country).md",
     "Characters/Players/Bam Booty.md",
     "Characters/Players/Corvyn Folker.md",
     "Characters/Players/Kragg Thegrim.md",
     "Characters/Players/P'ome Gnossum.md",
     "Characters/Players/Asterion Tolger.md",
     "Ongoing Quests/Asterion's Master.md",
-    "Locations/Barovia/Barovia Town/Barovia Town.md",
-    "Locations/Barovia/Barovia (Country).md",
     "Characters/NPCs/Ismark.md"
   ]
 }

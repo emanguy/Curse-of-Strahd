@@ -60,7 +60,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * Cold draft comes down the red marble stairs from the 3rd floor
 
 ## Area 7 - Servants' Quarters
-
+* Shitty beds with empty footlockers, some servant uniforms are han
 
 ## Area 8
 
