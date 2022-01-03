@@ -97,10 +97,14 @@ Rose and Thorn are illusions created by the house who try to lure the characters
   * All of this ages but remains intact upon leaving the property
 
 ## Area 10 - Conservatory
-* Gossamer drapes cover the windows, there's a brass plated chandelier, a stain
+* Gossamer drapes cover the windows, there's a brass plated chandelier, a stained glass window shows men, women, and children singing and playing instruments
+* There's a harpsichord and a fireplace which has alabaster dancer figurines on the mantelpiece
+  * Closer inspection reveals they are well dressed skeletons
 
 # Third Floor
-## Area 11
+## Area 11 - Balcony
+* Balcony is dusty and has a suit of black plate armor next to it
+* The armor becomes a suit of **animated armor** when a character gets within 5 feet of it
 
 ## Area 12
 
