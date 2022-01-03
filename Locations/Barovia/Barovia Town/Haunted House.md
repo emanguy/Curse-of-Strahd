@@ -161,6 +161,10 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * Bricked up window, children's beds, toy chest w/ windmills, dollhouse that's a replica of the house
 * Rose and Thorn's remains are in the middle of the floor and Thorn is cradling his doll
 * Inspecting the dollhouse and passing a **DC 15 Perception check** reveals all hidden doors
+* Disturbing the dollhouse or the chest makes Rose and Thorn appear
+  * They don't like their stuff being touched
+  * They know they died when their parents locked them in this room to "protect them from the monster in the basement" and they died of starvation
+  * They know the basement can be accessed by a secret door in here which can be discovered by 
 
 ## Area 21
 
