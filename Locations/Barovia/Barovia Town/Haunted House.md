@@ -167,17 +167,20 @@ Rose and Thorn are illusions created by the house who try to lure the characters
   * They know they died when their parents locked them in this room to "protect them from the monster in the basement" and they died of starvation
   * They know the basement can be accessed by a secret door in this room. If this information is revealed players have advantage on finding the secret doors via the dollhouse
   * They fear abandonment and will try to possess anyone who tries to leave
-    * Posession from either ghost will make the character not want to leave the house willingly
-    * Posession from Rose grants the flaw "I like being in charge and get angry when other people tell me what to do"
-    * Posession from Thorn grants the flaw "I'm afraid of everything and weep with despair when things don't go my way"
+    * Possession from either ghost will make the character not want to leave the house willingly
+    * Possession from Rose grants the flaw "I like being in charge and get angry when other people tell me what to do"
+    * Possession from Thorn grants the flaw "I'm afraid of everything and weep with despair when things don't go my way"
     * The **DC is 11** to convince the ghosts to get out of someone
   * They respawn at dawn if killed
 
 ## Area 21 - Secret Stairs
-* The stairs are hidden by the house until the players find the Strahd letter in the secret room next to the library or they find it in the dollhouse
+* The stairs are hidden by the house until the players find the Strahd letter in the secret room next to the library or they find it in the dollhouse at which point they can find it immediately.
+* The stairs are heavily cobwebbed and reduce visibility by 5 feet
+* The basement that this leads to has no light and requires a light source unless players have darkvision
+* Leads to area 22
 
 # Dungeon B1
-## Area 22
+## Area 22 - Dungeon level access
 
 ## Area 23
 
