@@ -104,9 +104,12 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 # Third Floor
 ## Area 11 - Balcony
 * Balcony is dusty and has a suit of black plate armor next to it
-* The armor becomes a suit of **animated armor** when a character gets within 5 feet of it
+* The armor becomes a suit of **animated armor** when a character gets within 5 feet of it and fights until destroyed
+* Oil lamps are on the wall and there are carvings of trees, leaves, and tiny critters. A **DC 12 Perception check** reveals there are corpses hanging from the trees
 
-## Area 12
+## Area 12 - Master Suite
+* Doors to this area have stained glass depictions of windmills
+* **A** - Drapes cover the windows, see page 214 for a description of other furniture. 
 
 ## Area 13
 
