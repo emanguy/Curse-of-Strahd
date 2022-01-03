@@ -128,7 +128,10 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 
 ## Area 15 - Nusemaid's suite
 * **A** - Dusty bedroom
-  * Unless she was a
+  * This used to belong to the nursemaid. She had an affair with Gustav and is the mother of the stillborn baby Walter. She was then killed by the cult
+  * Unless she was already defeated in the storage room in the attic the specter of the nursemaid haunts the bedroom and attacks anyone who tries to open the nursery
+    * She looks like a skeletally thin, terrified young woman
+  * Has a big bed, two end tables, and an empty wardrobe. There's a big mirror too whose frame is carved to look like 
 * **B** - Nursery
 * **C** - Balcony
 
