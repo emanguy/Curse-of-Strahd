@@ -10,11 +10,14 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * They don't know what the monster looks like
 * Their parents keep the monster locked in the basement
 * There's a baby in the third floor nursery
+* They saw [[Asterion Tolger]] and [[Asterion's Master]] enter the house once before
 
 # The Dursts
 * Gustav and Elizabeth - Parents
 * Rose and Thorn - Children
 * Walter - Baby
+
+# Ending and Escape
 
 # First Floor
 ## Area 1 - Gate and foyer
@@ -56,7 +59,8 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * Carvings of dancing children in the doors, **DC 12 Perception** reveals the children aren't playing, they're fighting off bats
 * Cold draft comes down the red marble stairs from the 3rd floor
 
-## Area 7
+## Area 7 - Servants' Quarters
+
 
 ## Area 8
 
@@ -71,3 +75,54 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 
 ## Area 13
 
+## Area 14
+
+## Area 15
+
+# Attic
+
+## Area 16
+
+## Area 17
+
+## Area 18
+
+## Area 19
+
+## Area 20
+
+## Area 21
+
+# Dungeon B1
+## Area 22
+
+## Area 23
+
+## Area 24
+
+## Area 25
+
+## Area 26
+
+## Area 27
+
+## Area 28
+
+## Area 29
+
+## Area 30
+
+## Area 31
+
+## Area 32
+
+## Area 33
+
+## Area 34
+
+# Dungeon B2
+## Area 35
+
+## Area 36
+
+## Area 37
