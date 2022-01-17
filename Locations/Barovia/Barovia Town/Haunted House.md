@@ -256,7 +256,28 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * There are some candlesticks at the corners whose candles are fully melted.
 
 ## Area 34 - Cult Leaders' Quarters
-* 
+
+
+### Treasure
+* In an open crate there are 30 torches and a leather sack with 15 candles inside.
+* In the footlocker at the bottom of the bed there are:
+  * A cloak of protection
+  * 4 potions of healing
+  * A chain shirt
+  * A mess kit
+  * A flask of alchemists' fire
+  * A bullseye lantern
+  * A set of thieves' tools
+  * A spellbook containing the following spells:
+    * Disguise self
+    * Identify
+    * Mage armor
+    * Magic missile
+    * Protection from evil and good
+    * Darkvision
+    * Hold person
+    * Invisibility
+    * Magic weapon
 
 # Dungeon B2
 ## Area 35
