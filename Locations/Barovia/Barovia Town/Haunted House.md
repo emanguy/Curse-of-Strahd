@@ -292,7 +292,13 @@ Rose and Thorn are illusions created by the house who try to lure the characters
   * 8-inch-diameter varnished orb made from a nothic eye
   * Aspergillum made from bone
   * Cloak made from ghoul skin
-  * Dessicated frog lashed
+  * Dessicated frog lashed to a stick (could be mistaken for a wand of polymorph)
+  * Bag of bat poop
+  * Hag's severed finger
+  * 6 inch tall figure of a mummy
+  * Iron pendant of a devil face
+  * Shrunken head of a halfling
+  * Small wooden coffer with a dire wolf tongue inside
 
 ## Area 36
 
