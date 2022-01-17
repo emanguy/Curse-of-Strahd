@@ -224,13 +224,20 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * Trigger for [[Asterion's Master]]
 
 ## Area 28 - Larder
-* Approaching within 5 feet of here triggers an encounter with a **Grick**. If a character's passive perception is under 12
+* Approaching within 5 feet of here triggers an encounter with a **Grick**. If a character's **passive perception is under 12** they are surprised.
+* Nothing else here besides some sloppy remains of whatever the Grick was snacking on
 
-## Area 29
+## Area 29 - Ghoulish Encounter
+* Chanting gets louder here
+* When the players reach the center of the corridor 4 **Ghouls** (former cultists) appear on the spots marked with an "X" and attack the party
+* Trigger for [[Asterion's Master]]
 
-## Area 30
+## Area 30 - Stairs Down
+* The chanting is definitely coming from down here.
+* Descends to the Reliquary, area 35
 
-## Area 31
+## Area 31 - Darklord's Shrine
+* Full of moldy skeletons 
 
 ## Area 32
 
