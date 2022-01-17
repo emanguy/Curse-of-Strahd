@@ -299,8 +299,15 @@ Rose and Thorn are illusions created by the house who try to lure the characters
   * Iron pendant of a devil face
   * Shrunken head of a halfling
   * Small wooden coffer with a dire wolf tongue inside
-* 2 doors here - one goes through a portcullis into some murky water and the other leads into
+* 2 doors here - one goes through a portcullis into some murky water and the other leads into the prisons
 
-## Area 36
+## Area 36 - Prison
+* Victims used to be shackled here and some of their bones remain
+* There's a secret door that leads into the ritual chamber (area 38) that can be detected with a **DC 15 Perception check**
+
+### Treasure
+* 
 
 ## Area 37
+
+## Area 38
