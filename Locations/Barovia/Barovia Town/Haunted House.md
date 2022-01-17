@@ -254,6 +254,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * There's a chandelier above the table in this room.
 * On the table there are a couple of clay flagons and a clay jug.
 * There are some candlesticks at the corners whose candles are fully melted.
+* Trigger for [[Asterion's Master]]
 
 ## Area 34 - Cult Leaders' Quarters
 * If someone tries to remove stuff from the footlocker the **ghasts** of Gustav and Elizabeth burst from behind the walls marked with "X" on the map
@@ -306,8 +307,10 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * There's a secret door that leads into the ritual chamber (area 38) that can be detected with a **DC 15 Perception check**
 
 ### Treasure
-* 
+* In the cell marked with an "X" there's a skeleton with a black robe hanging from some shackles. He has a 25gp gold ring on his finger
 
-## Area 37
+## Area 37 - Portcullis
+* The Portcullis is closed and cannot be forced open without a **DC 20 Athletics Check**. It can normally be opened with a wheel embedded in the wall in the Ritual Chamber (area 38)
 
-## Area 38
+## Area 38 - Ritual Chamber
+* The chanting mysteriously stops
