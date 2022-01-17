@@ -4,3 +4,4 @@
   * The **Cult Initiates' Quarters** (Area 24) where he will remember waking up
   * Either of the two areas where the party can finally determine where the chanting is coming from, where Asterion will remember he was lead but can make a **DC 12 History Check** to determine he was being controlled by the ghost of Elizabeth Durst
   * In the **Dining Room** (Area 27) Asterion can find a shoulder plate with the symbol of Mystra on it among the bones
+* Asterion's master was originally an adventurer brought in by the [[Vistani]], and his death is what caused [[Strahd]] to come and destroy the [[Strahd Cult]] lurking at the death house

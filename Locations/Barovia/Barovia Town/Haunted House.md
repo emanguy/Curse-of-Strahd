@@ -237,7 +237,11 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * Descends to the Reliquary, area 35
 
 ## Area 31 - Darklord's Shrine
-* Full of moldy skeletons 
+* Full of moldy skeletons hanging from shackles
+* There's a statue in here of a deathly thin man wearing a dark cloak. He pets a wolf and holds a gray orb
+  * It's a statue of Strahd. The cultists want dark secrets from him and want to sacrifice people to him to do that.
+  * If a player tries to take the orb, 5 **shadows** of former cultists leap out and attack the party.
+* 
 
 ## Area 32
 
