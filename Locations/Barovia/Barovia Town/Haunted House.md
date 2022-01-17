@@ -186,7 +186,12 @@ Rose and Thorn are illusions created by the house who try to lure the characters
   * They can't figure out where it's coming from until they get to the **Hidden spike pit** (area 26) or the **Ghoulish Encounter** area (area 29) and can't make out the words till they get to the **Reliquary** (area 35)
 
 ## Area 23 - Family Crypts
-* The crypts are covered by stone slabs that require a **D
+* The crypts are covered by stone slabs that require a **DC 15 Athletics Check** and using tools like crowbars give advantage on the check
+* **A** - Empty crypt - It's already open and empty
+* **B** - Walter's crypt - This one is also open and the slab nearby says **Walter Durst** on it
+* **C** - Gustav's crypt - Gustav's name is etched. The coffin is empty.
+* **D** - Elizabeth's crypt - Elizabeth's name is etched. The coffin is empty, and a **Swarm of Insects** (centipedes) bursts out of the wall and attacks if the coffin is disturbed
+* **E** - Rose's crypt - Rosa 
 
 ## Area 24
 
