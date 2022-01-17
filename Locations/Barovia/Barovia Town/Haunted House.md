@@ -209,7 +209,10 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * **D** - Ivory hairbrush with silver bristles worth 25gp
 * **E** - Silvered shortsword worth 110gp
 
-## Area 26
+## Area 26 - Hidden Spike Pit
+* Chanting gets louder here
+* **DC 15 Perception check** reveals a suspicious lack of footprints in this corridor
+* Looking for traps will reveal the spike pit (5 ft long, 10 ft deep) under a thin layer of dirt
 
 ## Area 27
 
