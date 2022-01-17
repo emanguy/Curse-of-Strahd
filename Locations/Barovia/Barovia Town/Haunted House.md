@@ -196,6 +196,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 
 ## Area 24 - Cult Initiates' Quarters
 * There's a wooden table in here as well as 4 chairs. There are also several alcoves in here with moldy straw pallets inside.
+* Trigger for [[Asterion's Master]]
 
 ## Area 25 - Well and Cultist Quarters
 * Well here is 4 feet wide, has a 3 foot stone lip, and descends 30 feet down into a cistern. The bucket, rope, and pulley are all still here and working
@@ -214,12 +215,16 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * **DC 15 Perception check** reveals a suspicious lack of footprints in this corridor
 * Looking for traps will reveal the spike pit (5 ft long, 10 ft deep) under a thin layer of dirt
   * If the players fall in, they take **1d6 bludgeoning (fall) +2d10 piercing (spikes)** damage 
+* Trigger for [[Asterion's Master]]
 
 ## Area 27 - Dining Hall
 * Wooden table with benches
 * Moldy bones all over the floor
+* There's a darkened alcove on the right side of the map where the characters can hear crunching and slurping (the Larder, Area 28)
+* Trigger for [[Asterion's Master]]
 
-## Area 28
+## Area 28 - Larder
+* Approaching within 5 feet of here triggers an encounter with a **Grick**. If a character's passive perception is under 12
 
 ## Area 29
 
