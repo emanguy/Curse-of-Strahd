@@ -256,11 +256,13 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * There are some candlesticks at the corners whose candles are fully melted.
 
 ## Area 34 - Cult Leaders' Quarters
-
+* If someone tries to remove stuff from the footlocker the **ghasts** of Gustav and Elizabeth burst from behind the walls marked with "X" on the map
+  * For flavor we'll say each wall has a portrait of each respective ghast and they burst from them
+  * The ghasts wear tattered black robes
 
 ### Treasure
 * In an open crate there are 30 torches and a leather sack with 15 candles inside.
-* In the footlocker at the bottom of the bed there are:
+* In the footlocker at the bottom of the bed are items stolen from the cult's victims. There are:
   * A cloak of protection
   * 4 potions of healing
   * A chain shirt
@@ -268,6 +270,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
   * A flask of alchemists' fire
   * A bullseye lantern
   * A set of thieves' tools
+  * A symbol of Mystra ([[Asterion's Master]])
   * A spellbook containing the following spells:
     * Disguise self
     * Identify
@@ -280,7 +283,8 @@ Rose and Thorn are illusions created by the house who try to lure the characters
     * Magic weapon
 
 # Dungeon B2
-## Area 35
+## Area 35 - Reliquary
+* Once the characters enter this area they'll be able to make out that the ghostly chant is saying
 
 ## Area 36
 
