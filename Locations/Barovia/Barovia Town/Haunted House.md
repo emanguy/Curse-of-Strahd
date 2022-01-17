@@ -200,7 +200,14 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 ## Area 25 - Well and Cultist Quarters
 * Well here is 4 feet wide, has a 3 foot stone lip, and descends 30 feet down into a cistern. The bucket, rope, and pulley are all still here and working
 * There are beds made of moldy straw here and locked footlockers here that used to belong to senior cultists
-* 
+  * The footlockers can be unlocked with a **DC 15 Dexterity Check** and thieves' tools
+
+### Treasure
+* **A** - 11gp and 60sp in a pouch made from human skin
+* **B** - Three moss agates worth 10 gp each in a folded piece of black cloth
+* **C** - Eyepatch with a carnelian sewn into it. The carnelian is worth 50gp.
+* **D** - Ivory hairbrush with silver bristles worth 25gp
+* **E** - Silvered shortsword worth 110gp
 
 ## Area 26
 
