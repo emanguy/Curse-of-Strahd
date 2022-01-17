@@ -313,4 +313,5 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * The Portcullis is closed and cannot be forced open without a **DC 20 Athletics Check**. It can normally be opened with a wheel embedded in the wall in the Ritual Chamber (area 38)
 
 ## Area 38 - Ritual Chamber
-* The chanting mysteriously stops
+* The chanting mysteriously stops when the characters walk in.
+* 
