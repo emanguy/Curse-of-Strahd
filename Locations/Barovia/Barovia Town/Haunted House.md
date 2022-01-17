@@ -181,8 +181,12 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 
 # Dungeon B1
 ## Area 22 - Dungeon level access
+* Wooden spiral staircase ends and leads into a tunnel
+* When the characters arrive they start hearing chanting
+  * They can't figure out where it's coming from until they get to the **Hidden spike pit** (area 26) or the **Ghoulish Encounter** area (area 29) and can't make out the words till they get to the **Reliquary** (area 35)
 
-## Area 23
+## Area 23 - Family Crypts
+* The crypts are covered by stone slabs that require a **D
 
 ## Area 24
 
