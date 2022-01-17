@@ -199,7 +199,8 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 
 ## Area 25 - Well and Cultist Quarters
 * Well here is 4 feet wide, has a 3 foot stone lip, and descends 30 feet down into a cistern. The bucket, rope, and pulley are all still here and working
-* There are beds a
+* There are beds made of moldy straw here and locked footlockers here that used to belong to senior cultists
+* 
 
 ## Area 26
 
