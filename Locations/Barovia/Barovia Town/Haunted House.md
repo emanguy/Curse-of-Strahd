@@ -299,6 +299,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
   * Iron pendant of a devil face
   * Shrunken head of a halfling
   * Small wooden coffer with a dire wolf tongue inside
+* 2 doors here - one goes through a portcullis into some murky water and the other leads into
 
 ## Area 36
 
