@@ -159,7 +159,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 
 ## Area 20 - Children's room
 * Bricked up window, children's beds, toy chest w/ windmills, dollhouse that's a replica of the house
-* Rose and Thorn's remains are in the middle of the floor and Thorn is cradling his doll
+* Rose and Thorn's remains are in the middle of the floor and Thorn's are cradling his doll
 * Inspecting the dollhouse and passing a **DC 15 Perception check** reveals all hidden doors
 * Disturbing the dollhouse or the chest makes Rose and Thorn appear
   * They don't like their stuff being touched but aren't aggressive
@@ -191,11 +191,13 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * **B** - Walter's crypt - This one is also open and the slab nearby says **Walter Durst** on it
 * **C** - Gustav's crypt - Gustav's name is etched. The coffin is empty.
 * **D** - Elizabeth's crypt - Elizabeth's name is etched. The coffin is empty, and a **Swarm of Insects** (centipedes) bursts out of the wall and attacks if the coffin is disturbed
-* **E** - Rose's crypt - Rosa 
+* **E** - Rose's crypt - Rosavalda's name is etched. The coffin is empty. If rose's remains are placed inside she finds peace and comes out of a character if posessed.
+* **F** -  Thorn's crypt - Thornboldt's name is etched. The coffin is empty. If thorn's remains are placed inside the ghost finds peace and comes out of a character if posessed.
 
-## Area 24
+## Area 24 - Cult Initiates' Quarters
+* There's a wooden table in here as well as 4 chairs. There are also several alcoves in here with moldy straw pallets inside.
 
-## Area 25
+## Area 25 - Well and Cultist 
 
 ## Area 26
 
