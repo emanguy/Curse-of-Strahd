@@ -39,7 +39,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
   * North cabinet contains the following loot:
     * Small box containing a deck of cards
     * Wine glasses
-  * There is a trapdoor in the corner of the room which is supernaturally hidden by the house until the players reach **area 32**, the Underside
+  * There is a trapdoor in the corner of the room which is supernaturally hidden by the house until the players reach **area 32**, the Hidden Trapdoor from the Dungeon B1 level
 
 ## Area 4 - Kitchen and pantry
 * **A** - Kitchen - tidy, has dishes and standard kitchen stuff like pots and pans and stuff. For a full list see page **213**.
@@ -232,7 +232,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * When the players reach the center of the corridor 4 **Ghouls** (former cultists) appear on the spots marked with an "X" and attack the party
 * Trigger for [[Asterion's Master]]
 
-## Area 30 - Stairs Down
+## Area 30 - Stairs DownCurseofStrahd_DeathHouse_DM.jpg
 * The chanting is definitely coming from down here.
 * Descends to the Reliquary, area 35
 
@@ -241,9 +241,13 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * There's a statue in here of a deathly thin man wearing a dark cloak. He pets a wolf and holds a gray orb
   * It's a statue of Strahd. The cultists want dark secrets from him and want to sacrifice people to him to do that.
   * If a player tries to take the orb, 5 **shadows** of former cultists leap out and attack the party.
-* 
+* There's a secret door at the top of this room which leads to the bottom of the trapdoor leading into the den. It can be detected by a **DC 10 Perception Check**.
 
-## Area 32
+### Treasure
+* The orb is worth 25 gp and can be used as an arcane focus.
+
+## Area 32 - Hidden Trapdoor
+* The trapdoor into the den can only be opened from this side but once opened the 
 
 ## Area 33
 
