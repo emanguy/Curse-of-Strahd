@@ -284,7 +284,15 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 
 # Dungeon B2
 ## Area 35 - Reliquary
-* Once the characters enter this area they'll be able to make out that the ghostly chant is saying
+* Once the characters enter this area they'll be able to make out that the ghostly chant is saying "He is the Ancient. He is the land."
+* There are "cult relics" in little niches along the walls:
+  * Small mummified yellow hand with sharp claws (goblin hand) on a loop of rope
+  * Knife carved from human bone
+  * Dagger with a rat skull in the pommel
+  * 8-inch-diameter varnished orb made from a nothic eye
+  * Aspergillum made from bone
+  * Cloak made from ghoul skin
+  * Dessicated frog lashed
 
 ## Area 36
 
