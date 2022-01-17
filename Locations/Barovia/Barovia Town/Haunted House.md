@@ -202,7 +202,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * There are beds made of moldy straw here and locked footlockers here that used to belong to senior cultists
   * The footlockers can be unlocked with a **DC 15 Dexterity Check** and thieves' tools
 
-### Treasure
+### Treasure in footlockers
 * **A** - 11gp and 60sp in a pouch made from human skin
 * **B** - Three moss agates worth 10 gp each in a folded piece of black cloth
 * **C** - Eyepatch with a carnelian sewn into it. The carnelian is worth 50gp.
@@ -213,8 +213,11 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * Chanting gets louder here
 * **DC 15 Perception check** reveals a suspicious lack of footprints in this corridor
 * Looking for traps will reveal the spike pit (5 ft long, 10 ft deep) under a thin layer of dirt
+  * If the players fall in, they take **1d6 bludgeoning (fall) +2d10 piercing (spikes)** damage 
 
-## Area 27
+## Area 27 - Dining Hall
+* Wooden table with benches
+* Moldy bones all over the floor
 
 ## Area 28
 
