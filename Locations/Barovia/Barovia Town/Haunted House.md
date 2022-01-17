@@ -247,11 +247,16 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * The orb is worth 25 gp and can be used as an arcane focus.
 
 ## Area 32 - Hidden Trapdoor
-* The trapdoor into the den can only be opened from this side but once opened the 
+* The trapdoor into the den can only be opened from this side but once opened the party can go back and forth through it
 
-## Area 33
+## Area 33 - Cult Leaders' Den
+* The bottom right door is a mimic. If someone tries to open the door the mimic attacks and their hand gets stuck to it. It will also attack if it sustains damage.
+* There's a chandelier above the table in this room.
+* On the table there are a couple of clay flagons and a clay jug.
+* There are some candlesticks at the corners whose candles are fully melted.
 
-## Area 34
+## Area 34 - Cult Leaders' Quarters
+* 
 
 # Dungeon B2
 ## Area 35
