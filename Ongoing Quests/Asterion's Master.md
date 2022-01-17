@@ -6,4 +6,8 @@
   * In the **Dining Room** (Area 27) Asterion can find a shoulder plate with the symbol of Mystra on it among the bones
   * In the **Cult Leaders' Den** (Area 33) Asterion can find a letter from the Vallaki branch of the cult where it managed to live on. It says the following:
 
+> Grand Lord Master Durst,
+>
+> We have successfully set down in the nearby town of Vallaki. We shall continue to spread the promise of great hidden knowledge that our dark lord will surely bestow upon us
+
 * Asterion's master was originally an adventurer brought in by the [[Vistani]], and his death is what caused [[Strahd]] to come and destroy the [[Strahd Cult]] lurking at the death house
