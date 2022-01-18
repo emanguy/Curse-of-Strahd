@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ongoing Quests/Corvyn's Missing Parents.md",
+            "file": "Ongoing Quests/Quest Template.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ongoing Quests/Corvyn's Missing Parents.md"
+                "file": "Ongoing Quests/Quest Template.md"
               }
             }
           }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ongoing Quests/Corvyn's Missing Parents.md",
+                "file": "Ongoing Quests/Quest Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +141,8 @@
   },
   "active": "6cfe4931d9dfadf8",
   "lastOpenFiles": [
+    "Ongoing Quests/Quest Template.md",
+    "Ongoing Quests/P'ome's family dishonor.md",
     "Ongoing Quests/Corvyn's Missing Parents.md",
     "Characters/Players/Corvyn Folker.md",
     "Characters/Players/Bam Booty.md",
@@ -148,8 +150,6 @@
     "Ongoing Quests/Reuniting with Bam's Fam.md",
     "Locations/Barovia/Barovia (Country).md",
     "Characters/NPCs/Wham Booty.md",
-    "Characters/NPCs/Ismark.md",
-    "Ongoing Quests/P'ome's family dishonor.md",
-    "Ongoing Quests/Asterion's Master.md"
+    "Characters/NPCs/Ismark.md"
   ]
 }
