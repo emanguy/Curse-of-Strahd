@@ -5,7 +5,7 @@
 ## What's happened so far
 * The players were roped into helping the [[Vistani]] do something about [[Strahd]]
 * The players had a Tarokka Reading done by [[Lady Jairam]]:
-![](https://lh4.googleusercontent.com/n4UfnO2cwOTWvlpAbWyPFeyUHN8JsucIBCZH9yVrfz-B05Ovp9b1UJMhxFOcSz2Lybl7bGEOM0iz5TMTxUGlo8fW_NIXxXKITse-VO8BQ8U10yxBYz2tXm56wRQaXXVhbcfl2DxE)
+![[TarokkaDrawing.jpg]]
 
 1.  “This card tells of history. Knowledge of the ancient will help you better understand your enemy.”  
       
@@ -25,5 +25,5 @@
     
 5.  “Your enemy is a creature of darkness, whose powers are beyond mortality. This card will lead you to him!”  
       
-    > King of Diamonds - The Broken One - He haunts the tomb of the man he envied above all.
+  > King of Diamonds - The Broken One - He haunts the tomb of the man he envied above all.
     
