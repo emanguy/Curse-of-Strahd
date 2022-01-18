@@ -1,5 +1,5 @@
 # Asterion's Master
-
+## Story Beats
 * When Asterion gets into the basement of the [[Haunted House]] he will start regaining memories in the following places:
   * The **Cult Initiates' Quarters** (Area 24) where he will remember waking up
   * Either of the two areas where the party can finally determine where the chanting is coming from, where Asterion will remember he was lead but can make a **DC 12 History Check** to determine he was being controlled by the ghost of Elizabeth Durst
@@ -15,3 +15,6 @@
 > - F.W.
 
 * Asterion's master was originally an adventurer brought in by the [[Vistani]], and his death is what caused [[Strahd]] to come and destroy the [[Strahd Cult]] lurking at the death house
+
+## What's happened so far
+* Asterion acquired a recording of his master's death from the wizard [[Delfen]] in [[Daggerford]]
