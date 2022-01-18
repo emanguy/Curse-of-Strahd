@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ongoing Quests/Kragg's Musical Journey.md",
-            "mode": "source",
+            "file": "Locations/Barovia/Barovia Town/Haunted House.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ongoing Quests/Kragg's Musical Journey.md"
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md"
               }
             }
           }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ongoing Quests/Kragg's Musical Journey.md",
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,15 +141,15 @@
   },
   "active": "6cfe4931d9dfadf8",
   "lastOpenFiles": [
+    "Locations/Barovia/Barovia Town/Haunted House.md",
+    "Characters/Players/Bam Booty.md",
+    "Characters/Players/Asterion Tolger.md",
+    "Characters/Players/Kragg Thegrim.md",
     "Ongoing Quests/Kragg's Musical Journey.md",
     "Ongoing Quests/Asterion's Master.md",
     "Ongoing Quests/P'ome's family dishonor.md",
     "obsidian_data/Templates/Quest Template.md",
     "Ongoing Quests/Corvyn's Missing Parents.md",
-    "Characters/Players/Corvyn Folker.md",
-    "Characters/Players/Bam Booty.md",
-    "Characters/Players/Asterion Tolger.md",
-    "Ongoing Quests/Reuniting with Bam's Fam.md",
-    "Locations/Barovia/Barovia (Country).md"
+    "Characters/Players/Corvyn Folker.md"
   ]
 }
