@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/NPCs/Wham Booty.md",
+            "file": "Ongoing Quests/Reuniting with Bam's Fam.md",
             "mode": "source",
             "source": false
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Wham Booty.md"
+                "file": "Ongoing Quests/Reuniting with Bam's Fam.md"
               }
             }
           }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Wham Booty.md",
+                "file": "Ongoing Quests/Reuniting with Bam's Fam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,9 +142,9 @@
   },
   "active": "6cfe4931d9dfadf8",
   "lastOpenFiles": [
+    "Ongoing Quests/Reuniting with Bam's Fam.md",
     "Characters/NPCs/Wham Booty.md",
     "Characters/NPCs/Ismark.md",
-    "Ongoing Quests/Reuniting with Bam's Fam.md",
     "Ongoing Quests/P'ome's family dishonor.md",
     "Ongoing Quests/Asterion's Master.md",
     "Ongoing Quests/Corvyn's Missing Parents.md",
