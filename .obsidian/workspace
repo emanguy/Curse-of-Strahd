@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ongoing Quests/Reuniting with Bam's Fam.md",
+            "file": "Characters/NPCs/Wham Booty.md",
             "mode": "source",
             "source": false
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ongoing Quests/Reuniting with Bam's Fam.md"
+                "file": "Characters/NPCs/Wham Booty.md"
               }
             }
           }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ongoing Quests/Reuniting with Bam's Fam.md",
+                "file": "Characters/NPCs/Wham Booty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +142,8 @@
   },
   "active": "6cfe4931d9dfadf8",
   "lastOpenFiles": [
+    "Characters/NPCs/Wham Booty.md",
+    "Characters/NPCs/Ismark.md",
     "Ongoing Quests/Reuniting with Bam's Fam.md",
     "Ongoing Quests/P'ome's family dishonor.md",
     "Ongoing Quests/Asterion's Master.md",
@@ -149,8 +151,6 @@
     "Characters/Players/Bam Booty.md",
     "Characters/Players/Asterion Tolger.md",
     "Characters/Players/P'ome Gnossum.md",
-    "Characters/Players/Kragg Thegrim.md",
-    "Characters/Players/Corvyn Folker.md",
-    "Locations/Barovia/Barovia Town/Haunted House.md"
+    "Characters/Players/Kragg Thegrim.md"
   ]
 }
