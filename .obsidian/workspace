@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ongoing Quests/Reuniting with Bam's Fam.md",
+            "file": "Ongoing Quests/Corvyn's Missing Parents.md",
             "mode": "source",
             "source": false
           }
@@ -80,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a038c8fea330297c",
@@ -94,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ongoing Quests/Reuniting with Bam's Fam.md"
+                "file": "Ongoing Quests/Corvyn's Missing Parents.md"
               }
             }
           }
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ongoing Quests/Reuniting with Bam's Fam.md",
+                "file": "Ongoing Quests/Corvyn's Missing Parents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,15 +141,15 @@
   },
   "active": "6cfe4931d9dfadf8",
   "lastOpenFiles": [
+    "Ongoing Quests/Corvyn's Missing Parents.md",
+    "Characters/Players/Corvyn Folker.md",
+    "Characters/Players/Bam Booty.md",
+    "Characters/Players/Asterion Tolger.md",
     "Ongoing Quests/Reuniting with Bam's Fam.md",
+    "Locations/Barovia/Barovia (Country).md",
     "Characters/NPCs/Wham Booty.md",
     "Characters/NPCs/Ismark.md",
     "Ongoing Quests/P'ome's family dishonor.md",
-    "Ongoing Quests/Asterion's Master.md",
-    "Ongoing Quests/Corvyn's Missing Parents.md",
-    "Characters/Players/Bam Booty.md",
-    "Characters/Players/Asterion Tolger.md",
-    "Characters/Players/P'ome Gnossum.md",
-    "Characters/Players/Kragg Thegrim.md"
+    "Ongoing Quests/Asterion's Master.md"
   ]
 }
