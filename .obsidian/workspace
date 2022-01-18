@@ -7,12 +7,8 @@
         "id": "6cfe4931d9dfadf8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/Barovia/Barovia Town/Haunted House.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -60,42 +56,31 @@
     "type": "split",
     "children": [
       {
-        "id": "59378f1d6c886cb0",
+        "id": "408f0675a9165601",
         "type": "tabs",
-        "dimension": 33.30029732408325,
+        "dimension": 33.16115702479338,
         "children": [
           {
-            "id": "8f4dc45e83de88e3",
+            "id": "67c8216d1fdbd900",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "b4a803539d46bb1c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a038c8fea330297c",
         "type": "tabs",
-        "dimension": 27.35381565906839,
+        "dimension": 29.75206611570248,
         "children": [
           {
             "id": "c148f00bbf92aea2",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Locations/Barovia/Barovia Town/Haunted House.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -103,7 +88,7 @@
       {
         "id": "154db812d1f4cdf4",
         "type": "tabs",
-        "dimension": 39.345887016848366,
+        "dimension": 37.086776859504134,
         "children": [
           {
             "id": "1e373c1578de3d9f",
@@ -122,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
