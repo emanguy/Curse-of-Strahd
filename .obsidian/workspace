@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Barovia Town/Haunted House.md",
-            "mode": "preview",
+            "file": "Ongoing Quests/The Hunt for Strahd.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Haunted House.md"
+                "file": "Ongoing Quests/The Hunt for Strahd.md"
               }
             }
           }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
+                "file": "Ongoing Quests/The Hunt for Strahd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +141,7 @@
   },
   "active": "6cfe4931d9dfadf8",
   "lastOpenFiles": [
+    "Ongoing Quests/The Hunt for Strahd.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
     "Characters/Players/Bam Booty.md",
     "Characters/Players/Asterion Tolger.md",
@@ -149,7 +150,6 @@
     "Ongoing Quests/Asterion's Master.md",
     "Ongoing Quests/P'ome's family dishonor.md",
     "obsidian_data/Templates/Quest Template.md",
-    "Ongoing Quests/Corvyn's Missing Parents.md",
-    "Characters/Players/Corvyn Folker.md"
+    "Ongoing Quests/Corvyn's Missing Parents.md"
   ]
 }
