@@ -4,85 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5c4719df0888b253",
-        "type": "split",
-        "children": [
-          {
-            "id": "0054dbd4df5f33c3",
-            "type": "leaf",
-            "dimension": 37.618699780861945,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c74c7438adb80fb4",
-            "type": "leaf",
-            "dimension": 62.381300219138055,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+        "id": "6cfe4931d9dfadf8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Characters/Players/Bam Booty.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "756314d7e17015d0",
-        "type": "split",
-        "children": [
-          {
-            "id": "5a8595978ba8d37e",
-            "type": "leaf",
-            "dimension": 45.28853177501826,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Barovia/Barovia (Country).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a2ac69b83c2b467",
-            "type": "split",
-            "dimension": 54.71146822498174,
-            "children": [
-              {
-                "id": "eb910c8cdf3227a0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "176752a686d094be",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ],
-            "direction": "vertical"
-          }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -129,24 +60,33 @@
     "type": "split",
     "children": [
       {
-        "id": "a038c8fea330297c",
+        "id": "59378f1d6c886cb0",
         "type": "tabs",
-        "dimension": 26.59870250231696,
+        "dimension": 33.30029732408325,
         "children": [
           {
-            "id": "b50f42d6b8b86707",
+            "id": "8f4dc45e83de88e3",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "b4a803539d46bb1c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "eac3e8cee37be832",
+        "id": "a038c8fea330297c",
         "type": "tabs",
-        "dimension": 26.32066728452271,
+        "dimension": 27.35381565906839,
         "children": [
           {
             "id": "c148f00bbf92aea2",
@@ -154,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Haunted House.md"
+                "file": "Characters/Players/Bam Booty.md"
               }
             }
           }
@@ -163,7 +103,7 @@
       {
         "id": "154db812d1f4cdf4",
         "type": "tabs",
-        "dimension": 47.08063021316033,
+        "dimension": 39.345887016848366,
         "children": [
           {
             "id": "1e373c1578de3d9f",
@@ -182,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
+                "file": "Characters/Players/Bam Booty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,17 +140,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c74c7438adb80fb4",
+  "active": "6cfe4931d9dfadf8",
   "lastOpenFiles": [
-    "Locations/Barovia/Barovia Town/Haunted House.md",
-    "Ongoing Quests/Asterion's Master.md",
-    "Ongoing Quests/P'ome's family dishonor.md",
-    "Characters/Players/Asterion Tolger.md",
-    "Characters/NPCs/Groups/Strahd Cult.md",
-    "Locations/Barovia/Barovia Town/Barovia Town.md",
-    "Locations/Barovia/Barovia (Country).md",
     "Characters/Players/Bam Booty.md",
+    "Characters/Players/Asterion Tolger.md",
+    "Characters/Players/P'ome Gnossum.md",
+    "Characters/Players/Kragg Thegrim.md",
     "Characters/Players/Corvyn Folker.md",
-    "Characters/Players/Kragg Thegrim.md"
+    "Ongoing Quests/Asterion's Master.md",
+    "Locations/Barovia/Barovia Town/Haunted House.md",
+    "Locations/Barovia/Barovia Town.md",
+    "Characters/NPCs/Ismark.md",
+    "Characters/NPCs/Groups/Vistani.md"
   ]
 }
