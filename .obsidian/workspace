@@ -7,8 +7,12 @@
         "id": "6cfe4931d9dfadf8",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Ongoing Quests/Reuniting with Bam's Fam.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -73,14 +77,16 @@
       {
         "id": "a038c8fea330297c",
         "type": "tabs",
-        "dimension": 29.75206611570248,
+        "dimension": 29.752066115702476,
         "children": [
           {
             "id": "c148f00bbf92aea2",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ongoing Quests/Reuniting with Bam's Fam.md"
+              }
             }
           }
         ]
@@ -107,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ongoing Quests/Reuniting with Bam's Fam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,15 +133,15 @@
   },
   "active": "6cfe4931d9dfadf8",
   "lastOpenFiles": [
+    "Ongoing Quests/Reuniting with Bam's Fam.md",
+    "Characters/Players/Bam Booty.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
+    "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Ongoing Quests/The Hunt for Strahd.md",
     "obsidian_data/Templates/Session Notes Template.md",
-    "Characters/Players/Bam Booty.md",
     "Characters/Players/Asterion Tolger.md",
     "Characters/Players/Kragg Thegrim.md",
     "Ongoing Quests/Kragg's Musical Journey.md",
-    "Ongoing Quests/Asterion's Master.md",
-    "Ongoing Quests/P'ome's family dishonor.md",
-    "obsidian_data/Templates/Quest Template.md"
+    "Ongoing Quests/Asterion's Master.md"
   ]
 }
