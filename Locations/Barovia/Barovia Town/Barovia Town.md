@@ -4,8 +4,11 @@
 
 ## Locations
 * **E1** - Bildrath's Mercantile. Shop where the [[Vistani]] stop
+  * [[Parriwimple]] works here
 * **E2** - The Blood of the Vine tavern. [[Ismark]] asks for help here to help transport [[Ireena]] to [[Vallaki]].
 * **E3** - Mad Mary's Townhouse. Mad Mary cries in here that her teenage daughter ran away. The house is barricaded and boarded up.
+  * Mad Mary has **Commoner** stats. She's in an upper room crying to herself because her daughter [[Gertruda]] ran away a week ago. Gertruda will later be found in [[Castle Ravenloft]].
+  * The toy she's holding is made by [[Gadof Blinksy]] from [[Vallaki]]. It has a sackcloth dress and a mean look. It used to belong to Mary who then gave it to Gertruda. It has a tag on it that says "Is no fun, is no blinksy!"
 * **E4** - The Burgomaster's Mansion. [[Ireena]] is staying here and will not open the door unless the party can prove they have no affiliation with [[Strahd]]. If the party has [[Ismark]] with them, he will get them into the mansion much easier.
   * The Burgomaster is dead in a coffin inside the mansion. [[Ireena]] will not leave until he's taken to the church cemetery to be buried
   * Apparently wolves and other creatures have been attacking the mansion for a while and the Burgomaster's heart gave out 3 days ago from stress
