@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Morgantha.md",
+                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Morgantha.md"
+                "file": "Locations/Barovia/Barovia Town/Barovia Town.md"
               }
             }
           }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Morgantha.md",
+                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,15 +166,15 @@
   },
   "active": "eb910c8cdf3227a0",
   "lastOpenFiles": [
-    "Locations/Barovia/Barovia Town/Morgantha.md",
     "Locations/Barovia/Barovia Town/Barovia Town.md",
+    "Locations/Barovia/Barovia Town/Morgantha.md",
+    "Locations/Barovia/Barovia (Country).md",
     "Characters/NPCs/Ireena.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
     "Castle Ravenloft.md",
     "Ongoing Quests/Asterion's Master.md",
     "Ongoing Quests/P'ome's family dishonor.md",
     "Characters/Players/Asterion Tolger.md",
-    "Characters/NPCs/Groups/Strahd Cult.md",
-    "Locations/Barovia/Barovia (Country).md"
+    "Characters/NPCs/Groups/Strahd Cult.md"
   ]
 }
