@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Barovia Town/Haunted House.md",
+            "file": "Ongoing Quests/Asterion's Master.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Haunted House.md"
+                "file": "Ongoing Quests/Asterion's Master.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
+                "file": "Ongoing Quests/Asterion's Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,7 @@
   },
   "active": "6cfe4931d9dfadf8",
   "lastOpenFiles": [
+    "Ongoing Quests/Asterion's Master.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
     "Ongoing Quests/The Hunt for Strahd.md",
     "obsidian_data/Templates/Session Notes Template.md",
@@ -140,7 +141,6 @@
     "Characters/Players/Asterion Tolger.md",
     "Characters/Players/Kragg Thegrim.md",
     "Ongoing Quests/Kragg's Musical Journey.md",
-    "Ongoing Quests/Asterion's Master.md",
     "Ongoing Quests/P'ome's family dishonor.md",
     "obsidian_data/Templates/Quest Template.md"
   ]

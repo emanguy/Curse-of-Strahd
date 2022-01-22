@@ -332,6 +332,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 ## Area 38 - Ritual Chamber
 * The chanting mysteriously stops when the characters walk in.
 * The chamber is echoey and there are pillars all around
+* There's a wheel in the wall near the portcullis which can raise it using an action
 * There's a break in the wall opposite the portcullis that leads into the room.
   * On initial investigation it looks like a pile of trash
   * A **DC 15 Nature check** will reveal the fact that it's actually a **shambling mound**
@@ -339,3 +340,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * There's a dais with a bloody altar on top. The altar has pictures of ghouls on the side reaching up and there's a pair of shackles hanging above the altar
   * Exact dimensions can be found on **page 220**
   * The cult would hang people from the shackles and gut them to spill their blood on the altar
+
+## Approaching the Altar
+* When the characters get near the altar 13 apparitions appear on the raised areas which start chanting their chant (He is the Ancient/He is the Land)
+* Trigger for [[Asterion's Master]]
