@@ -111,7 +111,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
   * A will signed by Gustav and Elizabeth which states that in the event of their deaths all their property to Rosavalda and Thornboldt
   * All of this ages but remains intact upon leaving the property
 
-## Area 10 - Conservatory
+## Area 10 - Conservatory (`fas:Fire`)
 * Gossamer drapes cover the windows, there's a brass plated chandelier, a stained glass window shows men, women, and children singing and playing instruments
 * There's a harpsichord and a fireplace which has alabaster dancer figurines on the mantelpiece
   * Closer inspection reveals they are well dressed skeletons
@@ -125,7 +125,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 
 ## Area 12 - Master Suite
 * Doors to this area have stained glass depictions of windmills
-* **A** - Drapes cover the windows, see page **214** for a description of other furniture. There is a fireplace here which has a portrait of Gustav and Elizabeth above it.
+* **A** (`fas:Fire`) - Drapes cover the windows, see page **214** for a description of other furniture. There is a fireplace here which has a portrait of Gustav and Elizabeth above it.
   * One of the two cabinets against the wall has a simple lock which can be picked with a **DC 15 dexterity check**. It contains the following loot:
     * Heavy crossbow
     * Light crossbow
@@ -147,7 +147,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
     * Small box containing a deck of cards
     * Wine glasses
 
-## Area 13 - Bathroom
+## Area 13 - Bathroom (`fas:Fire`)
 * Wooden tub w/ clawed feet, small stove with kettle, barrel under spigot which collects water from a cistern on the roof
 * The plumbing doesn't work
 
