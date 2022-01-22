@@ -32,6 +32,9 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 
 ## Area 3 - Den of wolves
 * Looks like a hunter's den. Fireplace, deer heads on the wall, etc. more detail can be found on page **212**.
+* There is a trapdoor in the corner of the room which is supernaturally hidden by the house until the players reach **area 32**, the Hidden Trapdoor from the Dungeon B1 level
+
+### Treasure
   * One of the two cabinets against the wall has a simple lock which can be picked with a **DC 15 dexterity check**. It contains the following loot:
     * Heavy crossbow
     * Light crossbow
@@ -39,7 +42,6 @@ Rose and Thorn are illusions created by the house who try to lure the characters
   * North cabinet contains the following loot:
     * Small box containing a deck of cards
     * Wine glasses
-  * There is a trapdoor in the corner of the room which is supernaturally hidden by the house until the players reach **area 32**, the Hidden Trapdoor from the Dungeon B1 level
 
 ## Area 4 - Kitchen and pantry
 * **A** - Kitchen - tidy, has dishes and standard kitchen stuff like pots and pans and stuff. For a full list see page **213**.
@@ -89,6 +91,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
   > Your dread lord and master,
   > Strahd von Zarovich
 
+### Treasure
 * The chest also contains the following:
   * Three black books with black leather covers worth 25 gp each
   * Three spell scrolls - *bless, protection from poison. spiritual weapon*
@@ -112,12 +115,26 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 ## Area 12 - Master Suite
 * Doors to this area have stained glass depictions of windmills
 * **A** - Drapes cover the windows, see page **214** for a description of other furniture. There is a fireplace here which has a portrait of Gustav and Elizabeth above it.
-  * The vanity in this room has a jewelry box made of silver and gold worth 75gp on its own. It contains the following:
-    * 3 gold rings worth 25gp each
-    * A thin platinum necklace with a topaz worth 750 gp
+  * One of the two cabinets against the wall has a simple lock which can be picked with a **DC 15 dexterity check**. It contains the following loot:
+    * Heavy crossbow
+    * Light crossbow
+    * 20 bolts for each weapon
+  * North cabinet contains the following loot:
+    * Small box containing a deck of cards
+    * Wine glasses
   * There is a button next to the dumbwaiter which rings the bell in the kitchen
 * **B** - a dusty closet
 * **C** - An outside balcony
+
+### Treasure
+* **Area A**
+  * One of the two cabinets against the wall has a simple lock which can be picked with a **DC 15 dexterity check**. It contains the following loot:
+    * Heavy crossbow
+    * Light crossbow
+    * 20 bolts for each weapon
+  * North cabinet contains the following loot:
+    * Small box containing a deck of cards
+    * Wine glasses
 
 ## Area 13 - Bathroom
 * Wooden tub w/ clawed feet, small stove with kettle, barrel under spigot which collects water from a cistern on the roof
