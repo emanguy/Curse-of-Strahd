@@ -335,3 +335,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * There's a break in the wall opposite the portcullis that leads into the room.
   * On initial investigation it looks like a pile of trash
   * A **DC 15 Nature check** will reveal the fact that it's actually a **shambling mound**
+* Murky water obscures most of the floor and is 2 feet deep
+* There's a dais with a bloody altar on top. The altar has pictures of ghouls on the side reaching up and there's a pair of shackles hanging above the altar
+  * Exact dimensions can be found on **page 220**
+  * The cult would hang people from the shackles and gut them to spill their blood on the altar
