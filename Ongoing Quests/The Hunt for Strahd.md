@@ -10,10 +10,14 @@
 1.  “This card tells of history. Knowledge of the ancient will help you better understand your enemy.”  
       
    > Ace of clubs (1 of stars) - The Transmuter - “Go to a place of dizzying heights, where the stone itself is alive.”  
+
+   (The [[Tome of Strahd]] is in [[Castle Ravenloft]] in the North Tower (area K60))
    
 2.  “This card tells of a powerful force for good and protection, a holy symbol of great hope.”  
       
    > Six of Diamonds (6 of Glyphs) - The Anarchist - “I see walls of bones, a chandelier of bones, and a table of bones -- all that remains of enemies long forgotten.”  
+
+   (The [[Holy Symbol of Ravenkind]] is in [[Castle Ravenloft]] in the Hall of Bones (area K67))
     
 3.  “This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight.”  
       
