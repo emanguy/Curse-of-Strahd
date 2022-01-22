@@ -78,16 +78,19 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 
 ## Area 8 - Library (`fas:Fire`)
 * Red drapes cover the windows, there are tall bookshelves here and a fancy mahogany desk
-  * The desk has the following items
-    * Oil lamp
-    * Jar of ink
-    * Quill pen
-    * Tinderbox
-    * Letter kit (wax candle, 4 sheets of parchment, wooden seal with windmill crest)
-    * In the drawer there's a key to the Children's Room in the attic
+
   * Books cover subjects like history, warfare, alchemy. many are first editions
     * They rot and fall apart if taken from the house
 * There is a secret door behind one of the shelves which can be opened by pulling a blank red book detected by a **DC 13 perception check** which leads to area 9
+
+### Treasure
+* The desk has the following items
+  * Oil lamp
+  * Jar of ink
+  * Quill pen
+  * Tinderbox
+  * Letter kit (wax candle, 4 sheets of parchment, wooden seal with windmill crest)
+  * In the drawer there's a key to the Children's Room in the attic
 
 ## Area 9 - Secret Room
 * Bookshelves in here have fake fiend summoning rituals which are BS, determined via an hour of study and a **DC 12 Arcana Check**
