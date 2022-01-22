@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Session Notes/2022-01-22.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2022-01-22.md"
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md"
               }
             }
           }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022-01-22.md",
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,11 +152,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "53a3fa938d550609",
+  "active": "46e210f3d71ad276",
   "lastOpenFiles": [
+    "Locations/Barovia/Barovia Town/Haunted House.md",
     "Session Notes/2022-01-22.md",
     "obsidian_data/Templates/Session Notes Template.md",
-    "Locations/Barovia/Barovia Town/Haunted House.md",
     "Useful Links.md",
     "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Locations/Barovia/Barovia (Country).md",

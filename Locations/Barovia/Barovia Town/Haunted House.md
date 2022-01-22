@@ -100,7 +100,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
   > 
   > I am not a messiah sent to you by the Dark Powers of this land. I have not come to lead you on a path to immortality. However many souls you have bled on your hidden altar, however many visitors you have tortured in your dungeon, know that you are not he ones who brought me to this beautiful land. You are but worms writhing in my earth.
   >     
-  > You say that you are cursed, your fortunes spent. You abandoned love for madness, took solace in the bosom of another woman, and sired a stillborn son. Cursed by darkness? Of that I have to doubt. Save you from four wrecthedness? I think not. I much prefer you as you are.
+  > You say that you are cursed, your fortunes spent. You abandoned love for madness, took solace in the bosom of another woman, and sired a stillborn son. Cursed by darkness? Of that I have to doubt. Save you from your wrecthedness? I think not. I much prefer you as you are.
   >     
   > Your dread lord and master,
   > Strahd von Zarovich
