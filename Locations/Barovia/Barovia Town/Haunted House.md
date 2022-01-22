@@ -171,17 +171,17 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 ## Area 16 - Attic Hall
 * The door to the Children's Room is secured with a padlock whose key can be found in the library
 
-## Area 17 - Spare Bedroom
+## Area 17 - Spare Bedroom (`fas:Fire`)
 * Bed, nightstand, small iron stove, writing desk with stool, empty wardrobe, rocking chair
 * There is a smiling doll in a yellow dress sitting in the northern window box covered in cobwebs
 
-## Area 18 - Storage Room
+## Area 18 - Storage Room (`fas:Fire`)
 * Old furniture in white sheets
 * Under a sheet near the stove there is a wooden chest containing the remains of the nursemaid in a dry, bloody sheet
   *  **DC 14 Medicine** can determine that the nursemaid has a bunch of stab wounds
   * If the remains are disturbed and the party hasn't already fought the nursemaid her **specter** attacks them
 
-## Area 19 - Spare bedroom
+## Area 19 - Spare bedroom (`fas:Fire`)
 * Cobwebbed to hell and back
 * Bed, nightstand, rocking chair, empty wardrobe, small stove
 
