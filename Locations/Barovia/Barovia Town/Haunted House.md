@@ -129,10 +129,6 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 ## Area 12 - Master Suite
 * Doors to this area have stained glass depictions of windmills
 * **A** (`fas:Fire`) - Drapes cover the windows, see page **214** for a description of other furniture. There is a fireplace here which has a portrait of Gustav and Elizabeth above it.
-  * One of the two cabinets against the wall has a simple lock which can be picked with a **DC 15 dexterity check**. It contains the following loot:
-    * Heavy crossbow
-    * Light crossbow
-    * 20 bolts for each weapon
   * North cabinet contains the following loot:
     * Small box containing a deck of cards
     * Wine glasses
