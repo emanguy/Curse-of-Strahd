@@ -18,6 +18,15 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * Walter - Baby
 
 # Ending and Escape
+* The characters go free if they make the sacrifice
+* If they try to leave the house without sacrificing anything the house gets deadly
+  * All the windows are now blocked with bricks
+  * All the doors are replaced with spinning scythes
+    * **DC 15 acrobatics** to avoid getting hurt going through
+    * **DC 15 intelligence** to pass through instead if they spend 1 minute observing the blades' patterns
+    * **2d10 slashing damage** if a check is failed while going through the door
+    * Anything pushed through the door makes a dex save to avoid getting hurt
+  * Any room with a fireplac
 
 # First Floor
 ## Area 1 - Gate and foyer
@@ -348,5 +357,5 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * When the party gets even closer they start chanting "One must die! One must die!" because they want a sacrifice
   * If the players aren't sure what to do they can make a **DC 11 Religion check** to determine what the cultists mean
 * If the players sacrifice something Strahd is aware of it and the house lets them go
-* If the players walk away from the altar the cultists start chanting "Lorghoth the Decayer, we awaken thee!" and the **shambling mound
+* If the players walk away from the altar the cultists start chanting "Lorghoth the Decayer, we awaken thee!" and the **shambling mound** awakens and fights the party
 * Trigger for [[Asterion's Master]]
