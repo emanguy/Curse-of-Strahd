@@ -4,16 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "53a3fa938d550609",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
-            "mode": "preview",
-            "source": false
+        "id": "8e3d2abc0dd41c47",
+        "type": "split",
+        "children": [
+          {
+            "id": "46e210f3d71ad276",
+            "type": "leaf",
+            "dimension": 73.51865398683248,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53a3fa938d550609",
+            "type": "leaf",
+            "dimension": 26.481346013167524,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2022-01-22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Barovia Town.md"
+                "file": "Session Notes/2022-01-22.md"
               }
             }
           }
@@ -113,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
+                "file": "Session Notes/2022-01-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +154,15 @@
   },
   "active": "53a3fa938d550609",
   "lastOpenFiles": [
+    "Session Notes/2022-01-22.md",
     "Locations/Barovia/Barovia Town/Barovia Town.md",
+    "obsidian_data/Templates/Session Notes Template.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
     "Locations/Barovia/Barovia (Country).md",
     "Characters/NPCs/Groups/Barovians.md",
     "Characters/NPCs/Groups/Vistani.md",
     "Locations/Barovia/Barovia Town/Morgantha.md",
     "Characters/NPCs/Ireena.md",
-    "Castle Ravenloft.md",
-    "Ongoing Quests/Asterion's Master.md",
-    "Ongoing Quests/P'ome's family dishonor.md"
+    "Castle Ravenloft.md"
   ]
 }
