@@ -19,21 +19,23 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 
 # Ending and Escape
 * The characters go free if they make the sacrifice
-* If they try to leave the house without sacrificing anything the house gets deadly
+* If they try to leave the house without sacrificing anything the house gets deadly. Players are in initiative to get out 
   * All the windows are now blocked with bricks
   * All the doors are replaced with spinning scythes
     * **DC 15 acrobatics** to avoid getting hurt going through
     * **DC 15 intelligence** to pass through instead if they spend 1 minute observing the blades' patterns
     * **2d10 slashing damage** if a check is failed while going through the door
     * Anything pushed through the door makes a dex save to avoid getting hurt
-  * Any room with a fireplac
+  * Any room with a fireplace, stove, or oven (`fas:Fire`) is filled with smoke that heavily obscures the room
+    * Characters starting their turn in smoke make a **DC 10 Con Save** or take **1d10 poison damage**
+  * The walls are now rotten and brittle. They have an **AC of 5 and 5 hp** to be broken, but a **swarm of rats** comes out if they are broken
 
 # First Floor
 ## Area 1 - Gate and foyer
 * **A** - Wrought iron gate (unlocked), oil lamps hanging from the ceiling
 * **B** - Grand Foyer, coat of arms on the right - a golden windmill on a red field. There are also portraits of aristocrats (the Dursts)
 
-## Area 2 - Main Hall
+## Area 2 - Main Hall ()
 * **A** - Longsword above the fireplace on the left side of the room with a windmill in the hilt. The walls have images of vines, flowers, nymphs, and satyrs.
   * **DC 12 Wisdom** to notice serpents and skulls in the wall designs
   * Staircase is made of red marble
