@@ -331,4 +331,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 
 ## Area 38 - Ritual Chamber
 * The chanting mysteriously stops when the characters walk in.
-* 
+* The chamber is echoey and there are pillars all around
+* There's a break in the wall opposite the portcullis that leads into the room.
+  * On initial investigation it looks like a pile of trash
+  * A **DC 15 Nature check** will reveal the fact that it's actually a **shambling mound**
