@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "6cfe4931d9dfadf8",
+        "id": "8bd02d09cd1fb62e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Useful Links.md",
-            "mode": "source",
+            "file": "Ongoing Quests/The Hunt for Strahd.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -50,6 +50,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "dd7e80ddd3bb2de2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afdb518ffbb4b28f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Useful Links.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful Links.md"
+                "file": "Ongoing Quests/The Hunt for Strahd.md"
               }
             }
           }
@@ -113,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful Links.md",
+                "file": "Ongoing Quests/The Hunt for Strahd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,12 +149,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6cfe4931d9dfadf8",
+  "active": "8bd02d09cd1fb62e",
   "lastOpenFiles": [
+    "Ongoing Quests/The Hunt for Strahd.md",
     "Useful Links.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
     "Ongoing Quests/Asterion's Master.md",
-    "Ongoing Quests/The Hunt for Strahd.md",
     "obsidian_data/Templates/Session Notes Template.md",
     "Characters/Players/Bam Booty.md",
     "Characters/Players/Asterion Tolger.md",
