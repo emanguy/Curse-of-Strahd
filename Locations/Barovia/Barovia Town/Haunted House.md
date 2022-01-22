@@ -343,4 +343,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 
 ## Approaching the Altar
 * When the characters get near the altar 13 apparitions appear on the raised areas which start chanting their chant (He is the Ancient/He is the Land)
+  * Their faces are voids and are holding torches that suck in light
+  * They cannot be dispelled or really even be affected by magic
+* When the party gets even closer they start chanting "One must die! One must die!"
 * Trigger for [[Asterion's Master]]

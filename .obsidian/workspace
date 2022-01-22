@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ongoing Quests/Asterion's Master.md",
+            "file": "Locations/Barovia/Barovia Town/Haunted House.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ongoing Quests/Asterion's Master.md"
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ongoing Quests/Asterion's Master.md",
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,8 +133,8 @@
   },
   "active": "6cfe4931d9dfadf8",
   "lastOpenFiles": [
-    "Ongoing Quests/Asterion's Master.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
+    "Ongoing Quests/Asterion's Master.md",
     "Ongoing Quests/The Hunt for Strahd.md",
     "obsidian_data/Templates/Session Notes Template.md",
     "Characters/Players/Bam Booty.md",

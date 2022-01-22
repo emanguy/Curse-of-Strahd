@@ -14,6 +14,7 @@
 > He will surely come soon.
 > - F.W.
 
+* In the **Ritual Chamber** Asterion will have a flashback and regain the memory that Delfen's recording showed. The player can decide how he reacted (maybe he actually killed his master? Who knows)
 * Asterion's master was originally an adventurer brought in by the [[Vistani]], and his death is what caused [[Strahd]] to come and destroy the [[Strahd Cult]] lurking at the death house
 
 ## What's happened so far
