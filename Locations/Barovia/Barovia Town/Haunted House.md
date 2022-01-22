@@ -156,7 +156,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * A **broom of animated attack (appendix d)**  leans against the far wall and attacks anyone that comes within 5 feet of it
 
 ## Area 15 - Nursemaid's suite
-* **A** - Dusty bedroom
+* **A** (`fas:Fire`) - Dusty bedroom
   * This used to belong to the nursemaid. She had an affair with Gustav and is the mother of the stillborn baby Walter. She was then killed by the cult
   * Unless she was already defeated in the storage room in the attic the **specter** of the nursemaid haunts the bedroom and attacks anyone who tries to open the nursery
     * She looks like a skeletally thin, terrified young woman
