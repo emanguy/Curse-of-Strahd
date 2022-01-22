@@ -27,8 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful Links.md",
-                "mode": "preview",
+                "file": "Session Notes/2022-01-22.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -155,9 +155,9 @@
   "active": "46e210f3d71ad276",
   "lastOpenFiles": [
     "Locations/Barovia/Barovia Town/Haunted House.md",
-    "Locations/Barovia/Barovia Town/Barovia Town.md",
-    "Useful Links.md",
     "Session Notes/2022-01-22.md",
+    "Useful Links.md",
+    "Locations/Barovia/Barovia Town/Barovia Town.md",
     "obsidian_data/Templates/Session Notes Template.md",
     "Locations/Barovia/Barovia (Country).md",
     "Characters/NPCs/Groups/Barovians.md",
