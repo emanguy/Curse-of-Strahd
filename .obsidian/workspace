@@ -27,8 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2022-01-22.md",
-                "mode": "source",
+                "file": "Useful Links.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Barovia Town.md"
+                "file": "Useful Links.md"
               }
             }
           }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
+                "file": "Useful Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,17 +152,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "46e210f3d71ad276",
+  "active": "53a3fa938d550609",
   "lastOpenFiles": [
-    "Locations/Barovia/Barovia Town/Barovia Town.md",
+    "Useful Links.md",
     "Session Notes/2022-01-22.md",
+    "Locations/Barovia/Barovia Town/Barovia Town.md",
     "obsidian_data/Templates/Session Notes Template.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
     "Locations/Barovia/Barovia (Country).md",
     "Characters/NPCs/Groups/Barovians.md",
     "Characters/NPCs/Groups/Vistani.md",
     "Locations/Barovia/Barovia Town/Morgantha.md",
-    "Characters/NPCs/Ireena.md",
-    "Castle Ravenloft.md"
+    "Characters/NPCs/Ireena.md"
   ]
 }
