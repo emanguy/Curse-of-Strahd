@@ -21,3 +21,5 @@
 * **E7** - This is the mini-dungeon, the [[Haunted House]]
 
 ## Other Special Events
+### Dream Pastries
+* [[Morgantha]]
