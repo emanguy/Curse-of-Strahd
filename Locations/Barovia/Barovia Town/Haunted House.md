@@ -35,13 +35,13 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * **A** - Wrought iron gate (unlocked), oil lamps hanging from the ceiling
 * **B** - Grand Foyer, coat of arms on the right - a golden windmill on a red field. There are also portraits of aristocrats (the Dursts)
 
-## Area 2 - Main Hall ()
+## Area 2 - Main Hall (`fas:Fire`)
 * **A** - Longsword above the fireplace on the left side of the room with a windmill in the hilt. The walls have images of vines, flowers, nymphs, and satyrs.
   * **DC 12 Wisdom** to notice serpents and skulls in the wall designs
   * Staircase is made of red marble
 * **B** - Cloak room with several black cloaks and a top hat.
 
-## Area 3 - Den of wolves
+## Area 3 - Den of wolves (`fas:Fire`)
 * Looks like a hunter's den. Fireplace, deer heads on the wall, etc. more detail can be found on page **212**.
 * There is a trapdoor in the corner of the room which is supernaturally hidden by the house until the players reach **area 32**, the Hidden Trapdoor from the Dungeon B1 level
 
@@ -54,20 +54,20 @@ Rose and Thorn are illusions created by the house who try to lure the characters
     * Small box containing a deck of cards
     * Wine glasses
 
-## Area 4 - Kitchen and pantry
+## Area 4 - Kitchen and pantry (`fas:Fire`)
 * **A** - Kitchen - tidy, has dishes and standard kitchen stuff like pots and pans and stuff. For a full list see page **213**.
   * There is a dumbwaiter at the bottom of this room which can be squeezed into by a small character with a **DC 10 Dex check**. It connects to area 7A (the servants' quarters) and 12A (the master bedroom).
 * **B** - Pantry - There is food in here that looks safe to eat but bland.
 
-## Area 5 - Dining room
+## Area 5 - Dining room (`fas:Fire`)
 * Fancy area with fine silver. There is a painting of a mountain range on the wall and images of deer and trees on the wall. More detail on page **213**
   * Looking closer at the wall invokes a **DC 12 Perception check** which reveals evil faces in the tree trunks and wolves among the foliage
   * If anything is removed from the dining room and taken off the grounds, it gets ruined
 
 # Second Floor
-## Area 6 - Upper Hall
+## Area 6 - Upper Hall (`fas:Fire`)
 * Oil lamps on all 4 corners of the room
-* Portrait of the Dursts above the mantle and Elizabeth is giving Walter a dirty look.
+* Portrait of the Dursts above the fireplace mantle and Elizabeth is giving Walter a dirty look.
 * Some suits of armor
 * Carvings of dancing children in the doors, **DC 12 Perception** reveals the children aren't playing, they're fighting off bats
 * Cold draft comes down the red marble stairs from the 3rd floor
@@ -76,7 +76,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * Shitty beds with empty footlockers, some servant uniforms are hanging up too
 * The dumbwaiter on this floor has a button next to it which rings a bell in the kitchen next to the dumbwaiter there
 
-## Area 8 - Library
+## Area 8 - Library (`fas:Fire`)
 * Red drapes cover the windows, there are tall bookshelves here and a fancy mahogany desk
   * The desk has the following items
     * Oil lamp
