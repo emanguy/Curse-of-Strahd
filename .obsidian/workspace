@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/NPCs/Parriwimple.md",
+            "file": "Ongoing Quests/The Hunt for Strahd.md",
             "mode": "source",
             "source": false
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Parriwimple.md"
+                "file": "Ongoing Quests/The Hunt for Strahd.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Parriwimple.md",
+                "file": "Ongoing Quests/The Hunt for Strahd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,8 +151,8 @@
   },
   "active": "8bd02d09cd1fb62e",
   "lastOpenFiles": [
-    "Characters/NPCs/Parriwimple.md",
     "Ongoing Quests/The Hunt for Strahd.md",
+    "Characters/NPCs/Parriwimple.md",
     "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Useful Links.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",

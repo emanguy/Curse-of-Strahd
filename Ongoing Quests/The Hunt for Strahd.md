@@ -1,6 +1,7 @@
 # The Hunt for Strahd
 ## Story Beats
-* 
+* [[Strahd]] must be killed by the party or kill them
+* Strahd used the [[Vistani]] to lure the characters into [[Barovia (Country)]] because he wants to toy with them to find a worthy successor
 
 ## What's happened so far
 * The players were roped into helping the [[Vistani]] do something about [[Strahd]]
@@ -34,4 +35,5 @@
 5.  “Your enemy is a creature of darkness, whose powers are beyond mortality. This card will lead you to him!”  
       
   > King of Diamonds - The Broken One - He haunts the tomb of the man he envied above all.
-    
+
+([[Strahd]] waits for the characters in Sergei's Tomb in [[Castle Ravenloft]] (area K85))
