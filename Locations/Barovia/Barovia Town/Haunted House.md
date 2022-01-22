@@ -346,4 +346,5 @@ Rose and Thorn are illusions created by the house who try to lure the characters
   * Their faces are voids and are holding torches that suck in light
   * They cannot be dispelled or really even be affected by magic
 * When the party gets even closer they start chanting "One must die! One must die!"
+  * I
 * Trigger for [[Asterion's Master]]
