@@ -9,7 +9,8 @@
 * **E4** - The Burgomaster's Mansion. [[Ireena]] is staying here and will not open the door unless the party can prove they have no affiliation with [[Strahd]]. If the party has [[Ismark]] with them, he will get them into the mansion much easier.
   * The Burgomaster is dead in a coffin inside the mansion. [[Ireena]] will not leave until he's taken to the church cemetery to be buried
 * **E5** - The Church. [[Father Donavich]] is the priest here and his son is a vampire in the basement. This is where The Burgomaster will get buried
-  * If the players bring the Burgomaster [[Kolyan Indirovich]] here to be buried the Father will ask that they hold the cer
+  * If the players bring the Burgomaster [[Kolyan Indirovich]] here to be buried the Father will ask that they hold the ceremony in the morning to pray to the **Morninglord**. 
+    * He will also suggest that the players keep [[Ireena]] as far away from [[Castle Ravenloft]] as possible. He suggests taking her either to [[The Abbey of Saint Markovia]] in [[Krezk]] or maybe [[Vallaki]]
 * **E6** - The Cemetery behind the church. At night dead adventurers march to [[Castle Ravenloft]] to try and kill [[Strahd]] like they did when they were still alive. Some will stand out to the party though:
   * [[Corvyn Folker]] - Ga'ael (Goliath barbarian)
   * [[Kragg Thegrim]] - Jerry (Dragonborn Rogue)

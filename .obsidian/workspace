@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
+                "file": "Characters/NPCs/Ireena.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Barovia Town.md"
+                "file": "Characters/NPCs/Ireena.md"
               }
             }
           }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
+                "file": "Characters/NPCs/Ireena.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,6 +166,7 @@
   },
   "active": "eb910c8cdf3227a0",
   "lastOpenFiles": [
+    "Characters/NPCs/Ireena.md",
     "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
     "Castle Ravenloft.md",
@@ -174,7 +175,6 @@
     "Characters/Players/Asterion Tolger.md",
     "Characters/NPCs/Groups/Strahd Cult.md",
     "Locations/Barovia/Barovia (Country).md",
-    "Characters/Players/Bam Booty.md",
-    "Characters/Players/Corvyn Folker.md"
+    "Characters/Players/Bam Booty.md"
   ]
 }
