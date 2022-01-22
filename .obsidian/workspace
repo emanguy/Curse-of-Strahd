@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPCs/Ireena.md",
+                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Ireena.md"
+                "file": "Locations/Barovia/Barovia Town/Barovia Town.md"
               }
             }
           }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Ireena.md",
+                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,8 +166,8 @@
   },
   "active": "eb910c8cdf3227a0",
   "lastOpenFiles": [
-    "Characters/NPCs/Ireena.md",
     "Locations/Barovia/Barovia Town/Barovia Town.md",
+    "Characters/NPCs/Ireena.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
     "Castle Ravenloft.md",
     "Ongoing Quests/Asterion's Master.md",
