@@ -232,7 +232,7 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * When the players reach the center of the corridor 4 **Ghouls** (former cultists) appear on the spots marked with an "X" and attack the party
 * Trigger for [[Asterion's Master]]
 
-## Area 30 - Stairs DownCurseofStrahd_DeathHouse_DM.jpg
+## Area 30 - Stairs Down
 * The chanting is definitely coming from down here.
 * Descends to the Reliquary, area 35
 
