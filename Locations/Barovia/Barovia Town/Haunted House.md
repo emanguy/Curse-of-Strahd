@@ -345,6 +345,8 @@ Rose and Thorn are illusions created by the house who try to lure the characters
 * When the characters get near the altar 13 apparitions appear on the raised areas which start chanting their chant (He is the Ancient/He is the Land)
   * Their faces are voids and are holding torches that suck in light
   * They cannot be dispelled or really even be affected by magic
-* When the party gets even closer they start chanting "One must die! One must die!"
-  * I
+* When the party gets even closer they start chanting "One must die! One must die!" because they want a sacrifice
+  * If the players aren't sure what to do they can make a **DC 11 Religion check** to determine what the cultists mean
+* If the players sacrifice something Strahd is aware of it and the house lets them go
+* If the players walk away from the altar the cultists start chanting "Lorghoth the Decayer, we awaken thee!" and the **shambling mound
 * Trigger for [[Asterion's Master]]
