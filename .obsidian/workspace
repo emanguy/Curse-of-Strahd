@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ongoing Quests/The Hunt for Strahd.md",
+            "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
             "mode": "source",
             "source": false
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ongoing Quests/The Hunt for Strahd.md"
+                "file": "Locations/Barovia/Barovia Town/Barovia Town.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ongoing Quests/The Hunt for Strahd.md",
+                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +151,7 @@
   },
   "active": "8bd02d09cd1fb62e",
   "lastOpenFiles": [
+    "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Ongoing Quests/The Hunt for Strahd.md",
     "Useful Links.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
@@ -159,7 +160,6 @@
     "Characters/Players/Bam Booty.md",
     "Characters/Players/Asterion Tolger.md",
     "Characters/Players/Kragg Thegrim.md",
-    "Ongoing Quests/Kragg's Musical Journey.md",
-    "Ongoing Quests/P'ome's family dishonor.md"
+    "Ongoing Quests/Kragg's Musical Journey.md"
   ]
 }
