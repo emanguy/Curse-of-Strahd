@@ -22,4 +22,6 @@
 
 ## Other Special Events
 ### Dream Pastries
-* [[Morgantha]] 
+* [[Morgantha]] goes around with a cart trying to sell her pastries for 1gp each offering an escape from everyday life but most of the doors she knocks on don't open or respond
+* If the players follow her they'll see her ask for payment in the form of a young boy named **Lucian Jarov**. She'll give up willingly if the players demand it because she'll try again later
+* She'll fight in self defense and offer her knowledge to the players in exchange for her life
