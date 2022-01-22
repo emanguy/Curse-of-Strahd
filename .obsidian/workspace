@@ -4,25 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c74c7438adb80fb4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/Barovia/Barovia Town/Haunted House.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "756314d7e17015d0",
+        "id": "489cefdece69cd83",
         "type": "split",
         "children": [
           {
             "id": "5a8595978ba8d37e",
             "type": "leaf",
-            "dimension": 45.28853177501826,
+            "dimension": 27.505486466715436,
             "state": {
               "type": "markdown",
               "state": {
@@ -33,13 +21,13 @@
             }
           },
           {
-            "id": "eb910c8cdf3227a0",
+            "id": "53a3fa938d550609",
             "type": "leaf",
-            "dimension": 54.71146822498174,
+            "dimension": 72.49451353328456,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
                 "mode": "preview",
                 "source": false
               }
@@ -118,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Barovia Town.md"
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md"
               }
             }
           }
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,17 +152,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "eb910c8cdf3227a0",
+  "active": "53a3fa938d550609",
   "lastOpenFiles": [
-    "Locations/Barovia/Barovia Town/Barovia Town.md",
-    "Locations/Barovia/Barovia Town/Morgantha.md",
-    "Locations/Barovia/Barovia (Country).md",
-    "Characters/NPCs/Ireena.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
+    "Locations/Barovia/Barovia (Country).md",
+    "Characters/NPCs/Groups/Barovians.md",
+    "Locations/Barovia/Barovia Town/Barovia Town.md",
+    "Characters/NPCs/Groups/Vistani.md",
+    "Locations/Barovia/Barovia Town/Morgantha.md",
+    "Characters/NPCs/Ireena.md",
     "Castle Ravenloft.md",
     "Ongoing Quests/Asterion's Master.md",
-    "Ongoing Quests/P'ome's family dishonor.md",
-    "Characters/Players/Asterion Tolger.md",
-    "Characters/NPCs/Groups/Strahd Cult.md"
+    "Ongoing Quests/P'ome's family dishonor.md"
   ]
 }
