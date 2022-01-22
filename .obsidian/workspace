@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
-                "mode": "preview",
+                "file": "Ongoing Quests/Asterion's Master.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Haunted House.md"
+                "file": "Ongoing Quests/Asterion's Master.md"
               }
             }
           }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
+                "file": "Ongoing Quests/Asterion's Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,15 +154,15 @@
   },
   "active": "46e210f3d71ad276",
   "lastOpenFiles": [
+    "Ongoing Quests/Asterion's Master.md",
+    "Characters/NPCs/Morgantha.md",
+    "Ongoing Quests/Kragg's Musical Journey.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
     "Session Notes/2022-01-22.md",
     "obsidian_data/Templates/Session Notes Template.md",
     "Useful Links.md",
     "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Locations/Barovia/Barovia (Country).md",
-    "Characters/NPCs/Groups/Barovians.md",
-    "Characters/NPCs/Groups/Vistani.md",
-    "Locations/Barovia/Barovia Town/Morgantha.md",
-    "Characters/NPCs/Ireena.md"
+    "Characters/NPCs/Groups/Barovians.md"
   ]
 }
