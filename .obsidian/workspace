@@ -4,16 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "8bd02d09cd1fb62e",
+        "id": "c74c7438adb80fb4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ongoing Quests/The Hunt for Strahd.md",
-            "mode": "source",
+            "file": "Locations/Barovia/Barovia Town/Haunted House.md",
+            "mode": "preview",
             "source": false
           }
         }
+      },
+      {
+        "id": "756314d7e17015d0",
+        "type": "split",
+        "children": [
+          {
+            "id": "5a8595978ba8d37e",
+            "type": "leaf",
+            "dimension": 45.28853177501826,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Barovia/Barovia (Country).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb910c8cdf3227a0",
+            "type": "leaf",
+            "dimension": 54.71146822498174,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -50,24 +83,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "dd7e80ddd3bb2de2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "afdb518ffbb4b28f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Useful Links.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -78,12 +93,12 @@
     "type": "split",
     "children": [
       {
-        "id": "59378f1d6c886cb0",
+        "id": "a038c8fea330297c",
         "type": "tabs",
-        "dimension": 33.30029732408325,
+        "dimension": 26.59870250231696,
         "children": [
           {
-            "id": "8f4dc45e83de88e3",
+            "id": "b50f42d6b8b86707",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -93,9 +108,9 @@
         ]
       },
       {
-        "id": "a038c8fea330297c",
+        "id": "eac3e8cee37be832",
         "type": "tabs",
-        "dimension": 27.35381565906839,
+        "dimension": 26.32066728452271,
         "children": [
           {
             "id": "c148f00bbf92aea2",
@@ -103,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ongoing Quests/The Hunt for Strahd.md"
+                "file": "Locations/Barovia/Barovia Town/Barovia Town.md"
               }
             }
           }
@@ -112,7 +127,7 @@
       {
         "id": "154db812d1f4cdf4",
         "type": "tabs",
-        "dimension": 39.345887016848366,
+        "dimension": 47.08063021316033,
         "children": [
           {
             "id": "1e373c1578de3d9f",
@@ -131,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ongoing Quests/The Hunt for Strahd.md",
+                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,17 +164,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8bd02d09cd1fb62e",
+  "active": "eb910c8cdf3227a0",
   "lastOpenFiles": [
-    "Ongoing Quests/The Hunt for Strahd.md",
-    "Characters/NPCs/Parriwimple.md",
     "Locations/Barovia/Barovia Town/Barovia Town.md",
-    "Useful Links.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
+    "Castle Ravenloft.md",
     "Ongoing Quests/Asterion's Master.md",
-    "obsidian_data/Templates/Session Notes Template.md",
-    "Characters/Players/Bam Booty.md",
+    "Ongoing Quests/P'ome's family dishonor.md",
     "Characters/Players/Asterion Tolger.md",
-    "Characters/Players/Kragg Thegrim.md"
+    "Characters/NPCs/Groups/Strahd Cult.md",
+    "Locations/Barovia/Barovia (Country).md",
+    "Characters/Players/Bam Booty.md",
+    "Characters/Players/Corvyn Folker.md"
   ]
 }
