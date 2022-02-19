@@ -27,8 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2022-01-22.md",
-                "mode": "preview",
+                "file": "Session Notes/2022-02-19.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -155,14 +155,14 @@
   "active": "46e210f3d71ad276",
   "lastOpenFiles": [
     "Locations/Barovia/Barovia Town/Haunted House.md",
+    "Session Notes/2022-02-19.md",
+    "Session Notes/2022-01-22.md",
     "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Ongoing Quests/Asterion's Master.md",
     "Characters/NPCs/Morgantha.md",
     "Ongoing Quests/Kragg's Musical Journey.md",
-    "Session Notes/2022-01-22.md",
     "obsidian_data/Templates/Session Notes Template.md",
     "Useful Links.md",
-    "Locations/Barovia/Barovia (Country).md",
-    "Characters/NPCs/Groups/Barovians.md"
+    "Locations/Barovia/Barovia (Country).md"
   ]
 }
