@@ -8,17 +8,36 @@
         "type": "split",
         "children": [
           {
-            "id": "46e210f3d71ad276",
-            "type": "leaf",
+            "id": "c094ced71326a9b4",
+            "type": "split",
             "dimension": 69.97026759167493,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
-                "mode": "preview",
-                "source": false
+            "children": [
+              {
+                "id": "46e210f3d71ad276",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Locations/Barovia/Barovia Town/Haunted House.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1d67809c3ec3a674",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ongoing Quests/Asterion's Master.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "direction": "vertical"
           },
           {
             "id": "53a3fa938d550609",
@@ -155,10 +174,10 @@
   "active": "46e210f3d71ad276",
   "lastOpenFiles": [
     "Locations/Barovia/Barovia Town/Haunted House.md",
+    "Ongoing Quests/Asterion's Master.md",
     "Session Notes/2022-02-19.md",
     "Session Notes/2022-01-22.md",
     "Locations/Barovia/Barovia Town/Barovia Town.md",
-    "Ongoing Quests/Asterion's Master.md",
     "Characters/NPCs/Morgantha.md",
     "Ongoing Quests/Kragg's Musical Journey.md",
     "obsidian_data/Templates/Session Notes Template.md",
