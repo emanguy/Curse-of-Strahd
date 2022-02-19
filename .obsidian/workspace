@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
                 "mode": "preview",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Barovia Town.md"
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md"
               }
             }
           }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,8 +154,8 @@
   },
   "active": "46e210f3d71ad276",
   "lastOpenFiles": [
-    "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
+    "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Ongoing Quests/Asterion's Master.md",
     "Characters/NPCs/Morgantha.md",
     "Ongoing Quests/Kragg's Musical Journey.md",
