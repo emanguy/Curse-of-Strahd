@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ongoing Quests/Asterion's Master.md",
-                "mode": "source",
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -23,7 +23,7 @@
           {
             "id": "53a3fa938d550609",
             "type": "leaf",
-            "dimension": 26.481346013167524,
+            "dimension": 26.48134601316752,
             "state": {
               "type": "markdown",
               "state": {
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ongoing Quests/Asterion's Master.md"
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md"
               }
             }
           }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ongoing Quests/Asterion's Master.md",
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,11 +154,11 @@
   },
   "active": "46e210f3d71ad276",
   "lastOpenFiles": [
+    "Locations/Barovia/Barovia Town/Haunted House.md",
     "Ongoing Quests/Asterion's Master.md",
+    "Session Notes/2022-01-22.md",
     "Characters/NPCs/Morgantha.md",
     "Ongoing Quests/Kragg's Musical Journey.md",
-    "Locations/Barovia/Barovia Town/Haunted House.md",
-    "Session Notes/2022-01-22.md",
     "obsidian_data/Templates/Session Notes Template.md",
     "Useful Links.md",
     "Locations/Barovia/Barovia Town/Barovia Town.md",

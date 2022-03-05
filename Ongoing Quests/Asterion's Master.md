@@ -6,7 +6,7 @@
   * In the **Dining Room** (Area 27) Asterion can find a shoulder plate with the symbol of Mystra on it among the bones
   * In the **Cult Leaders' Den** (Area 33) Asterion can find a letter from the Vallaki branch of the cult where it managed to live on. It says the following:
 
-> Grand Lord Master Durst,
+> Grand Ravenlord Durst,
 >
 > We have successfully set down in the nearby town of Vallaki. We shall continue to spread the promise of great hidden knowledge that our dark lord will surely bestow upon us as long as we continue our teachings. There are a great number of Barovians who wish to toss the yoke of this town's burgomaster as they have given up faith in him for our far greater purpose. We thank you for delivering the body of that strange armored heathen so we can plant our dark lord's seed in the hearts of the soulless here. We hope that you will soon visit to oversee our progress.
 >
