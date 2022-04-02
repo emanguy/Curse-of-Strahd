@@ -10,7 +10,7 @@
           {
             "id": "46e210f3d71ad276",
             "type": "leaf",
-            "dimension": 73.51865398683248,
+            "dimension": 58.126084441873914,
             "state": {
               "type": "markdown",
               "state": {
@@ -23,12 +23,12 @@
           {
             "id": "53a3fa938d550609",
             "type": "leaf",
-            "dimension": 26.48134601316752,
+            "dimension": 41.873915558126086,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2022-01-22.md",
-                "mode": "preview",
+                "file": "Session Notes/2022-02-19.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Haunted House.md"
+                "file": "Session Notes/2022-02-19.md"
               }
             }
           }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
+                "file": "Session Notes/2022-02-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,17 +152,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "46e210f3d71ad276",
+  "active": "53a3fa938d550609",
   "lastOpenFiles": [
-    "Locations/Barovia/Barovia Town/Haunted House.md",
-    "Ongoing Quests/Asterion's Master.md",
+    "Session Notes/2022-02-19.md",
     "Session Notes/2022-01-22.md",
+    "Locations/Barovia/Barovia Town/Haunted House.md",
+    "conflict-files-obsidian-git.md",
+    "Ongoing Quests/Asterion's Master.md",
     "Characters/NPCs/Morgantha.md",
     "Ongoing Quests/Kragg's Musical Journey.md",
     "obsidian_data/Templates/Session Notes Template.md",
     "Useful Links.md",
-    "Locations/Barovia/Barovia Town/Barovia Town.md",
-    "Locations/Barovia/Barovia (Country).md",
-    "Characters/NPCs/Groups/Barovians.md"
+    "Locations/Barovia/Barovia Town/Barovia Town.md"
   ]
 }
