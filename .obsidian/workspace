@@ -10,7 +10,7 @@
           {
             "id": "46e210f3d71ad276",
             "type": "leaf",
-            "dimension": 72.20190197512801,
+            "dimension": 31.96781272860278,
             "state": {
               "type": "markdown",
               "state": {
@@ -21,13 +21,26 @@
             }
           },
           {
-            "id": "53a3fa938d550609",
+            "id": "d0ee91c6f30f7352",
             "type": "leaf",
-            "dimension": 27.79809802487198,
+            "dimension": 28.822238478419898,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2022-04-09.md",
+                "file": "Characters/Players/Rogue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ad3b1a1662216fd",
+            "type": "leaf",
+            "dimension": 39.20994879297732,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Players/Ward.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2022-04-09.md"
+                "file": "Characters/Players/Ward.md"
               }
             }
           }
@@ -134,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022-04-09.md",
+                "file": "Characters/Players/Ward.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,17 +165,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "53a3fa938d550609",
+  "active": "8ad3b1a1662216fd",
   "lastOpenFiles": [
-    "Session Notes/2022-04-09.md",
+    "Characters/Players/Ward.md",
+    "Characters/Players/Rogue.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
+    "Session Notes/2022-04-09.md",
     "Ongoing Quests/Asterion's Master.md",
     "Session Notes/2022-02-19.md",
     "conflict-files-obsidian-git.md",
     "Session Notes/2022-01-22.md",
     "Characters/NPCs/Morgantha.md",
-    "Ongoing Quests/Kragg's Musical Journey.md",
-    "obsidian_data/Templates/Session Notes Template.md",
-    "Useful Links.md"
+    "Ongoing Quests/Kragg's Musical Journey.md"
   ]
 }
