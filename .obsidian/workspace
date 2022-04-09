@@ -10,7 +10,7 @@
           {
             "id": "46e210f3d71ad276",
             "type": "leaf",
-            "dimension": 29.06304222093696,
+            "dimension": 72.20190197512801,
             "state": {
               "type": "markdown",
               "state": {
@@ -21,22 +21,13 @@
             }
           },
           {
-            "id": "871fe08d4b233302",
-            "type": "leaf",
-            "dimension": 29.06304222093696,
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "53a3fa938d550609",
             "type": "leaf",
-            "dimension": 41.87391555812608,
+            "dimension": 27.79809802487198,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2022-02-19.md",
+                "file": "Session Notes/2022-04-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2022-02-19.md"
+                "file": "Session Notes/2022-04-09.md"
               }
             }
           }
@@ -143,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022-02-19.md",
+                "file": "Session Notes/2022-04-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,15 +154,15 @@
   },
   "active": "53a3fa938d550609",
   "lastOpenFiles": [
+    "Session Notes/2022-04-09.md",
     "Session Notes/2022-02-19.md",
-    "conflict-files-obsidian-git.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
+    "conflict-files-obsidian-git.md",
     "Session Notes/2022-01-22.md",
     "Ongoing Quests/Asterion's Master.md",
     "Characters/NPCs/Morgantha.md",
     "Ongoing Quests/Kragg's Musical Journey.md",
     "obsidian_data/Templates/Session Notes Template.md",
-    "Useful Links.md",
-    "Locations/Barovia/Barovia Town/Barovia Town.md"
+    "Useful Links.md"
   ]
 }
