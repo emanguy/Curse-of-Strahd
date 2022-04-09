@@ -10,7 +10,7 @@
           {
             "id": "46e210f3d71ad276",
             "type": "leaf",
-            "dimension": 58.126084441873914,
+            "dimension": 58.12608444187392,
             "state": {
               "type": "markdown",
               "state": {
@@ -23,7 +23,7 @@
           {
             "id": "53a3fa938d550609",
             "type": "leaf",
-            "dimension": 41.873915558126086,
+            "dimension": 41.87391555812608,
             "state": {
               "type": "markdown",
               "state": {
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2022-02-19.md"
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md"
               }
             }
           }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022-02-19.md",
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,11 +152,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "53a3fa938d550609",
+  "active": "46e210f3d71ad276",
   "lastOpenFiles": [
+    "Locations/Barovia/Barovia Town/Haunted House.md",
     "Session Notes/2022-02-19.md",
     "Session Notes/2022-01-22.md",
-    "Locations/Barovia/Barovia Town/Haunted House.md",
     "conflict-files-obsidian-git.md",
     "Ongoing Quests/Asterion's Master.md",
     "Characters/NPCs/Morgantha.md",
