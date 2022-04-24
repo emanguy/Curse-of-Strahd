@@ -5,6 +5,7 @@ Surrounded by impassable fog. Only the [[Vistani]] can go back and forth. Always
 
 ## Locations
 * **E** - [[Barovia Town]]
+* **N** - [[Vallaki]]
 
 ## Magic Alterations
 * You can't teleport out of Barovia
