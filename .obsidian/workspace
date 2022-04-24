@@ -4,28 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "78eff842693ffa31",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
-            "mode": "source",
-            "source": false
+        "id": "41ee3d63a150b3e0",
+        "type": "split",
+        "children": [
+          {
+            "id": "78eff842693ffa31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7a6c288c16f0dc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPCs/Ireena.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "2eca46f5cf253811",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Characters/Players/Rogue.md",
-            "mode": "source",
-            "source": false
-          }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -97,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Players/Rogue.md"
+                "file": "Characters/NPCs/Ireena.md"
               }
             }
           }
@@ -125,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Players/Rogue.md",
+                "file": "Characters/NPCs/Ireena.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,17 +150,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2eca46f5cf253811",
+  "active": "a7a6c288c16f0dc7",
   "lastOpenFiles": [
-    "Characters/Players/Rogue.md",
+    "Characters/NPCs/Ireena.md",
     "Locations/Barovia/Barovia Town/Barovia Town.md",
+    "Characters/NPCs/Mayor's Daughter.md",
+    "Ongoing Quests/Ireena, the Mayor's Daughter.md",
+    "Ongoing Quests/The Hunt for Strahd.md",
+    "Characters/Players/Rogue.md",
     "Locations/Barovia/Tser Pool Encampment.md",
     "Locations/Barovia/River Ivilis Crossroads.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
-    "Characters/NPCs/Wham Booty.md",
-    "Characters/NPCs/Strahd.md",
-    "Locations/Barovia/Barovia (Country).md",
-    "Ongoing Quests/Kragg's Musical Journey.md",
-    "Ongoing Quests/Corvyn's Missing Parents.md"
+    "Characters/NPCs/Wham Booty.md"
   ]
 }
