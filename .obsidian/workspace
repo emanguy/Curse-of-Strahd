@@ -30,18 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "50d0ba3383ae9a08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/NPCs/Ireena.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
         "direction": "horizontal"
@@ -116,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Ireena.md"
+                "file": "Characters/NPCs/Madam Eva.md"
               }
             }
           }
@@ -144,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Ireena.md",
+                "file": "Characters/NPCs/Madam Eva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,13 +150,13 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "50d0ba3383ae9a08",
+  "active": "3c66ce508bb48279",
   "lastOpenFiles": [
+    "Characters/NPCs/Madam Eva.md",
     "Characters/NPCs/Ireena.md",
     "Characters/NPCs/Mayor's Daughter.md",
     "Characters/Players/Rogue.md",
     "Characters/NPCs/Strahd.md",
-    "Characters/NPCs/Madam Eva.md",
     "Locations/Barovia/Tser Pool Encampment.md",
     "Locations/Barovia/Mad Mage of Mount Baratok.md",
     "Locations/Barovia/Barovia (Country).md",
