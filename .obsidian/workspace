@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Players/Rogue.md",
+                "file": "Characters/NPCs/Strahd.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Players/Ward.md"
+                "file": "Characters/NPCs/Strahd.md"
               }
             }
           }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Players/Ward.md",
+                "file": "Characters/NPCs/Strahd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,17 +165,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8ad3b1a1662216fd",
+  "active": "d0ee91c6f30f7352",
   "lastOpenFiles": [
-    "Characters/Players/Ward.md",
+    "Characters/NPCs/Strahd.md",
+    "Locations/Barovia/Vallaki/Vallaki.md",
     "Characters/Players/Rogue.md",
+    "Characters/Players/Ward.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
     "Session Notes/2022-04-09.md",
     "Ongoing Quests/Asterion's Master.md",
     "Session Notes/2022-02-19.md",
     "conflict-files-obsidian-git.md",
-    "Session Notes/2022-01-22.md",
-    "Characters/NPCs/Morgantha.md",
-    "Ongoing Quests/Kragg's Musical Journey.md"
+    "Session Notes/2022-01-22.md"
   ]
 }
