@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "-path:obsidian_data",
   "showTags": false,
   "showAttachments": false,
@@ -43,12 +43,12 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.35641025641026,
   "lineSizeMultiplier": 3.24102564102564,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 12.6495726495727,
   "linkStrength": 1,
