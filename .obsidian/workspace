@@ -8,24 +8,24 @@
         "type": "split",
         "children": [
           {
-            "id": "78eff842693ffa31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a7a6c288c16f0dc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Locations/Barovia/Tser Pool Encampment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c66ce508bb48279",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPCs/Madam Eva.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Tser Pool Encampment.md"
+                "file": "Characters/NPCs/Madam Eva.md"
               }
             }
           }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Tser Pool Encampment.md",
+                "file": "Characters/NPCs/Madam Eva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,17 +150,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a7a6c288c16f0dc7",
+  "active": "3c66ce508bb48279",
   "lastOpenFiles": [
+    "Characters/NPCs/Madam Eva.md",
     "Locations/Barovia/Tser Pool Encampment.md",
+    "Locations/Barovia/Mad Mage of Mount Baratok.md",
     "Locations/Barovia/Barovia (Country).md",
     "Ongoing Quests/Asterion's Master.md",
     "Characters/Players/Ward.md",
     "Ongoing Quests/The Hunt for Strahd.md",
     "Ongoing Quests/Reuniting with Bam's Fam.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
-    "Characters/NPCs/Ireena.md",
-    "Characters/NPCs/Morgantha.md",
-    "Characters/NPCs/Strahd.md"
+    "Characters/NPCs/Ireena.md"
   ]
 }

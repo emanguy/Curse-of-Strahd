@@ -11,5 +11,6 @@
   "defaultViewMode": "preview",
   "promptDelete": false,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "useMarkdownLinks": false
 }
