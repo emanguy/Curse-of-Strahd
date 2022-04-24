@@ -4,7 +4,11 @@
 Surrounded by impassable fog. Only the [[Vistani]] can go back and forth. Always cloudy or storming. Normal populous is the [[Barovians]].
 
 ## Locations
+* **D** -River Ivilis (see **page 35** for a description on this)
 * **E** - [[Barovia Town]]
+* **F** - [[River Ivilis Crossroads]]
+* **G** - [[Tser Pool Encampment]]
+* **H** - [[Tser Falls]]
 * **N** - [[Vallaki]]
 
 ## Magic Alterations

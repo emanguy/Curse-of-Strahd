@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d0ee91c6f30f7352",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/Barovia/Barovia (Country).md",
-            "mode": "source",
-            "source": false
+        "id": "92e4928037b0de5d",
+        "type": "split",
+        "children": [
+          {
+            "id": "d0ee91c6f30f7352",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Barovia/Barovia (Country).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78eff842693ffa31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Barovia/River Ivilis Crossroads.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -85,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia (Country).md"
+                "file": "Locations/Barovia/River Ivilis Crossroads.md"
               }
             }
           }
@@ -113,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia (Country).md",
+                "file": "Locations/Barovia/River Ivilis Crossroads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,8 +150,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d0ee91c6f30f7352",
+  "active": "78eff842693ffa31",
   "lastOpenFiles": [
+    "Locations/Barovia/River Ivilis Crossroads.md",
     "Locations/Barovia/Barovia (Country).md",
     "Characters/NPCs/Strahd.md",
     "Session Notes/2022-01-22.md",
@@ -141,7 +161,6 @@
     "Locations/Barovia/Barovia Town/Haunted House.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Characters/Players/Rogue.md",
-    "Characters/Players/Ward.md",
-    "Ongoing Quests/Asterion's Master.md"
+    "Characters/Players/Ward.md"
   ]
 }
