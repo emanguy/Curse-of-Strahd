@@ -1,7 +1,7 @@
 # The Land of Barovia
 ![[CurseofStrahd_LandOfBarovia_DM.jpg]]
 
-Surrounded by impassable fog. Only the [[Vistani]] can go back and forth. Always cloudy or storming. Normal populus is the [[Barovians]].
+Surrounded by impassable fog. Only the [[Vistani]] can go back and forth. Always cloudy or storming. Normal populous is the [[Barovians]].
 
 ## Locations
 * **E** - [[Barovia Town]]

@@ -13,3 +13,7 @@
 2. Find [[Rudolph van Richten]] - Van Richten is a famous vampire hunter. Strahd wants to capture him and torture him in his dungeons.
 3. Search for a successor or consort - When new people enter Barovia Strahd will try to determine if any of them are worthy successors or consorts. He especially likes fighting people who exhibit great fortitude or defiance
 
+## Roleplay Tips
+* Strahd has very few emotions left, so trying to appeal to his humanity won't work
+* He can be seductive and charming
+* He tries to drive a wedge in the party if possible, trying to sway PCs to his side and trying to turn them into vampire spawn
