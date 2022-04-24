@@ -6,3 +6,6 @@
   * To the east: [[Barovia Town]]
   * To the northwest: [[Tser Pool Encampment]]
   * To the southwest: [[Castle Ravenloft]]/[[Vallaki]]
+
+## Hanged Man
+* 
