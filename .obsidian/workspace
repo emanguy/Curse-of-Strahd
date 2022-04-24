@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ongoing Quests/Asterion's Master.md",
+                "file": "Locations/Barovia/Tser Pool Encampment.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ongoing Quests/Asterion's Master.md"
+                "file": "Locations/Barovia/Tser Pool Encampment.md"
               }
             }
           }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ongoing Quests/Asterion's Master.md",
+                "file": "Locations/Barovia/Tser Pool Encampment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,15 +152,15 @@
   },
   "active": "a7a6c288c16f0dc7",
   "lastOpenFiles": [
+    "Locations/Barovia/Tser Pool Encampment.md",
+    "Locations/Barovia/Barovia (Country).md",
     "Ongoing Quests/Asterion's Master.md",
+    "Characters/Players/Ward.md",
     "Ongoing Quests/The Hunt for Strahd.md",
     "Ongoing Quests/Reuniting with Bam's Fam.md",
-    "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Characters/NPCs/Ireena.md",
     "Characters/NPCs/Morgantha.md",
-    "Characters/NPCs/Strahd.md",
-    "Locations/Barovia/Barovia Town/Barovia Town.md",
-    "Characters/NPCs/Mayor's Daughter.md"
+    "Characters/NPCs/Strahd.md"
   ]
 }

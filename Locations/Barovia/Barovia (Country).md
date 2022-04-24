@@ -3,6 +3,8 @@
 
 Surrounded by impassable fog. Only the [[Vistani]] can go back and forth. Always cloudy or storming. Normal populous is the [[Barovians]].
 
+Random encounter tables for the overworld can be found on **page 28**
+
 ## Locations
 * **D** -River Ivilis (see **page 35** for a description on this)
 * **E** - [[Barovia Town]]

@@ -20,4 +20,4 @@
 ## What's happened so far
 * Asterion acquired a recording of his master's death from the wizard [[Delfen]] in [[Daggerford]]
 * After asking [[Father Donavich]] about the replica of the strange totem he found on his master's person he was pointed in the direction of the [[Haunted House]] as it has similar carvings and such in the area
-* Asterion found the place where 
+* Asterion found the place where his master was killed and found his old squirebot, [[Ward]]
