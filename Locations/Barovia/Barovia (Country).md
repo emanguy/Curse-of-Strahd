@@ -11,7 +11,17 @@ Random encounter tables for the overworld can be found on **page 28**
 * **F** - [[River Ivilis Crossroads]]
 * **G** - [[Tser Pool Encampment]]
 * **H** - [[Tser Falls]]
+* **J** - [[Gates of Ravenloft]]
+* **K** - [[Castle Ravenloft]]
+* **L** - [[Lake Zarovich]]
+* **M** - [[Mad Mage of Mount Baratok]]/[[Mad Mage's Mansion]]
 * **N** - [[Vallaki]]
+* **O** - [[Old Bonegrinder]]
+* **P** - [[Luna River Crossroads]]
+* **Q** - [[Argynvostholt]]
+* **R** - [[Raven River Crossroads]]
+* **S** - [[Village of Krezk]]
+* **T** - 
 
 ## Magic Alterations
 * You can't teleport out of Barovia
