@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPCs/Ireena.md",
+                "file": "Ongoing Quests/Asterion's Master.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Ireena.md"
+                "file": "Ongoing Quests/Asterion's Master.md"
               }
             }
           }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Ireena.md",
+                "file": "Ongoing Quests/Asterion's Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,15 +152,15 @@
   },
   "active": "a7a6c288c16f0dc7",
   "lastOpenFiles": [
-    "Characters/NPCs/Ireena.md",
-    "Locations/Barovia/Barovia Town/Barovia Town.md",
-    "Characters/NPCs/Mayor's Daughter.md",
-    "Ongoing Quests/Ireena, the Mayor's Daughter.md",
+    "Ongoing Quests/Asterion's Master.md",
     "Ongoing Quests/The Hunt for Strahd.md",
-    "Characters/Players/Rogue.md",
-    "Locations/Barovia/Tser Pool Encampment.md",
-    "Locations/Barovia/River Ivilis Crossroads.md",
-    "Locations/Barovia/Barovia Town/Haunted House.md",
-    "Characters/NPCs/Wham Booty.md"
+    "Ongoing Quests/Reuniting with Bam's Fam.md",
+    "Locations/Barovia/Barovia (Country).md",
+    "Locations/Barovia/Vallaki/Vallaki.md",
+    "Characters/NPCs/Ireena.md",
+    "Characters/NPCs/Morgantha.md",
+    "Characters/NPCs/Strahd.md",
+    "Locations/Barovia/Barovia Town/Barovia Town.md",
+    "Characters/NPCs/Mayor's Daughter.md"
   ]
 }
