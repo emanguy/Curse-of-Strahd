@@ -5,4 +5,4 @@
   * It also starts making him grow animal parts
 
 ## What's happened so far
-* 
+* Kragg picked up the lute off the person of the shambling mound in the basement of the [[Haunted House]]
