@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Barovia/River Ivilis Crossroads.md",
+                "file": "Locations/Barovia/Tser Pool Encampment.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/River Ivilis Crossroads.md"
+                "file": "Locations/Barovia/Tser Pool Encampment.md"
               }
             }
           }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/River Ivilis Crossroads.md",
+                "file": "Locations/Barovia/Tser Pool Encampment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,6 +152,8 @@
   },
   "active": "78eff842693ffa31",
   "lastOpenFiles": [
+    "Locations/Barovia/Tser Pool Encampment.md",
+    "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/River Ivilis Crossroads.md",
     "Ongoing Quests/Kragg's Musical Journey.md",
     "Ongoing Quests/Corvyn's Missing Parents.md",
@@ -159,8 +161,6 @@
     "Ongoing Quests/P'ome's family dishonor.md",
     "Ongoing Quests/Mad Mage of Mount Baratok.md",
     "Ongoing Quests/Reuniting with Bam's Fam.md",
-    "Ongoing Quests/The Hunt for Strahd.md",
-    "Characters/NPCs/Parriwimple.md",
-    "Locations/Eltergard/Triel.md"
+    "Ongoing Quests/The Hunt for Strahd.md"
   ]
 }
