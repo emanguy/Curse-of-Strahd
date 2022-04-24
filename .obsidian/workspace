@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Tser Pool Encampment.md",
+            "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Tser Pool Encampment.md"
+                "file": "Locations/Barovia/Barovia Town/Barovia Town.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Tser Pool Encampment.md",
+                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,9 +133,9 @@
   },
   "active": "78eff842693ffa31",
   "lastOpenFiles": [
+    "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Locations/Barovia/Tser Pool Encampment.md",
     "Locations/Barovia/River Ivilis Crossroads.md",
-    "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
     "Characters/NPCs/Wham Booty.md",
     "Characters/NPCs/Strahd.md",
