@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "92e4928037b0de5d",
-        "type": "split",
-        "children": [
-          {
-            "id": "d0ee91c6f30f7352",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Barovia/Barovia (Country).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78eff842693ffa31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Barovia/Tser Pool Encampment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+        "id": "78eff842693ffa31",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Locations/Barovia/Tser Pool Encampment.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -153,14 +134,14 @@
   "active": "78eff842693ffa31",
   "lastOpenFiles": [
     "Locations/Barovia/Tser Pool Encampment.md",
-    "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/River Ivilis Crossroads.md",
+    "Locations/Barovia/Barovia Town/Barovia Town.md",
+    "Locations/Barovia/Barovia Town/Haunted House.md",
+    "Characters/NPCs/Wham Booty.md",
+    "Characters/NPCs/Strahd.md",
+    "Locations/Barovia/Barovia (Country).md",
     "Ongoing Quests/Kragg's Musical Journey.md",
     "Ongoing Quests/Corvyn's Missing Parents.md",
-    "Ongoing Quests/Asterion's Master.md",
-    "Ongoing Quests/P'ome's family dishonor.md",
-    "Ongoing Quests/Mad Mage of Mount Baratok.md",
-    "Ongoing Quests/Reuniting with Bam's Fam.md",
-    "Ongoing Quests/The Hunt for Strahd.md"
+    "Ongoing Quests/Asterion's Master.md"
   ]
 }
