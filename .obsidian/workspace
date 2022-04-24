@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Barovia/River Ivilis Crossroads.md",
+                "file": "Ongoing Quests/Kragg's Musical Journey.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/River Ivilis Crossroads.md"
+                "file": "Ongoing Quests/Kragg's Musical Journey.md"
               }
             }
           }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/River Ivilis Crossroads.md",
+                "file": "Ongoing Quests/Kragg's Musical Journey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,10 +152,10 @@
   },
   "active": "78eff842693ffa31",
   "lastOpenFiles": [
+    "Ongoing Quests/Kragg's Musical Journey.md",
     "Locations/Barovia/River Ivilis Crossroads.md",
     "Ongoing Quests/Corvyn's Missing Parents.md",
     "Ongoing Quests/Asterion's Master.md",
-    "Ongoing Quests/Kragg's Musical Journey.md",
     "Ongoing Quests/P'ome's family dishonor.md",
     "Ongoing Quests/Mad Mage of Mount Baratok.md",
     "Ongoing Quests/Reuniting with Bam's Fam.md",
