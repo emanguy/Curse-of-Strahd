@@ -7,12 +7,8 @@
         "id": "a7a6c288c16f0dc7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/Barovia/Barovia (Country).md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -84,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Locations/Barovia/Barovia (Country).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -113,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia (Country).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

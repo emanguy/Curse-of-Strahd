@@ -11,6 +11,7 @@ Random encounter tables for the overworld can be found on **page 28**
 * **F** - [[River Ivilis Crossroads]]
 * **G** - [[Tser Pool Encampment]]
 * **H** - [[Tser Falls]]
+* **I** - [[Black Carriage]]
 * **J** - [[Gates of Ravenloft]]
 * **K** - [[Castle Ravenloft]]
 * **L** - [[Lake Zarovich]]
@@ -21,7 +22,13 @@ Random encounter tables for the overworld can be found on **page 28**
 * **Q** - [[Argynvostholt]]
 * **R** - [[Raven River Crossroads]]
 * **S** - [[Village of Krezk]]
-* **T** - 
+* **T** - [[Tsolenka Pass]]
+* **U** - [[Ruins of Berez]]
+* **V** - [[Van Richten's Tower]]
+* **W** - [[The Wizard of Wines]]
+* **X** - [[The Amber Temple]]
+* **Y** - [[Yester Hill]]
+* **Z** - [[Werewolf Den]]
 
 ## Magic Alterations
 * You can't teleport out of Barovia
