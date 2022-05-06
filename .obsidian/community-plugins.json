@@ -1,10 +1,10 @@
 [
-  "table-editor-obsidian",
   "calendar",
   "nldates-obsidian",
   "obsidian-image-toolkit",
   "cm-editor-syntax-highlight-obsidian",
   "url-into-selection",
   "obsidian-git",
-  "obsidian-icons-plugin"
+  "obsidian-icons-plugin",
+  "table-editor-obsidian"
 ]

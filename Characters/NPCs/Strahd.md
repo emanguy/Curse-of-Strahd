@@ -17,3 +17,9 @@
 * Strahd has very few emotions left, so trying to appeal to his humanity won't work
 * He can be seductive and charming
 * He tries to drive a wedge in the party if possible, trying to sway PCs to his side and trying to turn them into vampire spawn
+
+## Companion Roll Table
+| D20 | Creatures |
+| --- | --- |
+| 1-3| 1d6 + 3 ghouls 
+|
