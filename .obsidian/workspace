@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Barovia Town/Haunted House.md",
+            "file": "Session Notes/2022-04-09.md",
             "mode": "preview",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Haunted House.md"
+                "file": "Session Notes/2022-04-09.md"
               }
             }
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
+                "file": "Session Notes/2022-04-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,13 +130,13 @@
   },
   "active": "46e210f3d71ad276",
   "lastOpenFiles": [
+    "Session Notes/2022-04-09.md",
+    "Session Notes/2022-02-19.md",
+    "Session Notes/2022-01-22.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
     "Characters/NPCs/Ismark.md",
     "Ongoing Quests/Asterion's Master.md",
     "Locations/Barovia/Barovia (Country).md",
-    "Session Notes/2022-04-09.md",
-    "Session Notes/2022-02-19.md",
-    "Session Notes/2022-01-22.md",
     "Characters/NPCs/Strahd.md",
     "Characters/NPCs/Wham Booty.md",
     "Characters/NPCs/Groups/Vistani.md"
