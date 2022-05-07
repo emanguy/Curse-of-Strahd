@@ -10,7 +10,7 @@
           {
             "id": "46e210f3d71ad276",
             "type": "leaf",
-            "dimension": 43.96887159533074,
+            "dimension": 47.27452923686818,
             "state": {
               "type": "markdown",
               "state": {
@@ -23,7 +23,7 @@
           {
             "id": "53a3fa938d550609",
             "type": "leaf",
-            "dimension": 56.03112840466926,
+            "dimension": 52.72547076313181,
             "state": {
               "type": "markdown",
               "state": {
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia (Country).md"
+                "file": "Session Notes/2022-04-09.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia (Country).md",
+                "file": "Session Notes/2022-04-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,17 +149,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "53a3fa938d550609",
+  "active": "46e210f3d71ad276",
   "lastOpenFiles": [
-    "Locations/Barovia/Barovia (Country).md",
     "Session Notes/2022-04-09.md",
+    "Session Notes/2022-02-19.md",
+    "Session Notes/2022-01-22.md",
+    "Locations/Barovia/Barovia (Country).md",
     "Characters/NPCs/Strahd.md",
     "Characters/NPCs/Wham Booty.md",
     "Characters/NPCs/Groups/Vistani.md",
     "Characters/Players/Rogue.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
-    "Session Notes/2022-02-19.md",
-    "Session Notes/2022-01-22.md",
     "conflict-files-obsidian-git.md"
   ]
 }
