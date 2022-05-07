@@ -4,37 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8e3d2abc0dd41c47",
-        "type": "split",
-        "children": [
-          {
-            "id": "46e210f3d71ad276",
-            "type": "leaf",
-            "dimension": 47.27452923686818,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2022-04-09.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53a3fa938d550609",
-            "type": "leaf",
-            "dimension": 52.72547076313181,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Barovia/Barovia (Country).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
+        "id": "46e210f3d71ad276",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Locations/Barovia/Barovia Town/Haunted House.md",
+            "mode": "preview",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -104,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2022-04-09.md"
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md"
               }
             }
           }
@@ -131,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022-04-09.md",
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,15 +130,15 @@
   },
   "active": "46e210f3d71ad276",
   "lastOpenFiles": [
+    "Locations/Barovia/Barovia Town/Haunted House.md",
+    "Locations/Barovia/Barovia (Country).md",
     "Session Notes/2022-04-09.md",
     "Session Notes/2022-02-19.md",
     "Session Notes/2022-01-22.md",
-    "Locations/Barovia/Barovia (Country).md",
     "Characters/NPCs/Strahd.md",
     "Characters/NPCs/Wham Booty.md",
     "Characters/NPCs/Groups/Vistani.md",
     "Characters/Players/Rogue.md",
-    "Locations/Barovia/Barovia Town/Haunted House.md",
     "conflict-files-obsidian-git.md"
   ]
 }
