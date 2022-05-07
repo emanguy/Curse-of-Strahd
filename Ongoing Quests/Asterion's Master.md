@@ -8,7 +8,7 @@
 
 > Grand Ravenlord Durst,
 >
-> We have successfully set down in the nearby town of Vallaki. We shall continue to spread the promise of great hidden knowledge that our dark lord will surely bestow upon us as long as we continue our teachings. There are a great number of Barovians who wish to toss the yoke of this town's burgomaster as they have given up faith in him for our far greater purpose. We thank you for delivering the body of that strange armored heathen so we can plant our dark lord's seed in the hearts of the soulless here. We hope that you will soon visit to oversee our progress.
+> We have successfully set down in the nearby town of Vallaki. We shall continue to spread the promise of great hidden knowledge that our dark lord will surely bestow upon us as long as we continue our teachings. There are a great number of Barovians who wish to toss the yoke of this town's burgomaster as they have given up faith in him for our far greater purpose. We thank you for delivering the body of that strange armored heathen so we can plant our dark lord's influence in the hearts of the soulless here. We hope that you will soon visit to oversee our progress.
 >
 > He is the Ancient. He is the Land.
 > He will surely come soon.

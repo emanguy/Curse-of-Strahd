@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Barovia Town/Haunted House.md",
+            "file": "Ongoing Quests/Asterion's Master.md",
             "mode": "preview",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Haunted House.md"
+                "file": "Ongoing Quests/Asterion's Master.md"
               }
             }
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
+                "file": "Ongoing Quests/Asterion's Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +130,7 @@
   },
   "active": "46e210f3d71ad276",
   "lastOpenFiles": [
+    "Ongoing Quests/Asterion's Master.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
     "Locations/Barovia/Barovia (Country).md",
     "Session Notes/2022-04-09.md",
@@ -138,7 +139,6 @@
     "Characters/NPCs/Strahd.md",
     "Characters/NPCs/Wham Booty.md",
     "Characters/NPCs/Groups/Vistani.md",
-    "Characters/Players/Rogue.md",
-    "conflict-files-obsidian-git.md"
+    "Characters/Players/Rogue.md"
   ]
 }
