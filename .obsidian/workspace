@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c094ced71326a9b4",
+        "id": "8e3d2abc0dd41c47",
         "type": "split",
         "children": [
           {
             "id": "46e210f3d71ad276",
             "type": "leaf",
+            "dimension": 43.96887159533074,
             "state": {
               "type": "markdown",
               "state": {
@@ -20,19 +21,20 @@
             }
           },
           {
-            "id": "1d67809c3ec3a674",
+            "id": "53a3fa938d550609",
             "type": "leaf",
+            "dimension": 56.03112840466926,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ongoing Quests/Asterion's Master.md",
+                "file": "Locations/Barovia/Barovia (Country).md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "direction": "vertical"
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -79,24 +81,8 @@
     "type": "split",
     "children": [
       {
-        "id": "a038c8fea330297c",
-        "type": "tabs",
-        "dimension": 26.59870250231696,
-        "children": [
-          {
-            "id": "b50f42d6b8b86707",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "eac3e8cee37be832",
         "type": "tabs",
-        "dimension": 26.32066728452271,
         "children": [
           {
             "id": "c148f00bbf92aea2",
@@ -104,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Groups/Vistani.md"
+                "file": "Locations/Barovia/Barovia (Country).md"
               }
             }
           }
@@ -113,7 +99,6 @@
       {
         "id": "154db812d1f4cdf4",
         "type": "tabs",
-        "dimension": 47.08063021316033,
         "children": [
           {
             "id": "1e373c1578de3d9f",
@@ -132,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Groups/Vistani.md",
+                "file": "Locations/Barovia/Barovia (Country).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,24 +128,37 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "ab8171d3a5ef4f4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b50f42d6b8b86707",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "46e210f3d71ad276",
+  "active": "53a3fa938d550609",
   "lastOpenFiles": [
+    "Locations/Barovia/Barovia (Country).md",
     "Characters/NPCs/Groups/Vistani.md",
     "Characters/NPCs/Strahd.md",
     "Characters/Players/Rogue.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
     "Session Notes/2022-02-19.md",
-    "Ongoing Quests/Asterion's Master.md",
     "Session Notes/2022-01-22.md",
-    "Locations/Barovia/Barovia Town/Barovia Town.md",
-    "Characters/NPCs/Morgantha.md",
-    "Ongoing Quests/Kragg's Musical Journey.md"
+    "conflict-files-obsidian-git.md",
+    "Ongoing Quests/Asterion's Master.md",
+    "Characters/NPCs/Morgantha.md"
   ]
 }
