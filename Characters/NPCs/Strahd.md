@@ -19,7 +19,12 @@
 * He tries to drive a wedge in the party if possible, trying to sway PCs to his side and trying to turn them into vampire spawn
 
 ## Companion Roll Table
-| D20 | Creatures |
-| --- | --- |
-| 1-3| 1d6 + 3 ghouls 
-|
+| D20   | Creatures            |
+| ----- | -------------------- |
+| 1-3   | 1d4+2 **Dire Wolves**    |
+| 4-6   | 1d6+3 **Ghouls**         |
+| 7-9   | 1d4+2 **Strahd Zombies** |
+| 10-12 | 2d4 **Swarms of Bats**   |
+| 13-15 | 1d4+1 **Vampire Spawn**  |
+| 16-18 | 3d6 **Wolves**           |
+| 19-20 | None                 |

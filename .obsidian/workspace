@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPCs/Strahd.md",
-                "mode": "source",
+                "file": "Characters/NPCs/Groups/Vistani.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Strahd.md"
+                "file": "Characters/NPCs/Groups/Vistani.md"
               }
             }
           }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Strahd.md",
+                "file": "Characters/NPCs/Groups/Vistani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,6 +152,7 @@
   },
   "active": "46e210f3d71ad276",
   "lastOpenFiles": [
+    "Characters/NPCs/Groups/Vistani.md",
     "Characters/NPCs/Strahd.md",
     "Characters/Players/Rogue.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
@@ -160,7 +161,6 @@
     "Session Notes/2022-01-22.md",
     "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Characters/NPCs/Morgantha.md",
-    "Ongoing Quests/Kragg's Musical Journey.md",
-    "obsidian_data/Templates/Session Notes Template.md"
+    "Ongoing Quests/Kragg's Musical Journey.md"
   ]
 }
