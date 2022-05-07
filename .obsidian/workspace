@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Session Notes/2022-04-09.md",
-            "mode": "preview",
+            "file": "Session Notes/2022-05-07.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -83,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2022-04-09.md"
+                "file": "Session Notes/2022-05-07.md"
               }
             }
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022-04-09.md",
+                "file": "Session Notes/2022-05-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +130,7 @@
   },
   "active": "46e210f3d71ad276",
   "lastOpenFiles": [
+    "Session Notes/2022-05-07.md",
     "Session Notes/2022-04-09.md",
     "Session Notes/2022-02-19.md",
     "Session Notes/2022-01-22.md",
@@ -138,7 +139,6 @@
     "Ongoing Quests/Asterion's Master.md",
     "Locations/Barovia/Barovia (Country).md",
     "Characters/NPCs/Strahd.md",
-    "Characters/NPCs/Wham Booty.md",
-    "Characters/NPCs/Groups/Vistani.md"
+    "Characters/NPCs/Wham Booty.md"
   ]
 }
