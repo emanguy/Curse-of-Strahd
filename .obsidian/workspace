@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPCs/Groups/Vistani.md",
+                "file": "Session Notes/2022-04-09.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,6 +85,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "b50f42d6b8b86707",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "765041fb49beae30",
+        "type": "tabs",
+        "children": [
+          {
             "id": "c148f00bbf92aea2",
             "type": "leaf",
             "state": {
@@ -128,21 +142,8 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "ab8171d3a5ef4f4c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b50f42d6b8b86707",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -151,14 +152,14 @@
   "active": "53a3fa938d550609",
   "lastOpenFiles": [
     "Locations/Barovia/Barovia (Country).md",
-    "Characters/NPCs/Groups/Vistani.md",
+    "Session Notes/2022-04-09.md",
     "Characters/NPCs/Strahd.md",
+    "Characters/NPCs/Wham Booty.md",
+    "Characters/NPCs/Groups/Vistani.md",
     "Characters/Players/Rogue.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
     "Session Notes/2022-02-19.md",
     "Session Notes/2022-01-22.md",
-    "conflict-files-obsidian-git.md",
-    "Ongoing Quests/Asterion's Master.md",
-    "Characters/NPCs/Morgantha.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
