@@ -7,8 +7,12 @@
         "id": "a7a6c288c16f0dc7",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Session Notes/2022-05-07.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -80,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Session Notes/2022-05-07.md"
+              }
             }
           }
         ]
@@ -107,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session Notes/2022-05-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +133,8 @@
   },
   "active": "a7a6c288c16f0dc7",
   "lastOpenFiles": [
+    "Session Notes/2022-05-07.md",
+    "Session Notes/2022-04-09.md",
     "Locations/Barovia/River Ivilis Crossroads.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
     "Locations/Barovia/Barovia Town/Barovia Town.md",
@@ -133,8 +142,6 @@
     "Locations/Barovia/Tser Pool Encampment.md",
     "Characters/NPCs/Madam Eva.md",
     "Characters/NPCs/Ireena.md",
-    "Characters/NPCs/Mayor's Daughter.md",
-    "Characters/Players/Rogue.md",
-    "Characters/NPCs/Strahd.md"
+    "Characters/NPCs/Mayor's Daughter.md"
   ]
 }
