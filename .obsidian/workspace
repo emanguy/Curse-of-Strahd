@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPCs/Ismark.md",
+                "file": "Characters/NPCs/Madam Eva.md",
                 "mode": "preview",
                 "source": false
               }
@@ -92,8 +92,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Ismark.md"
+                "file": "Characters/NPCs/Madam Eva.md"
               }
             }
           }
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Ismark.md",
+                "file": "Characters/NPCs/Madam Eva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,15 +176,15 @@
   },
   "active": "4f9e06834f1faa3f",
   "lastOpenFiles": [
+    "Characters/NPCs/Madam Eva.md",
+    "Useful Links.md",
     "Characters/NPCs/Ismark.md",
     "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
     "Characters/NPCs/Strahd.md",
-    "Characters/NPCs/Madam Eva.md",
     "Locations/Barovia/Barovia (Country).md",
     "Ongoing Quests/Reuniting with Bam's Fam.md",
     "Characters/NPCs/Parriwimple.md",
-    "Locations/Barovia/Tser Pool Encampment.md",
-    "Locations/Barovia/River Ivilis Crossroads.md"
+    "Locations/Barovia/Tser Pool Encampment.md"
   ]
 }
