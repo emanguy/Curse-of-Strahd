@@ -1,4 +1,4 @@
-# Wham Booty
+# Wham Booty ([[Parriwimple]])
 * [[Bam Booty]]'s long lost brother
 * He's younger than Bam
 * He used to be best friends with [[Doru]] before he was turned

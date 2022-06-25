@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPCs/Madam Eva.md",
+                "file": "Ongoing Quests/The Hunt for Strahd.md",
                 "mode": "preview",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPCs/Strahd.md",
+                "file": "Characters/NPCs/Wham Booty.md",
                 "mode": "preview",
                 "source": false
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tarokk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Madam Eva.md"
+                "file": "Characters/NPCs/Wham Booty.md"
               }
             }
           }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Madam Eva.md",
+                "file": "Characters/NPCs/Wham Booty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,17 +174,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4f9e06834f1faa3f",
+  "active": "995d139047953789",
   "lastOpenFiles": [
+    "Characters/NPCs/Wham Booty.md",
+    "Characters/NPCs/Strahd.md",
+    "Ongoing Quests/The Hunt for Strahd.md",
     "Characters/NPCs/Madam Eva.md",
     "Useful Links.md",
     "Characters/NPCs/Ismark.md",
     "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
-    "Characters/NPCs/Strahd.md",
     "Locations/Barovia/Barovia (Country).md",
-    "Ongoing Quests/Reuniting with Bam's Fam.md",
-    "Characters/NPCs/Parriwimple.md",
-    "Locations/Barovia/Tser Pool Encampment.md"
+    "Ongoing Quests/Reuniting with Bam's Fam.md"
   ]
 }
