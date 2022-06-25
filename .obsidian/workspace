@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
+            "file": "Locations/Barovia/Barovia (Country).md",
             "mode": "preview",
             "source": false
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Barovia Town.md"
+                "file": "Locations/Barovia/Barovia (Country).md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
+                "file": "Locations/Barovia/Barovia (Country).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,8 +145,8 @@
   },
   "active": "a7a6c288c16f0dc7",
   "lastOpenFiles": [
-    "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Locations/Barovia/Barovia (Country).md",
+    "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Characters/NPCs/Strahd.md",
     "Ongoing Quests/The Hunt for Strahd.md",
     "Characters/NPCs/Morgantha.md",
