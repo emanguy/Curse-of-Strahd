@@ -16,47 +16,16 @@
         }
       },
       {
-        "id": "f366c94c23191957",
-        "type": "split",
-        "children": [
-          {
-            "id": "4f9e06834f1faa3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/NPCs/Strahd.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "995d139047953789",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ongoing Quests/Reuniting with Bam's Fam.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cc99e87a6e38a01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ongoing Quests/Reuniting with Bam's Fam.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
+        "id": "4f9e06834f1faa3f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Characters/NPCs/Strahd.md",
+            "mode": "preview",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -92,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Strahd.md"
+                "file": "Locations/Barovia/Barovia Town/Barovia Town.md"
               }
             }
           }
@@ -157,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Strahd.md",
+                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,11 +143,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4f9e06834f1faa3f",
+  "active": "a7a6c288c16f0dc7",
   "lastOpenFiles": [
+    "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Characters/NPCs/Strahd.md",
     "Ongoing Quests/The Hunt for Strahd.md",
-    "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Characters/NPCs/Morgantha.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
     "Ongoing Quests/Reuniting with Bam's Fam.md",
