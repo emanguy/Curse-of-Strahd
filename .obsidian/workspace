@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
+            "file": "Characters/NPCs/Morgantha.md",
             "mode": "preview",
             "source": false
           }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Barovia Town.md"
+                "file": "Characters/NPCs/Morgantha.md"
               }
             }
           }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
+                "file": "Characters/NPCs/Morgantha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +176,7 @@
   },
   "active": "a7a6c288c16f0dc7",
   "lastOpenFiles": [
+    "Characters/NPCs/Morgantha.md",
     "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
     "Ongoing Quests/Reuniting with Bam's Fam.md",
@@ -184,7 +185,6 @@
     "Ongoing Quests/The Hunt for Strahd.md",
     "Characters/NPCs/Madam Eva.md",
     "Useful Links.md",
-    "Characters/NPCs/Ismark.md",
-    "Locations/Barovia/Barovia (Country).md"
+    "Characters/NPCs/Ismark.md"
   ]
 }
