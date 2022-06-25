@@ -16,16 +16,35 @@
         }
       },
       {
-        "id": "4f9e06834f1faa3f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Characters/NPCs/Strahd.md",
-            "mode": "preview",
-            "source": false
+        "id": "828292de9eb2f0ee",
+        "type": "split",
+        "children": [
+          {
+            "id": "4f9e06834f1faa3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPCs/Strahd.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a23bfa29114eebc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2022-06-25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -97,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Barovia Town.md"
+                "file": "Session Notes/2022-06-25.md"
               }
             }
           }
@@ -125,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
+                "file": "Session Notes/2022-06-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,17 +162,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a7a6c288c16f0dc7",
+  "active": "2a23bfa29114eebc",
   "lastOpenFiles": [
-    "Locations/Barovia/Barovia Town/Barovia Town.md",
-    "Locations/Barovia/Barovia (Country).md",
+    "Session Notes/2022-06-25.md",
     "Characters/NPCs/Strahd.md",
+    "Locations/Barovia/Barovia Town/Barovia Town.md",
+    "Characters/NPCs/Groups/Vistani.md",
+    "Locations/Barovia/Barovia (Country).md",
     "Ongoing Quests/The Hunt for Strahd.md",
     "Characters/NPCs/Morgantha.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
     "Ongoing Quests/Reuniting with Bam's Fam.md",
-    "Characters/NPCs/Wham Booty.md",
-    "Characters/NPCs/Madam Eva.md",
-    "Useful Links.md"
+    "Characters/NPCs/Wham Booty.md"
   ]
 }
