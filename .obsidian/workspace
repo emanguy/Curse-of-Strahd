@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
+            "file": "Locations/Barovia/Barovia Town/Haunted House.md",
             "mode": "preview",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Ismark.md"
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md"
               }
             }
           }
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Ismark.md",
+                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,20 +173,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "4f9e06834f1faa3f",
+  "active": "a7a6c288c16f0dc7",
   "lastOpenFiles": [
+    "Locations/Barovia/Barovia Town/Haunted House.md",
+    "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Characters/NPCs/Ismark.md",
     "Characters/NPCs/Madam Eva.md",
-    "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Locations/Barovia/Barovia (Country).md",
     "Ongoing Quests/Reuniting with Bam's Fam.md",
     "Characters/NPCs/Parriwimple.md",
     "Characters/NPCs/Strahd.md",
     "Locations/Barovia/Tser Pool Encampment.md",
-    "Locations/Barovia/River Ivilis Crossroads.md",
-    "Session Notes/2022-01-22.md"
+    "Locations/Barovia/River Ivilis Crossroads.md"
   ]
 }
