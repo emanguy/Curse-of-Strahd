@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Session Notes/2022-05-07.md",
+            "file": "Locations/Barovia/Barovia (Country).md",
             "mode": "preview",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2022-05-07.md"
+                "file": "Locations/Barovia/Barovia (Country).md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022-05-07.md",
+                "file": "Locations/Barovia/Barovia (Country).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "a7a6c288c16f0dc7",
   "lastOpenFiles": [
-    "Session Notes/2022-05-07.md",
-    "Session Notes/2022-04-09.md",
-    "Locations/Barovia/River Ivilis Crossroads.md",
-    "Locations/Barovia/Barovia Town/Haunted House.md",
-    "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Tser Pool Encampment.md",
-    "Characters/NPCs/Madam Eva.md",
-    "Characters/NPCs/Ireena.md",
-    "Characters/NPCs/Mayor's Daughter.md"
+    "Locations/Barovia/River Ivilis Crossroads.md",
+    "Session Notes/2022-01-22.md",
+    "Session Notes/2022-05-07.md",
+    "Session Notes/2022-04-09.md",
+    "Session Notes/2022-02-19.md",
+    "Locations/Barovia/Barovia Town/Haunted House.md",
+    "Locations/Barovia/Barovia Town/Barovia Town.md",
+    "Characters/NPCs/Madam Eva.md"
   ]
 }
