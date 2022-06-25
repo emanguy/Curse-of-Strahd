@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/NPCs/Morgantha.md",
+            "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
             "mode": "preview",
             "source": false
           }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Morgantha.md"
+                "file": "Locations/Barovia/Barovia Town/Barovia Town.md"
               }
             }
           }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Morgantha.md",
+                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,8 +176,8 @@
   },
   "active": "a7a6c288c16f0dc7",
   "lastOpenFiles": [
-    "Characters/NPCs/Morgantha.md",
     "Locations/Barovia/Barovia Town/Barovia Town.md",
+    "Characters/NPCs/Morgantha.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
     "Ongoing Quests/Reuniting with Bam's Fam.md",
     "Characters/NPCs/Wham Booty.md",
