@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Barovia Town/Haunted House.md",
+            "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
             "mode": "preview",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gem",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Haunted House.md"
+                "file": "Characters/NPCs/Ismark.md"
               }
             }
           }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia Town/Haunted House.md",
+                "file": "Characters/NPCs/Ismark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,16 +175,16 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a7a6c288c16f0dc7",
+  "active": "4f9e06834f1faa3f",
   "lastOpenFiles": [
-    "Locations/Barovia/Barovia Town/Haunted House.md",
-    "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Characters/NPCs/Ismark.md",
+    "Locations/Barovia/Barovia Town/Barovia Town.md",
+    "Locations/Barovia/Barovia Town/Haunted House.md",
+    "Characters/NPCs/Strahd.md",
     "Characters/NPCs/Madam Eva.md",
     "Locations/Barovia/Barovia (Country).md",
     "Ongoing Quests/Reuniting with Bam's Fam.md",
     "Characters/NPCs/Parriwimple.md",
-    "Characters/NPCs/Strahd.md",
     "Locations/Barovia/Tser Pool Encampment.md",
     "Locations/Barovia/River Ivilis Crossroads.md"
   ]
