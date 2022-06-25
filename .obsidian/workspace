@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2022-06-25.md"
+                "file": "Locations/Barovia/Barovia Town/Barovia Town.md"
               }
             }
           }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022-06-25.md",
+                "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,11 +162,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2a23bfa29114eebc",
+  "active": "a7a6c288c16f0dc7",
   "lastOpenFiles": [
+    "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Session Notes/2022-06-25.md",
     "Characters/NPCs/Strahd.md",
-    "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Characters/NPCs/Groups/Vistani.md",
     "Locations/Barovia/Barovia (Country).md",
     "Ongoing Quests/The Hunt for Strahd.md",
