@@ -6,6 +6,7 @@
       {
         "id": "a7a6c288c16f0dc7",
         "type": "leaf",
+        "dimension": 34.490398818316095,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,6 +19,7 @@
       {
         "id": "4b664c42ee512c45",
         "type": "split",
+        "dimension": 65.50960118168389,
         "children": [
           {
             "id": "bb0790cc54f6fa3f",
@@ -157,6 +159,7 @@
   },
   "active": "153373e88b5516d4",
   "lastOpenFiles": [
+    "Useful Links.md",
     "Locations/Barovia/Gates of Barovia.md",
     "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Overworld Features/Black Carriage.md",
@@ -165,7 +168,6 @@
     "Locations/Barovia/Overworld Features/River Ivilis.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Barovia Town/Barovia Town.md",
-    "Session Notes/2022-06-25.md",
-    "Session Notes/2022-05-07.md"
+    "Session Notes/2022-06-25.md"
   ]
 }
