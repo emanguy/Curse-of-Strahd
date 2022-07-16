@@ -9,8 +9,8 @@ Random encounter tables for the overworld can be found on **page 28**
 
 ## Locations
 * **A** - [[Old Svalich Road]]
-* **B** - [[]]
-* **C** - 
+* **B** - [[Gates of Barovia]]
+* **C** - [[Svalich Woods]]
 * **D** - [[River Ivilis]]
 * **E** - [[Barovia Town]]
 * **F** - [[River Ivilis Crossroads]]
