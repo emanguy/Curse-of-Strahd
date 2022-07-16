@@ -5,7 +5,7 @@ Surrounded by impassable fog. Only the [[Vistani]] can go back and forth. Always
 
 **It should be noted that due to [[Strahd]]'s curse it's always cloudy so he can walk about without being affected by sunlight.**
 
-Random encounter tables for the overworld can be found on **page 28**
+Details for the random encounter tables for the overworld can be found on **page 28**
 
 ## Locations
 * **A** - [[Old Svalich Road]]
