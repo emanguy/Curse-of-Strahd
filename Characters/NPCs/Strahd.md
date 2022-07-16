@@ -9,7 +9,7 @@
 * Strahd now tries to search for a successor and brings adventurers into Barovia as playthings and potential successors
 
 ## Goals
-1. Turn [[Ireena]] - Ireena looks exactly like Tatyana. Strahd has visited her twice now and the previous time he drank her blood.
+1. Turn [[Ireena Kolyana]] - Ireena looks exactly like Tatyana. Strahd has visited her twice now and the previous time he drank her blood.
 2. Find [[Rudolph van Richten]] - Van Richten is a famous vampire hunter. Strahd wants to capture him and torture him in his dungeons.
 3. Search for a successor or consort - When new people enter Barovia Strahd will try to determine if any of them are worthy successors or consorts. He especially likes fighting people who exhibit great fortitude or defiance
 

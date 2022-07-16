@@ -1,4 +1,4 @@
-# Ireena
+# Ireena Kolyana
 * Human Woman with Auburn Hair
 * Bitten twice by [[Strahd]]
 * Has a strong will and will help the party however she can

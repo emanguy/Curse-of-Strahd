@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Svalich Woods.md",
+            "file": "Characters/NPCs/Ismark.md",
             "mode": "source",
             "source": false
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Svalich Woods.md"
+                "file": "Characters/NPCs/Ismark.md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Svalich Woods.md",
+                "file": "Characters/NPCs/Ismark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,8 @@
   },
   "active": "d91548312aa2f170",
   "lastOpenFiles": [
+    "Characters/NPCs/Ismark.md",
+    "Characters/NPCs/Ireena Kolyana.md",
     "Locations/Barovia/Svalich Woods.md",
     "Characters/NPCs/Kolyan Indirovich.md",
     "Characters/NPCs/Dalvan Olensky.md",
@@ -152,8 +154,6 @@
     "Locations/Barovia/Gates of Barovia.md",
     "Ongoing Quests/Kragg's Musical Journey.md",
     "Useful Links.md",
-    "Locations/Barovia/Overworld Features/Black Carriage.md",
-    "Locations/Barovia/Overworld Features/Old Svalich Road.md",
-    "Locations/Barovia/Overworld Features/Tser Falls.md"
+    "Locations/Barovia/Overworld Features/Black Carriage.md"
   ]
 }

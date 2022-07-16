@@ -18,4 +18,6 @@ After finding Dalvan:
 >  The foul scent leads you to a human corpse half-buried in the underbrush about fifteen feet from the road. The young man appears to be a commoner. His muddy clothes are torn and raked with claw marks. Crows have been at the body, which is surrounded by the paw prints. The man has obviously been dead for several days. He holds a crumpled envelope in one hand.
 
 ### Letter content
-> 
+> Hail to thee of might and valor,
+>
+> I, the Burgomaster of Barovia, send you honor -- with despair. My adopted daughter, the fair Ireena Kolyana, 
