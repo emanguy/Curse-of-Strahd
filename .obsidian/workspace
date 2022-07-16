@@ -6,7 +6,6 @@
       {
         "id": "a7a6c288c16f0dc7",
         "type": "leaf",
-        "dimension": 34.490398818316095,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,13 +16,12 @@
         }
       },
       {
-        "id": "bb0790cc54f6fa3f",
+        "id": "d91548312aa2f170",
         "type": "leaf",
-        "dimension": 65.50960118168389,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Gates of Barovia.md",
+            "file": "Locations/Barovia/Svalich Woods.md",
             "mode": "source",
             "source": false
           }
@@ -99,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia (Country).md"
+                "file": "Locations/Barovia/Svalich Woods.md"
               }
             }
           }
@@ -127,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia (Country).md",
+                "file": "Locations/Barovia/Svalich Woods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,8 +143,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a7a6c288c16f0dc7",
+  "active": "d91548312aa2f170",
   "lastOpenFiles": [
+    "Locations/Barovia/Svalich Woods.md",
     "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Gates of Barovia.md",
     "Ongoing Quests/Kragg's Musical Journey.md",
@@ -155,7 +154,6 @@
     "Locations/Barovia/Overworld Features/Old Svalich Road.md",
     "Locations/Barovia/Overworld Features/Tser Falls.md",
     "Locations/Barovia/Overworld Features/River Ivilis.md",
-    "Locations/Barovia/Vallaki/Vallaki.md",
-    "Locations/Barovia/Barovia Town/Barovia Town.md"
+    "Locations/Barovia/Vallaki/Vallaki.md"
   ]
 }

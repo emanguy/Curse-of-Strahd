@@ -3,6 +3,8 @@
 
 Surrounded by impassable fog. Only the [[Vistani]] can go back and forth. Always cloudy or storming. Normal populous is the [[Barovians]].
 
+The fog around Barovia chokes anyone who isn't a Vistani to death.
+
 **It should be noted that due to [[Strahd]]'s curse it's always cloudy so he can walk about without being affected by sunlight.**
 
 Details for the random encounter tables for the overworld can be found on **page 28**
