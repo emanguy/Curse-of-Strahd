@@ -20,4 +20,4 @@ After finding Dalvan:
 ### Letter content
 > Hail to thee of might and valor,
 >
-> I, the Burgomaster of Barovia, send you honor -- with despair. My adopted daughter, the fair Ireena Kolyana, 
+> I, the Burgomaster of Barovia, send you honor -- with despair. My adopted daughter, the fair Ireena Kolyana, has been these past nights bitten by a vampyr. For over four hundred years, this creature has drained the life blood of my people. Now, my dear Ireena langu

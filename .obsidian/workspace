@@ -16,12 +16,12 @@
         }
       },
       {
-        "id": "d91548312aa2f170",
+        "id": "76a7c8e598f1b259",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/NPCs/Ismark.md",
+            "file": "Locations/Barovia/Svalich Woods.md",
             "mode": "source",
             "source": false
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Ismark.md"
+                "file": "Locations/Barovia/Svalich Woods.md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Ismark.md",
+                "file": "Locations/Barovia/Svalich Woods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,14 +143,14 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d91548312aa2f170",
+  "active": "76a7c8e598f1b259",
   "lastOpenFiles": [
-    "Characters/NPCs/Ismark.md",
-    "Characters/NPCs/Ireena Kolyana.md",
     "Locations/Barovia/Svalich Woods.md",
+    "Locations/Barovia/Barovia (Country).md",
+    "Characters/NPCs/Ireena Kolyana.md",
+    "Characters/NPCs/Ismark Kolyanovich.md",
     "Characters/NPCs/Kolyan Indirovich.md",
     "Characters/NPCs/Dalvan Olensky.md",
-    "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Gates of Barovia.md",
     "Ongoing Quests/Kragg's Musical Journey.md",
     "Useful Links.md",
