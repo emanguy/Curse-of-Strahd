@@ -8,6 +8,9 @@ Surrounded by impassable fog. Only the [[Vistani]] can go back and forth. Always
 Random encounter tables for the overworld can be found on **page 28**
 
 ## Locations
+* **A** - [[Old Svalich Road]]
+* **B** - [[]]
+* **C** - 
 * **D** - [[River Ivilis]]
 * **E** - [[Barovia Town]]
 * **F** - [[River Ivilis Crossroads]]
