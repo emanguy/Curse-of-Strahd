@@ -78,16 +78,24 @@ The party should not get more than 2 random encounters in the span of 12 hours.
 | 20       | 1 revenant                                                                |
 
 ### Nighttime
-| d12 + d8 | Encounter          |
-| -------- | ------------------ |
-| 2        | 1 Ghost            |
-| 3        | Hunting trap       |
-| 4        | Grave              |
-| 5        | Trinket            |
-| 6        | Corpse             |
-| 7        | Hidden Bundle      |
-| 8        | Skeletal rider     |
-| 9        | 1d8 swarms of bats |
-| 10       | 1d6 dire wolves    |
-| 11       | 3d6 wolves         |
-|          |                    |
+| d12 + d8 | Encounter                    |
+| -------- | ---------------------------- |
+| 2        | 1 Ghost                      |
+| 3        | Hunting trap                 |
+| 4        | Grave                        |
+| 5        | Trinket                      |
+| 6        | Corpse                       |
+| 7        | Hidden Bundle                |
+| 8        | Skeletal rider               |
+| 9        | 1d8 swarms of bats           |
+| 10       | 1d6 dire wolves              |
+| 11       | 3d6 wolves                   |
+| 12       | 1d4 berserkers               |
+| 13       | 1 druid and 2d6 twig blights |
+| 14       | 2d4 needle blights           |
+| 15       | 1d6 werewolves in wolf form  |
+| 16       | 3d6 zombies                  |
+| 17       | 1d6 scarecrows               |
+| 18       | 1d8 strahd zombies           |
+| 19       | 1 will-o'-wisp               |
+| 20       | 1 revenant                   |
