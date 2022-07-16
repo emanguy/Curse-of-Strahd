@@ -6,3 +6,5 @@ If the party goes into the woods, they find the corpse of [[Dalvan Olensky]].
 * He was trying to put a letter on the eastern [[Gates of Barovia]] to warn newcomers to stay away from Barovia
 * Killed by dire wolves on the way
 * The letter he holds is from [[Kolyan Indirovich]]
+
+If the characters wait in the woods too long they'll start hearing wolves. Putting them ini

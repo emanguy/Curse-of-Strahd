@@ -26,18 +26,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "0862dc0669d900b5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Characters/NPCs/Kolyan Indirovich.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -109,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Kolyan Indirovich.md"
+                "file": "Locations/Barovia/Svalich Woods.md"
               }
             }
           }
@@ -137,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Kolyan Indirovich.md",
+                "file": "Locations/Barovia/Svalich Woods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,10 +143,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0862dc0669d900b5",
+  "active": "d91548312aa2f170",
   "lastOpenFiles": [
-    "Characters/NPCs/Kolyan Indirovich.md",
     "Locations/Barovia/Svalich Woods.md",
+    "Characters/NPCs/Kolyan Indirovich.md",
     "Characters/NPCs/Dalvan Olensky.md",
     "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Gates of Barovia.md",
