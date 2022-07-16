@@ -47,3 +47,17 @@ Random encounter tables for the overworld can be found on **page 28**
 | Spirit guardians       | Wall of stone |
 
 ## Random Encounter Table
+### Daytime
+| d12 + d8 | Encounter                                                                 |
+| -------- | ------------------------------------------------------------------------- |
+| 2        | 3d6 Barovian Commoners                                                    |
+| 3        | 3d6 Barovian Scouts                                                       |
+| 4        | Hunting Trap                                                              |
+| 5        | Grave                                                                     |
+| 6        | False Trail                                                               |
+| 7        | 1d4 + 1 Vistani Bandits                                                   |
+| 8        | Skeletal rider                                                            |
+| 9        | Trinket                                                                   |
+| 10       | Hidden Bundle                                                             |
+| 11       | Flip a coin. Heads: 1d4 swarms of ravens, Tails: 1 wereraven in crow form |
+| 12       |                                                                           |
