@@ -45,3 +45,5 @@ Random encounter tables for the overworld can be found on **page 28**
 | Maze                   | Phantom steed |
 | Rory's telepathic bond | Revivify      |
 | Spirit guardians       | Wall of stone |
+
+## Random Encounter Table
