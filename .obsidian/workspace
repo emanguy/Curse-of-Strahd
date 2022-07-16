@@ -22,7 +22,7 @@
           "type": "markdown",
           "state": {
             "file": "Locations/Barovia/Tser Falls.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Tser Falls.md"
+                "file": "Locations/Barovia/Barovia (Country).md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Tser Falls.md",
+                "file": "Locations/Barovia/Barovia (Country).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,10 +143,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "78cae22b618f85eb",
+  "active": "a7a6c288c16f0dc7",
   "lastOpenFiles": [
-    "Locations/Barovia/Tser Falls.md",
     "Locations/Barovia/Barovia (Country).md",
+    "Locations/Barovia/Tser Falls.md",
     "Locations/Barovia/River Ivilis.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Barovia Town/Barovia Town.md",
