@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia (Country).md"
+                "file": "Session Notes/2022-06-25.md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia (Country).md",
+                "file": "Session Notes/2022-06-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,10 +143,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a7a6c288c16f0dc7",
+  "active": "2a23bfa29114eebc",
   "lastOpenFiles": [
-    "Locations/Barovia/Barovia (Country).md",
     "Session Notes/2022-06-25.md",
+    "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Characters/NPCs/Strahd.md",
     "Characters/NPCs/Groups/Vistani.md",
