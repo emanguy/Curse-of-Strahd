@@ -16,16 +16,35 @@
         }
       },
       {
-        "id": "2a23bfa29114eebc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Session Notes/2022-06-25.md",
-            "mode": "preview",
-            "source": false
+        "id": "0c13469f8bd01789",
+        "type": "split",
+        "children": [
+          {
+            "id": "2a23bfa29114eebc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2022-06-25.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd8cc8f09643d6b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Barovia/Overworld Features/River Ivilis Crossroads.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -97,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2022-06-25.md"
+                "file": "Locations/Barovia/Barovia (Country).md"
               }
             }
           }
@@ -125,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022-06-25.md",
+                "file": "Locations/Barovia/Barovia (Country).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,17 +162,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2a23bfa29114eebc",
+  "active": "a7a6c288c16f0dc7",
   "lastOpenFiles": [
-    "Session Notes/2022-06-25.md",
     "Locations/Barovia/Barovia (Country).md",
+    "Locations/Barovia/Overworld Features/River Ivilis Crossroads.md",
+    "Session Notes/2022-06-25.md",
     "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Characters/NPCs/Strahd.md",
     "Characters/NPCs/Groups/Vistani.md",
     "Ongoing Quests/The Hunt for Strahd.md",
     "Characters/NPCs/Morgantha.md",
     "Locations/Barovia/Barovia Town/Haunted House.md",
-    "Ongoing Quests/Reuniting with Bam's Fam.md",
-    "Characters/NPCs/Wham Booty.md"
+    "Ongoing Quests/Reuniting with Bam's Fam.md"
   ]
 }
