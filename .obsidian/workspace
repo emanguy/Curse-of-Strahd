@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Barovia/Overworld Features/River Ivilis Crossroads.md",
+                "file": "Characters/NPCs/Ismark Kolyanovich.md",
                 "mode": "preview",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Overworld Features/River Ivilis Crossroads.md"
+                "file": "Characters/NPCs/Ismark Kolyanovich.md"
               }
             }
           }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Overworld Features/River Ivilis Crossroads.md",
+                "file": "Characters/NPCs/Ismark Kolyanovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,6 +164,8 @@
   },
   "active": "cd8cc8f09643d6b4",
   "lastOpenFiles": [
+    "Characters/NPCs/Ismark Kolyanovich.md",
+    "Characters/NPCs/Groups/Barovians.md",
     "Locations/Barovia/Overworld Features/River Ivilis Crossroads.md",
     "Locations/Barovia/Barovia (Country).md",
     "Session Notes/2022-06-25.md",
@@ -171,8 +173,6 @@
     "Characters/NPCs/Strahd.md",
     "Characters/NPCs/Groups/Vistani.md",
     "Ongoing Quests/The Hunt for Strahd.md",
-    "Characters/NPCs/Morgantha.md",
-    "Locations/Barovia/Barovia Town/Haunted House.md",
-    "Ongoing Quests/Reuniting with Bam's Fam.md"
+    "Characters/NPCs/Morgantha.md"
   ]
 }
