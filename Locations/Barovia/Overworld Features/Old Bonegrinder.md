@@ -55,5 +55,6 @@ More Detail:
   * _Ooh, Bella/Offie, I love your outfit. Is it made of satan?_
 * The two hags are also pricking the feet of the children in the **crates** in this room
   * The top one is empty but the middle and lower ones contain a child: [[Freek]] and [[Myrtle]]
+  * Full of crumbs because the hags are trying to fatten them
 * The discarded clothing belonged to children that the hags ate
 * 
