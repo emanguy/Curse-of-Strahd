@@ -1,4 +1,4 @@
-
+{
   "main": {
     "id": "04c567ea997f860f",
     "type": "split",
@@ -9,42 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Barovia (Country).md",
-            "mode": "preview",
+            "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
+            "mode": "source",
             "source": false
           }
         }
-      },
-      {
-        "id": "0c13469f8bd01789",
-        "type": "split",
-        "children": [
-          {
-            "id": "2a23bfa29114eebc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/NPCs/Strahd.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd8cc8f09643d6b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/NPCs/Ismark Kolyanovich.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -71,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "table",
+                "query": "jarov",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Strahd.md"
+                "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md"
               }
             }
           }
@@ -144,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Strahd.md",
+                "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,17 +131,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2a23bfa29114eebc",
+  "active": "a7a6c288c16f0dc7",
   "lastOpenFiles": [
-    "Characters/NPCs/Strahd.md",
-    "Session Notes/2022-06-25.md",
     "Locations/Barovia/Barovia (Country).md",
+    "Useful Links and Info.md",
+    "Locations/Barovia/Overworld Features/Black Carriage.md",
+    "Locations/Barovia/Overworld Features/Gates of Barovia.md",
+    "Characters/NPCs/Ireena Kolyana.md",
+    "Characters/Players/Rogue.md",
+    "Locations/Barovia/Overworld Features/Svalich Woods.md",
     "Characters/NPCs/Ismark Kolyanovich.md",
-    "Characters/NPCs/Groups/Barovians.md",
-    "Locations/Barovia/Overworld Features/River Ivilis Crossroads.md",
-    "Locations/Barovia/Barovia Town/Barovia Town.md",
-    "Characters/NPCs/Groups/Vistani.md",
-    "Ongoing Quests/The Hunt for Strahd.md",
-    "Characters/NPCs/Morgantha.md"
+    "Characters/NPCs/Kolyan Indirovich.md",
+    "Characters/NPCs/Dalvan Olensky.md"
   ]
 }
