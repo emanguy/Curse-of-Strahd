@@ -8,3 +8,4 @@
 * Bam has been having recurring nightmares involving childhood memories with his parents
 * When Bam reached [[Barovia Town]] and slept in the Blood of the Vine Tavern he had a modified version of the dream where he was playing with his toys with his brother.
   * He can determine it's [[Wham Booty]] almost through a sixth sense, like a tingling on the back of his neck
+* The two brothers are traveling together now after they met up in [[Barovia Town]] and are on their way to [[Old Bonegrinder]] for the next chunk

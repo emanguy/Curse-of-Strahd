@@ -32,4 +32,13 @@ More Detail:
     * Youth = golden syrup that makes you look younger for 24 hours
     * Laughter = red tea that gives you cackle fever (see _DMG Diseases, chapter 8_)
     * Mother's milk = pale tincture (see _DMG poisons, chapter 8_)
-  * There's a **chicken coop** with 3 chickens, a rooste
+  * There's a **chicken coop** with 3 chickens, a rooster, and some laid eggs
+  * There's a **wooden trunk** with holes drilled into it which contains 100 toads
+
+## Second Floor
+> A haggard, heavyset old woman with a face as wrinkled as boiled apple sweeps the floor, pushing around a few old bones and stirring up a cloud of white dust with her broom. She wears a bloodstained, flour-caked apron. A long, sharp bodkin  impales her bundled up mound of gray hair.
+> 
+> The dirt caked windows allow very little light to enter this eight-foot-high chamber, most of which is taken up by a large millstone connected to a wooden gear shaft that rises through the ceiling in the center of the room. A stone staircase continues up, toward the sound of loud cackling.
+
+* The party finds [[Morgantha]] here
+  * Doesn't mind visitors but wants them to bu
