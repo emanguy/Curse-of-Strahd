@@ -41,4 +41,5 @@ More Detail:
 > The dirt caked windows allow very little light to enter this eight-foot-high chamber, most of which is taken up by a large millstone connected to a wooden gear shaft that rises through the ceiling in the center of the room. A stone staircase continues up, toward the sound of loud cackling.
 
 * The party finds [[Morgantha]] here
-  * Doesn't mind visitors but wants them to bu
+  * Doesn't mind visitors but wants them to buy her dream pastries, changing 1gp apiece.
+  * Shouts "Begone!" if they don't want to buy the pastries 
