@@ -45,4 +45,10 @@ More Detail:
   * Shouts "Begone!" if they don't want to buy the pastries. If the party doesn't want to leave at this point she calls her daughters down to fight.
 
 ## Third Floor
-> Dancing around a thinck wooden gear shaft in the center of this cramped, circular room are two ugly young women wearing silk shawls and gowns of stitched flesh. Long needles st
+> Dancing around a thinck wooden gear shaft in the center of this cramped, circular room are two ugly young women wearing silk shawls and gowns of stitched flesh. Long needles stick out of their tangled mopns of black hair. The women cackle with glee.
+> 
+> In a rotting wooden closet are three crates, stacked one atop another, with small doors set into them. Next to the closet is a heap of discarded clothing. A ladder climbs to a wooden trapdoor in the nine foot high ceiling. A moldy bed with a tattered canopy stands nearby.
+
+* [[Bella Sunbane]] and [[Offalia Wormwiggle]] are nasty and sing, dance, and tell each other bad jokes
+  * _Old Strahdsy's been a real pain in that Ireena's neck hasn't he?_ 
+  * 
