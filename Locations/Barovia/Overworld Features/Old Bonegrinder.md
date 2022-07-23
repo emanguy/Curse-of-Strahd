@@ -35,7 +35,7 @@ More Detail:
   * There's a **chicken coop** with 3 chickens, a rooster, and some laid eggs
   * There's a **wooden trunk** with holes drilled into it which contains 100 toads
 
-## Second Floor
+## Second Floor - Bone Mill
 > A haggard, heavyset old woman with a face as wrinkled as boiled apple sweeps the floor, pushing around a few old bones and stirring up a cloud of white dust with her broom. She wears a bloodstained, flour-caked apron. A long, sharp bodkin  impales her bundled up mound of gray hair.
 > 
 > The dirt caked windows allow very little light to enter this eight-foot-high chamber, most of which is taken up by a large millstone connected to a wooden gear shaft that rises through the ceiling in the center of the room. A stone staircase continues up, toward the sound of loud cackling.
@@ -44,7 +44,7 @@ More Detail:
   * Doesn't mind visitors but wants them to buy her dream pastries, changing 1gp apiece.
   * Shouts "Begone!" if they don't want to buy the pastries. If the party doesn't want to leave at this point she calls her daughters down to fight.
 
-## Third Floor
+## Third Floor - Bedroom
 > Dancing around a thinck wooden gear shaft in the center of this cramped, circular room are two ugly young women wearing silk shawls and gowns of stitched flesh. Long needles stick out of their tangled mopns of black hair. The women cackle with glee.
 > 
 > In a rotting wooden closet are three crates, stacked one atop another, with small doors set into them. Next to the closet is a heap of discarded clothing. A ladder climbs to a wooden trapdoor in the nine foot high ceiling. A moldy bed with a tattered canopy stands nearby.
@@ -61,3 +61,17 @@ More Detail:
 ### Treasure
 * The hags don't use the bed for sleeping, they keep their treasure in it.
   * 6 pieces of cheap jewelry, 25gp each
+
+## Fourth Floor - Domed Attic
+> You've reached the windmill's peak -- a domed chamber filled with old machinery. There's not much room to move around. Light slips into this attic through small holes in the walls.
+
+* Accessible via a trap door
+* There are some abandoned bird's nests in here
+
+## Outside - The Megaliths
+* Four ancient stones covered in moss with depictions of four cities representing the 4 seasons
+  * Winter city covered in snow
+  * Spring city has a bunch of flowers
+  * Summer has a sunburst overhead
+  * Autumn covered in leaves
+* Asking scholarly NPCs about this will reveal that these four stones represent cities of paradise where the [[Morning]]
