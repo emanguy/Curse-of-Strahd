@@ -6,3 +6,4 @@
   * There are Vistani camps at the [[Tser Pool Encampment]] and just outside [[Vallaki]]
   * Strahd has undead enemies around such as the [[Order of the Silver Dragon]] who live in a mansion in [[Vallaki]]
   * Strahd has a carefully guarded secret in a temple in the mountains ([[The Amber Temple]]) which can be reached by following **Tsolenka Pass**
+* Gave her **hag's eye** to [[Cyrus Belview]] 

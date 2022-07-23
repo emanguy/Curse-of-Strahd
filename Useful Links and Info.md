@@ -25,4 +25,4 @@ In difficult terrain, such as the woods, movement speed is halved, resulting in 
   * -5 DC if the door is made of glass or weakened
 * **Secret doors** - Secret doors with obvious clues can be detected with a **DC 15** passive perception check, otherwise it requires an active perception check
 * **Locks** - Locked doors require thieves' tools and a **DC 15** dex check. Smashing locks takes a **DC 20** strength check.
-* **Webs** - 
+* **Webs** - cobwebs and normal webs can be passed through. They can be cleared in a 10-foot square as an action.
