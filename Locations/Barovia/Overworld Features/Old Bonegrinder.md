@@ -57,4 +57,7 @@ More Detail:
   * The top one is empty but the middle and lower ones contain a child: [[Freek]] and [[Myrtle]]
   * Full of crumbs because the hags are trying to fatten them
 * The discarded clothing belonged to children that the hags ate
-* 
+
+### Treasure
+* The hags don't use the bed for sleeping, they keep their treasure in it.
+  * 6 pieces of cheap jewelry, 25gp each
