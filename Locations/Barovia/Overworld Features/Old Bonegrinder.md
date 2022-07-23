@@ -51,4 +51,7 @@ More Detail:
 
 * [[Bella Sunbane]] and [[Offalia Wormwiggle]] are nasty and sing, dance, and tell each other bad jokes
   * _Old Strahdsy's been a real pain in that Ireena's neck hasn't he?_ 
-  * 
+  * _What do those Vistani do to the adventurers they bring around here? They put them between a rock and a Strahd place!_
+  * _Ooh, Bella/Offie, I love your outfit. Is it made of satan?_
+* The two hags are also pricking the feet of the children in the **crates** in this room
+* The discarded clothing belonged to chil
