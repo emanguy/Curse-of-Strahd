@@ -22,41 +22,10 @@
           "type": "markdown",
           "state": {
             "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
-      },
-      {
-        "id": "3eff349e2c38d3f6",
-        "type": "split",
-        "children": [
-          {
-            "id": "19c48bfb2abc891b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/NPCs/Freek.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad1549e7c14e63ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/NPCs/Myrtle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
       },
       {
         "id": "6f346e8ee45ab6f1",
@@ -65,7 +34,7 @@
           "type": "markdown",
           "state": {
             "file": "Ongoing Quests/Reuniting with Bam's Fam.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -77,7 +46,7 @@
           "type": "markdown",
           "state": {
             "file": "Characters/NPCs/Morgantha.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -107,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jarov",
+                "query": "morninglord",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md"
+                "file": "Characters/NPCs/Morgantha.md"
               }
             }
           }
@@ -180,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
+                "file": "Characters/NPCs/Morgantha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,17 +168,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "048c0b27ea5259cc",
+  "active": "c9c646e0586ffb0c",
   "lastOpenFiles": [
-    "Characters/NPCs/Morgantha.md",
-    "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
     "Ongoing Quests/Reuniting with Bam's Fam.md",
+    "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
     "Characters/NPCs/Myrtle.md",
     "Characters/NPCs/Freek.md",
+    "Locations/Barovia/Barovia Town/Barovia Town.md",
+    "Characters/NPCs/Morgantha.md",
     "Locations/Barovia/Barovia (Country).md",
     "Useful Links and Info.md",
     "Locations/Barovia/Overworld Features/Black Carriage.md",
-    "Locations/Barovia/Overworld Features/Gates of Barovia.md",
-    "Characters/NPCs/Ireena Kolyana.md"
+    "Locations/Barovia/Overworld Features/Gates of Barovia.md"
   ]
 }

@@ -13,7 +13,7 @@
   * The Burgomaster is dead in a coffin inside the mansion. [[Ireena Kolyana]] will not leave until he's taken to the church cemetery to be buried
   * Apparently wolves and other creatures have been attacking the mansion for a while and the Burgomaster's heart gave out 3 days ago from stress
 * **E5** - The Church. [[Father Donavich]] is the priest here and his son is a vampire in the basement. This is where The Burgomaster will get buried
-  * If the players bring the Burgomaster [[Kolyan Indirovich]] here to be buried the Father will ask that they hold the ceremony in the morning to pray to the **Morninglord**. 
+  * If the players bring the Burgomaster [[Kolyan Indirovich]] here to be buried the Father will ask that they hold the ceremony in the morning to pray to the [[Morninglord]]. 
     * He will also suggest that the players keep [[Ireena Kolyana]] as far away from [[Castle Ravenloft]] as possible. He suggests taking her either to [[The Abbey of Saint Markovia]] in [[Krezk]] or maybe [[Vallaki]]
 * **E6** - The Cemetery behind the church. At night dead adventurers march to [[Castle Ravenloft]] to try and kill [[Strahd]] like they did when they were still alive. Some will stand out to the party though:
   * [[Corvyn Folker]] - Ga'ael (Goliath barbarian)

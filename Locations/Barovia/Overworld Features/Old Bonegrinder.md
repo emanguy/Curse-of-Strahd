@@ -74,4 +74,6 @@ More Detail:
   * Spring city has a bunch of flowers
   * Summer has a sunburst overhead
   * Autumn covered in leaves
-* Asking scholarly NPCs about this will reveal that these four stones represent cities of paradise where the [[Morning]]
+* Asking scholarly NPCs about this will reveal that these four stones represent cities of paradise where the [[Morninglord]], [[Mother Night]], and the other ancient gods dwelled
+* Ravens circle overhead, one is pecking at a dream pastry on top of the autumn stone
+* There's a pile of children's teeth in the center which the hags used to desecrate the megaliths as an offering to [[Ceithlenn of the Crooked Teeth]] whom they worship
