@@ -14,4 +14,16 @@ More Detail:
 * The players can see a ring of stones (**The Megaliths**) in the forest beyond the windmill.
 
 ## Ground Floor
-> The ground floor has been converted into a makeshift kitchen, but the room is filthy. Baskets and old dishware are piled everywhere. Adding to the clutter is a peddler's cart, a chicken coop, a heavy wooden trunk, and a pretty wooden cabinet with
+> The ground floor has been converted into a makeshift kitchen, but the room is filthy. Baskets and old dishware are piled everywhere. Adding to the clutter is a peddler's cart, a chicken coop, a heavy wooden trunk, and a pretty wooden cabinet with flowers painted on its doors.. In addition to the clucking of the chickens, you hear toads croaking.
+>
+> The sweet smell of pastries blends horridly with a stench that burns your nostrils. The awful odor comes out of an open, upright barrel in the center of the room.
+>
+> Warmth issues from a brick oven against the wall, and a crumbling staircase ascends the wall across from it. Shrieks and cackles from somewhere higher up cause the old mill to shudder.
+
+* There are small human bones on the floor
+* There's an oven here where dream pastries are being baked (see [[Morgantha]])
+  * She checks on these pastries every 10 minutes
+* There's a barrel containing green-black demon ichor
+  * Morgantha uses this for scrying
+  * Can also summon a **dretch** from it by knocking on the barrel 3 times, which stays around and obeys her commands for 1 hour. **9 can be summoned at a time.**
+  * 
