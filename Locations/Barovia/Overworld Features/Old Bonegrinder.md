@@ -21,9 +21,15 @@ More Detail:
 > Warmth issues from a brick oven against the wall, and a crumbling staircase ascends the wall across from it. Shrieks and cackles from somewhere higher up cause the old mill to shudder.
 
 * There are small human bones on the floor
-* There's an oven here where dream pastries are being baked (see [[Morgantha]])
+* There's an **oven** here where dream pastries are being baked (see [[Morgantha]])
   * She checks on these pastries every 10 minutes
-* There's a barrel containing green-black demon ichor
+* There's a **barrel** containing green-black demon ichor
   * Morgantha uses this for scrying
   * Can also summon a **dretch** from it by knocking on the barrel 3 times, which stays around and obeys her commands for 1 hour. **9 can be summoned at a time.**
-  * 
+* The **cabinet** here contains wooden bowls of herbs and baking ingredients, including gourds of powdered bone
+  * On the inside of the doors there are **12 locks of hair**
+  * There are also 3 containers holding elixirs labeled **youth, laughter, and mother's milk**
+    * Youth = golden syrup that makes you look younger for 24 hours
+    * Laughter = red tea that gives you cackle fever (see _DMG Diseases, chapter 8_)
+    * Mother's milk = pale tincture (see _DMG poisons, chapter 8_)
+  * There's a **chicken coop** with 3 chickens, a rooste
