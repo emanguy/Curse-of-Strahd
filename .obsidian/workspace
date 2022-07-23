@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Useful Links and Info.md",
+            "file": "Locations/Barovia/Barovia (Country).md",
             "mode": "preview",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful Links and Info.md"
+                "file": "Locations/Barovia/Barovia (Country).md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful Links and Info.md",
+                "file": "Locations/Barovia/Barovia (Country).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "a7a6c288c16f0dc7",
   "lastOpenFiles": [
-    "Useful Links and Info.md",
     "Locations/Barovia/Barovia (Country).md",
+    "Useful Links and Info.md",
+    "Locations/Barovia/Overworld Features/Black Carriage.md",
     "Locations/Barovia/Overworld Features/Gates of Barovia.md",
     "Characters/NPCs/Ireena Kolyana.md",
     "Characters/Players/Rogue.md",
     "Locations/Barovia/Overworld Features/Svalich Woods.md",
     "Characters/NPCs/Ismark Kolyanovich.md",
     "Characters/NPCs/Kolyan Indirovich.md",
-    "Characters/NPCs/Dalvan Olensky.md",
-    "Ongoing Quests/Kragg's Musical Journey.md"
+    "Characters/NPCs/Dalvan Olensky.md"
   ]
 }

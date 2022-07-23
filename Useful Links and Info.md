@@ -8,7 +8,12 @@ Travel mechanics are detailed in the PHB on **page 181**. There is a table which
 
 **Players can only travel for 8 hours a day before risking exhaustion.**. Every hour past 8 hours, players must make a **DC 10 + # hours past 8** constitution saving throw. A failed save increases that character's exhaustion level by 1. Rules for exhaustion can be found on PHB **page 291**, and it should be noted that doing one long rest only removes one level of exhaustion.
 
-To condense the travel rules a bit since the [[Barovia (Country)]] map has 1/4 mile hexes, the players travel at the following speeds on foot:
+To condense the travel rules a bit since the [[Barovia (Country)]] map has 1/4 mile hexes, the players travel at the following speeds on foot on roads:
 * 3 minutes per hex at fast speed, but passive perception all has -5
 * 4 minutes per hex at normal speed
 * 6 minutes per hex at slow speed, but the characters can use stealth
+
+In difficult terrain, such as the woods, movement speed is halved, resulting in the following:
+* 6 minutes per hex at fast speed, but passive perception has -5
+* 8 minutes per hex at normal speed
+* 12 minutes per hex at slow speed, but characters can use stealth
