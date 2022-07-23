@@ -17,3 +17,12 @@ In difficult terrain, such as the woods, movement speed is halved, resulting in 
 * 6 minutes per hex at fast speed, but passive perception has -5
 * 8 minutes per hex at normal speed
 * 12 minutes per hex at slow speed, but characters can use stealth
+
+## Common Barovia Features
+* **Doors** - A door can be forced open with a **DC 10** strength check for normal doors or **DC 15** if it's barred/reinforced. Modifiers:
+  * +5 DC if the door is made of stone
+  * +10 DC if the door is made of iron
+  * -5 DC if the door is made of glass or weakened
+* **Secret doors** - Secret doors with obvious clues can be detected with a **DC 15** passive perception check, otherwise it requires an active perception check
+* **Locks** - Locked doors require thieves' tools and a **DC 15** dex check. Smashing locks takes a **DC 20** strength check.
+* **Webs** - 
