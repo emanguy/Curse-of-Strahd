@@ -2,7 +2,7 @@
 ![[CurseofStrahd_OldBonegrinder_DM.jpg]]
 
 ## Overview
-* Old bonegrinder is where [[Morgantha]]'s daughters ([[Bella Sunbane]] and [[Offalia Wormwiggle]]) form her coven. Hags use coven rules here.
+* Old bonegrinder is where [[Morgantha]]'s daughters ([[Bella Sunbane]] and [[Offalia Wormwiggle]], both night hags) form her coven. Hags use coven rules here.
 
 ## Approach
 > The Old Svalich Road transitions here from being a winding path through the Balinok Mountains to a lazy trail that hugs the mountainside as it descends into a fog filled valley. In the heart of the valley you see a walled town near the shores of a great mountain lake, its waters dark and still. A branch in the road leads west to a promontory, atop which is perched a dilapidated stone windmill, its warped wooden vanes stripped bare.
@@ -42,4 +42,7 @@ More Detail:
 
 * The party finds [[Morgantha]] here
   * Doesn't mind visitors but wants them to buy her dream pastries, changing 1gp apiece.
-  * Shouts "Begone!" if they don't want to buy the pastries 
+  * Shouts "Begone!" if they don't want to buy the pastries. If the party doesn't want to leave at this point she calls her daughters down to fight.
+
+## Third Floor
+> Dancing around a thinck wooden gear shaft in the center of this cramped, circular room are two ugly young women wearing silk shawls and gowns of stitched flesh. Long needles st
