@@ -28,6 +28,18 @@
         }
       },
       {
+        "id": "19c48bfb2abc891b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Characters/NPCs/Freek.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "6f346e8ee45ab6f1",
         "type": "leaf",
         "state": {
@@ -121,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md"
+                "file": "Characters/NPCs/Freek.md"
               }
             }
           }
@@ -149,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
+                "file": "Characters/NPCs/Freek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,17 +179,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "048c0b27ea5259cc",
+  "active": "19c48bfb2abc891b",
   "lastOpenFiles": [
+    "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
+    "Characters/NPCs/Freek.md",
     "Ongoing Quests/Reuniting with Bam's Fam.md",
     "Characters/NPCs/Morgantha.md",
-    "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
     "Locations/Barovia/Barovia (Country).md",
     "Useful Links and Info.md",
     "Locations/Barovia/Overworld Features/Black Carriage.md",
     "Locations/Barovia/Overworld Features/Gates of Barovia.md",
     "Characters/NPCs/Ireena Kolyana.md",
-    "Characters/Players/Rogue.md",
-    "Locations/Barovia/Overworld Features/Svalich Woods.md"
+    "Characters/Players/Rogue.md"
   ]
 }
