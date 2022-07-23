@@ -13,4 +13,7 @@
 * Eating one whole requires a **DC 16** con save or they fall into a trance for `1d4+4` hours
   * Ends early if a creature takes damage or someone shakes them out of it
   * In the trance the creature dreams of being in a joyous place and when they come out of it they want to go back
-* Made with the 
+* Made with the bones of the innocent
+* Essentially drugs that barovians use to escape their sad lives and have some joy.
+  * Because the barovians want the pastries so bad they're willing to trade their children for more pastries when they don't have the money for them
+  * Morgantha's coven (see [[Old Bonegrinder]]) wants children who have souls, tested by pricking them with a pin and seeing if they cry
