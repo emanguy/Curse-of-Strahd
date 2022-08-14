@@ -10,3 +10,7 @@
 * [[Lady Fiona Wachter]] hates the burgomaster, saying "I'd rather serve the devil than a madman". 
   * She has an old house in town but doesn't leave often. Her sons [[Nikolai Wachter]] and [[Karl Wachter]] are troublemakers
   * She has a mad daughter she keeps locked away
+  * [[Vargas Vallakovich]] doesn't mess with her because she has old ties to Strahd
+* Purple flashes have been seen coming from the attic of [[Vargas Vallakovich]]'s mansion
+* Wolves and dire wolves prowl the woods and aren't afraid to attack travelers of the Old Svalich Road. Hunters and Trappers managed to kill several but more keep coming
+* It's too dangerous to go fishing on [[Lake Zarovich]] but [[Strahd]]'s wolves haven
