@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia (Country).md"
+                "file": "Locations/Barovia/Lake Zarovich.md"
               }
             }
           }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia (Country).md",
+                "file": "Locations/Barovia/Lake Zarovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,11 +155,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a7a6c288c16f0dc7",
+  "active": "9da191cea8db82a9",
   "lastOpenFiles": [
+    "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Lake Zarovich.md",
     "Locations/Barovia/Overworld Features/Tser Pool Encampment.md",
-    "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Gates of Ravenloft.md",
     "Characters/NPCs/Ismark Kolyanovich.md",
     "Characters/NPCs/Strahd.md",
