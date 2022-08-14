@@ -9,3 +9,7 @@
   * North gate - "Zarovich Gate" - leads to [[Lake Zarovich]]
   * West gate - "Sunset Gate" - abandoned cottages outside
   * East gate - "Morning gate" - locals call it "Mourning gate"
+* The gates are locked at night with padlocks and are **guarded by 2 guards**. They carry pikes instead of spears and can stab through the gates
+  * **DC 20 Persuasion Check** to convince the guards to let you into the city at night
+  * Town has **24 total guards**, half of whom are on duty at any given time
+  * Town can also muster up a militia of 50 human **commoners**
