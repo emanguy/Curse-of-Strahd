@@ -27,11 +27,12 @@ Looking inside any house other than the marked ones will trigger a roll on this 
 | 19-20 | Vallaki cultists (2d4 adults/cultists and one cult fanatic who worship devils and follow [[Lady Fiona Wachter]]) |
 
 ## Areas
-* **N1**
-* **N2**
-* **N3**
-* **N4**
-* **N5**
-* **N6**
-* **N7**
-* **
+* **N1** - [[St. Andral's Church]]
+* **N2** - [[Blue Water Inn]]
+* **N3** - [[Burgomaster's Mansion (Vallaki)]]
+* **N4** - [[Wachterhaus]] - home of [[Lady Fiona Wachter]] and her sons
+* **N5** - [[Arasek Stockyard]]
+* **N6** - [[Coffin Maker's Shop]]
+* **N7** - [[Blinksy Toys]] - [[Gadof Blinksy]]'s workshop
+* **N8** - [[Town Square]]
+* **N9** - [[Vistani Camp (Vallaki)]] - [[Arabelle]]'s parents are here
