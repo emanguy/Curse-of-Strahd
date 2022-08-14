@@ -16,13 +16,25 @@
         }
       },
       {
+        "id": "9da191cea8db82a9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Locations/Barovia/Lake Zarovich.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "fb79e3f3862a4ec7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Locations/Barovia/Gates of Ravenloft.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -97,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Gates of Ravenloft.md"
+                "file": "Locations/Barovia/Barovia (Country).md"
               }
             }
           }
@@ -125,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Gates of Ravenloft.md",
+                "file": "Locations/Barovia/Barovia (Country).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,8 +155,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fb79e3f3862a4ec7",
+  "active": "a7a6c288c16f0dc7",
   "lastOpenFiles": [
+    "Locations/Barovia/Lake Zarovich.md",
+    "Locations/Barovia/Overworld Features/Tser Pool Encampment.md",
     "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Gates of Ravenloft.md",
     "Characters/NPCs/Ismark Kolyanovich.md",
@@ -152,8 +166,6 @@
     "Session Notes/2022-06-25.md",
     "Characters/NPCs/Groups/Barovians.md",
     "Locations/Barovia/Overworld Features/River Ivilis Crossroads.md",
-    "Locations/Barovia/Barovia Town/Barovia Town.md",
-    "Characters/NPCs/Groups/Vistani.md",
-    "Ongoing Quests/The Hunt for Strahd.md"
+    "Locations/Barovia/Barovia Town/Barovia Town.md"
   ]
 }
