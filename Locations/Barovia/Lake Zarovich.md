@@ -7,4 +7,6 @@ Add this if they went to the lake via the shore north of [[Vallaki]]:
 
 * Each rowboat holds **5 people**
 * The boat in the middle of the lake holds [[Bluto Krogarov]] who has [[Arabelle]]
-  * The boat is 400 feet from shore and can be reached by swi
+  * The boat is 400 feet from shore and can be reached before Arabelle is pushed in by swimming for a **DC 15 Athletics Check** or by taking a boat for a **DC 10 Athletics Check**.
+  * Bluto is in a trance and doesn't respond to anything unless attacked
+  * Arabelle is tied up with hempen rope and is in a burlap sack. She's lying down and can't be seen from shore

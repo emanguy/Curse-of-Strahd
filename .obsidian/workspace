@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Lake Zarovich.md",
+            "file": "Characters/NPCs/Bluto Krogarov.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Lake Zarovich.md"
+                "file": "Characters/NPCs/Bluto Krogarov.md"
               }
             }
           }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Lake Zarovich.md",
+                "file": "Characters/NPCs/Bluto Krogarov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,8 +157,8 @@
   },
   "active": "9da191cea8db82a9",
   "lastOpenFiles": [
-    "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Lake Zarovich.md",
+    "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Overworld Features/Tser Pool Encampment.md",
     "Locations/Barovia/Gates of Ravenloft.md",
     "Characters/NPCs/Ismark Kolyanovich.md",
