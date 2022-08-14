@@ -10,43 +10,19 @@
           "type": "markdown",
           "state": {
             "file": "Locations/Barovia/Barovia (Country).md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "fb79e3f3862a4ec7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Locations/Barovia/Gates of Ravenloft.md",
             "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "048c0b27ea5259cc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "6f346e8ee45ab6f1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ongoing Quests/Reuniting with Bam's Fam.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "c9c646e0586ffb0c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Characters/NPCs/Morgantha.md",
-            "mode": "preview",
             "source": false
           }
         }
@@ -76,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "morninglord",
+                "query": "table",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Morgantha.md"
+                "file": "Locations/Barovia/Gates of Ravenloft.md"
               }
             }
           }
@@ -150,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Morgantha.md",
+                "file": "Locations/Barovia/Gates of Ravenloft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,17 +143,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c9c646e0586ffb0c",
+  "active": "fb79e3f3862a4ec7",
   "lastOpenFiles": [
-    "Ongoing Quests/Reuniting with Bam's Fam.md",
-    "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
-    "Characters/NPCs/Myrtle.md",
-    "Characters/NPCs/Freek.md",
-    "Locations/Barovia/Barovia Town/Barovia Town.md",
-    "Characters/NPCs/Morgantha.md",
     "Locations/Barovia/Barovia (Country).md",
-    "Useful Links and Info.md",
-    "Locations/Barovia/Overworld Features/Black Carriage.md",
-    "Locations/Barovia/Overworld Features/Gates of Barovia.md"
+    "Locations/Barovia/Gates of Ravenloft.md",
+    "Characters/NPCs/Ismark Kolyanovich.md",
+    "Characters/NPCs/Strahd.md",
+    "Session Notes/2022-06-25.md",
+    "Characters/NPCs/Groups/Barovians.md",
+    "Locations/Barovia/Overworld Features/River Ivilis Crossroads.md",
+    "Locations/Barovia/Barovia Town/Barovia Town.md",
+    "Characters/NPCs/Groups/Vistani.md",
+    "Ongoing Quests/The Hunt for Strahd.md"
   ]
 }
