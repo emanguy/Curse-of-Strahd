@@ -36,3 +36,7 @@ Looking inside any house other than the marked ones will trigger a roll on this 
 * **N7** - [[Blinksy Toys]] - [[Gadof Blinksy]]'s workshop
 * **N8** - [[Town Square]]
 * **N9** - [[Vistani Camp (Vallaki)]] - [[Arabelle]]'s parents are here
+
+## Special Events
+* [[The Festival of the Blazing Sun]]
+* 
