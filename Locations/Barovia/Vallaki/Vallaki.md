@@ -38,5 +38,7 @@ Looking inside any house other than the marked ones will trigger a roll on this 
 * **N9** - [[Vistani Camp (Vallaki)]] - [[Arabelle]]'s parents are here
 
 ## Special Events
-* [[The Festival of the Blazing Sun]]
-* 
+* [[The Festival of the Blazing Sun]] - happens in the [[Town Square]]
+* [[Tyger, Tyger]] - happens at [[Arasek Stockyard]]
+* [[Lady Wachter's Wish]] - happens at [[Wachterhaus]]
+* [[St. Andral's Feast]] - happens at [[St. Andral's Church]]
