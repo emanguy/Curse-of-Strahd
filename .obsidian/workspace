@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Vallaki/Vallaki.md",
+            "file": "Characters/NPCs/Groups/Vallakians.md",
             "mode": "source",
             "source": false
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Vallaki.md"
+                "file": "Characters/NPCs/Groups/Vallakians.md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Vallaki.md",
+                "file": "Characters/NPCs/Groups/Vallakians.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,7 @@
   },
   "active": "18ed4a460d02e8cb",
   "lastOpenFiles": [
+    "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Gates of Ravenloft.md",
     "Locations/Barovia/Lake Zarovich.md",
@@ -153,7 +154,6 @@
     "Locations/Barovia/Overworld Features/Tser Pool Encampment.md",
     "Characters/NPCs/Ismark Kolyanovich.md",
     "Characters/NPCs/Strahd.md",
-    "Session Notes/2022-06-25.md",
-    "Characters/NPCs/Groups/Barovians.md"
+    "Session Notes/2022-06-25.md"
   ]
 }
