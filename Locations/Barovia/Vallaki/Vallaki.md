@@ -13,3 +13,13 @@
   * **DC 20 Persuasion Check** to convince the guards to let you into the city at night
   * Town has **24 total guards**, half of whom are on duty at any given time
   * Town can also muster up a militia of 50 human **commoners**
+
+## House occupants
+Looking inside any house other than the marked ones will trigger a roll on this occupant table with a D20:
+
+| d20   | Occupant                                                                             |
+| ----- | ------------------------------------------------------------------------------------ |
+| 1-3   | None                                                                                 |
+| 4-5   | 2d4 swarms of rats (servants of Strahd who attack the characters)                    |
+| 6-18  | Vallaki townsfolk (1d4 adults + 1d8 - 1 children, won't let characters in willingly) |
+| 19-20 | Vallaki cultists (2d4 )                                                                                     |
