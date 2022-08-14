@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Vallaki/Vallaki.md",
-            "mode": "source",
+            "file": "Useful Links and Info.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Vallaki.md"
+                "file": "Useful Links and Info.md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Vallaki.md",
+                "file": "Useful Links and Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,15 +145,15 @@
   },
   "active": "23aa791e073d543a",
   "lastOpenFiles": [
+    "Session Notes/2022-06-25.md",
+    "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Locations/Barovia/Barovia (Country).md",
-    "Locations/Barovia/Vallaki/Vallaki.md",
     "Characters/NPCs/Groups/Vallakians.md",
-    "Locations/Barovia/Gates of Ravenloft.md",
-    "Locations/Barovia/Lake Zarovich.md",
+    "Locations/Barovia/Overworld Features/Gates of Ravenloft.md",
+    "Locations/Barovia/Overworld Features/Lake Zarovich.md",
     "Characters/NPCs/Arabelle.md",
     "Characters/NPCs/Bluto Krogarov.md",
-    "Locations/Barovia/Overworld Features/Tser Pool Encampment.md",
-    "Characters/NPCs/Ismark Kolyanovich.md"
+    "Locations/Barovia/Overworld Features/Tser Pool Encampment.md"
   ]
 }

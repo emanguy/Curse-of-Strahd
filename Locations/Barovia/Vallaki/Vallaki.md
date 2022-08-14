@@ -4,6 +4,7 @@
 > The Old Svalich Road meanders into a valley watched over by dark, brooding mountains to the north and south. The woods recede, revealing a sullen mountain burg surrounded by a wooden palisade. Thick fog presses up against this wall, as though looking for a way inside, hoping to catch the town aslumber.
 > The dirt road ends at a set of sturdy iron gates with a pair of shadowy figures standing behind them. Planted in the ground and flanking the road outside the gates are a half-dozen pikes with wolves' heads impaled on them.
 
+* See common villager knowledge here: [[Vallakians]]
 * Town is surrounded by a 15 foot high wall
 * 3 Gates into town
   * North gate - "Zarovich Gate" - leads to [[Lake Zarovich]]
@@ -41,4 +42,4 @@ Looking inside any house other than the marked ones will trigger a roll on this 
 * [[The Festival of the Blazing Sun]] - happens in the [[Town Square]]
 * [[Tyger, Tyger]] - happens at [[Arasek Stockyard]]
 * [[Lady Wachter's Wish]] - happens at [[Wachterhaus]]
-* [[St. Andral's Feast]] - happens at [[St. Andral's Church]]
+* [[St. Andral's Feast]] - happens at [[St. Andral's Church]] but involves a vampire from the [[Coffin Maker's Shop]]
