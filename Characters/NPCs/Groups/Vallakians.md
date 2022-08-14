@@ -23,4 +23,8 @@
   * He goes out in the morning and returns in the evening not having caught anything
 * There have been recent sightings of the [[Mad Mage of Mount Baratok]]. People see him skulking along the north shore of [[Lake Zarovich]] casting lightning into the lake to catch fish
   * Villagers recommend they use the boats on the shore to get across, the woods are dangerous after all
-* 
+* There's a [[Vistani Camp (Vallaki)]] in the woods southwest of town
+  * The [[Vistani]] there aren't very friendly
+  * [[Vistani]] aren't welcome in town
+* There's a [[Argynvostholt|Haunted Mansion]] to the west of town. Legend has it that a dragon died there a long time ago
+* South of town is a village that has been abandoned for decades. Its burgomaster committed some terrible offense and incurred the wrath of [[Strahd]].

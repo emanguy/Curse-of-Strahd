@@ -9,19 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Barovia (Country).md",
+            "file": "Locations/Barovia/Barovia Town/Barovia Town.md",
             "mode": "preview",
             "source": false
           }
         }
       },
       {
-        "id": "18ed4a460d02e8cb",
+        "id": "23aa791e073d543a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/NPCs/Groups/Vallakians.md",
+            "file": "Locations/Barovia/Vallaki/Vallaki.md",
             "mode": "source",
             "source": false
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Groups/Vallakians.md"
+                "file": "Locations/Barovia/Vallaki/Vallaki.md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Groups/Vallakians.md",
+                "file": "Locations/Barovia/Vallaki/Vallaki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,17 +143,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "18ed4a460d02e8cb",
+  "active": "23aa791e073d543a",
   "lastOpenFiles": [
-    "Locations/Barovia/Vallaki/Vallaki.md",
+    "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Locations/Barovia/Barovia (Country).md",
+    "Locations/Barovia/Vallaki/Vallaki.md",
+    "Characters/NPCs/Groups/Vallakians.md",
     "Locations/Barovia/Gates of Ravenloft.md",
     "Locations/Barovia/Lake Zarovich.md",
     "Characters/NPCs/Arabelle.md",
     "Characters/NPCs/Bluto Krogarov.md",
     "Locations/Barovia/Overworld Features/Tser Pool Encampment.md",
-    "Characters/NPCs/Ismark Kolyanovich.md",
-    "Characters/NPCs/Strahd.md",
-    "Session Notes/2022-06-25.md"
+    "Characters/NPCs/Ismark Kolyanovich.md"
   ]
 }

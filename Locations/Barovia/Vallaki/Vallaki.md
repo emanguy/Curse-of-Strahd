@@ -26,3 +26,12 @@ Looking inside any house other than the marked ones will trigger a roll on this 
 | 6-18  | Vallaki townsfolk/commoners (1d4 adults + 1d8 - 1 children, won't let characters in willingly)                   |
 | 19-20 | Vallaki cultists (2d4 adults/cultists and one cult fanatic who worship devils and follow [[Lady Fiona Wachter]]) |
 
+## Areas
+* **N1**
+* **N2**
+* **N3**
+* **N4**
+* **N5**
+* **N6**
+* **N7**
+* **
