@@ -6,7 +6,7 @@
       {
         "id": "64577a83ad587149",
         "type": "leaf",
-        "dimension": 20,
+        "dimension": 29.963898916967516,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,30 +17,32 @@
         }
       },
       {
-        "id": "be1a279ae84c5329",
+        "id": "92ca219d5f0ca4e2",
         "type": "split",
-        "dimension": 80,
+        "dimension": 70.03610108303249,
         "children": [
           {
-            "id": "23aa791e073d543a",
+            "id": "1364bad8820ed171",
             "type": "leaf",
-            "dimension": 26.091269841269842,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPCs/Patrina Velikovna.md",
+                "file": "Locations/Barovia/Vallaki/Vistani Camp (Vallaki).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cefced924ab1956e",
+            "id": "23aa791e073d543a",
             "type": "leaf",
-            "dimension": 73.90873015873017,
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPCs/Patrina Velikovna.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -115,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Locations/Barovia/Vallaki/Vistani Camp (Vallaki).md"
+              }
             }
           }
         ]
@@ -142,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/Barovia/Vallaki/Vistani Camp (Vallaki).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,10 +164,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cefced924ab1956e",
+  "active": "1364bad8820ed171",
   "lastOpenFiles": [
-    "Locations/Barovia/Vallaki/Vallaki.md",
     "Characters/NPCs/Patrina Velikovna.md",
+    "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Vallaki/Vistani Camp (Vallaki).md",
     "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Useful Links and Info.md",

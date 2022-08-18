@@ -17,3 +17,8 @@
 
 ## Landmarks
 ### A - Kasimir's Hovel
+> Standing quietly in front of this house, bathed in the warm light of its lanterns, are three sullen, gray-cloaked figures, their angular features and black, flowing hair half-hidden under their cowls.
+
+* 3 figures mentioned above are **guards** (N male dusk elves) who direct characters inside
+* Hovel has wooden statuettes of elven deities in cubbyholes along a wall and there's a tapestry of a forest too
+* [[Kasimir Velikov]] can be found here
