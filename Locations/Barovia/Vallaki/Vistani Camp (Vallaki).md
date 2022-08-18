@@ -53,3 +53,6 @@
 * [[Luvash]] is punishing [[Alexei]] (CN male human **bandit** with 3HP) who failed to keep a watchful eye on [[Arabelle]]
   * He's accepted the punishment and tells the characters not to free him if they try, not wanting to look weak in front of the two Vistani
 * There are also 6 conked out Vistani (CN human **bandits**) on the floor who only wake up if they take at least 5HP of damage
+* 12 vistani **bandits** are missing from the camp who are searching for [[Arabelle]]
+  * Every hour, **1d4 of them return** with no new news about her
+  * 9 of them appear within 2 rounds if the alarm is sounded 
