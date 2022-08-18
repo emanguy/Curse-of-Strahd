@@ -42,4 +42,8 @@
 ### B - Dusk Elf Hovels
 > A grim, gray-cloaked figure stands in front of the door to this house.
 
-* The figure is a **
+* The figure is a **guard** (N male dusk elf) who directs the party to [[Kasimir Velikov]]'s house
+* Inside is the same as Kasimir's place but they're vacant because the elves are looking for [[Arabelle]]
+
+### C - Vistani Tent
+> Piled outside tho wagon are several empty casks of wine. From inside the tent comes the crack of a whip followed by the howls of a young man. Three sputtering campfires fill the tent with smoke, and through the haze you see six Vistani passed out in various places on the dead grass. A barely conscious and shirtless teenager hugs the central tent pole, his wrists bound with rope and his back streaked with blood. An older, larger man in studded leather armor lashes the young man witha horsewhip, causing him to scream again. Standing in the bigger man's shadow is a third man also clad in studded leather. "Easy, brother," he says to the whip-wielding brute. " think Alexei has learned his lesson."
