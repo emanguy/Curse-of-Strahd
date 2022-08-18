@@ -48,6 +48,8 @@
 ### C - Vistani Tent
 > Piled outside tho wagon are several empty casks of wine. From inside the tent comes the crack of a whip followed by the howls of a young man. Three sputtering campfires fill the tent with smoke, and through the haze you see six Vistani passed out in various places on the dead grass. A barely conscious and shirtless teenager hugs the central tent pole, his wrists bound with rope and his back streaked with blood. An older, larger man in studded leather armor lashes the young man with a horsewhip, causing him to scream again. Standing in the bigger man's shadow is a third man also clad in studded leather. "Easy, brother," he says to the whip-wielding brute. "I think Alexei has learned his lesson."
 
-* The two [[Vistani]] in studded leather armor are [[Luvash]] and [[Arrigal]], **bandit captains**, CE and NE respectively
+* The two [[Vistani]] in studded leather armor are [[Luvash]] and [[Arrigal]], **bandit captains**, CE and NE respectively who are the camp leaders
   * Each of them carries a key to the treasure wagon (see below)
-* [[Luvash]] is punishing [[Alexei]] (CN male human **bandit** with 3HP) 
+* [[Luvash]] is punishing [[Alexei]] (CN male human **bandit** with 3HP) who failed to keep a watchful eye on [[Arabelle]]
+  * He's accepted the punishment and tells the characters not to free him if they try, not wanting to look weak in front of the two Vistani
+* There are also 6 conked out Vistani (CN human **bandits**) on the floor who only wake up if they take at least 5HP of damage
