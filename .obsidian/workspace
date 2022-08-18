@@ -6,7 +6,7 @@
       {
         "id": "64577a83ad587149",
         "type": "leaf",
-        "dimension": 63.11787072243346,
+        "dimension": 46.10894941634241,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,7 +19,7 @@
       {
         "id": "1364bad8820ed171",
         "type": "leaf",
-        "dimension": 36.88212927756654,
+        "dimension": 53.89105058365759,
         "state": {
           "type": "markdown",
           "state": {
@@ -147,15 +147,15 @@
   },
   "active": "1364bad8820ed171",
   "lastOpenFiles": [
-    "Characters/NPCs/Patrina Velikovna.md",
-    "Locations/Barovia/Vallaki/Vistani Camp (Vallaki).md",
     "Locations/Barovia/Vallaki/Vallaki.md",
-    "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Useful Links and Info.md",
+    "Ongoing Quests/The Hunt for Strahd.md",
+    "Locations/Barovia/Vallaki/Vistani Camp (Vallaki).md",
+    "Characters/NPCs/Patrina Velikovna.md",
+    "Locations/Barovia/Barovia Town/Barovia Town.md",
     "Session Notes/2022-06-25.md",
     "Locations/Barovia/Barovia (Country).md",
     "Characters/NPCs/Groups/Vallakians.md",
-    "Locations/Barovia/Overworld Features/Gates of Ravenloft.md",
-    "Locations/Barovia/Overworld Features/Lake Zarovich.md"
+    "Locations/Barovia/Overworld Features/Gates of Ravenloft.md"
   ]
 }

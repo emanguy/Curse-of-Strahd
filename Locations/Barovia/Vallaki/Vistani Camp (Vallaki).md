@@ -25,4 +25,21 @@
   * Says [[Patrina Velikovna]] is sending him dreams and that she's buried in the catacombs below [[Castle Ravenloft]]
     * Thinks she repented for her sins and wants to be free and brought back to life
   * If the characters seem like they wanna destroy [[Strahd]] he will tell them about [[The Amber Temple]] and that it might hold the key to destroying him
-    * He wants to accompany the characters there to 
+    * He wants to accompany the characters there to see if he can find something to bring his sister back to life
+
+#### Treasure
+* [[Kasimir Velikov]] wears a **ring of warmth** and has a **leather-bound spellbook** containing all the spells he has prepared plus the following:
+  * Arcane Lock
+  * Compehend Languages
+  * Hold Person
+  * Identify
+  * Locate object
+  * Nondetection
+  * Polymorph
+  * Protection from evil and good
+  * Wall of stone
+
+### B - Dusk Elf Hovels
+> A grim, gray-cloaked figure stands in front of the door to this house.
+
+* The figure is a **
