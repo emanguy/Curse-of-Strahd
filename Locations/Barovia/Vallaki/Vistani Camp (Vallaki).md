@@ -50,9 +50,11 @@
 
 * The two [[Vistani]] in studded leather armor are [[Luvash]] and [[Arrigal]], **bandit captains**, CE and NE respectively who are the camp leaders
   * Each of them carries a key to the treasure wagon (see below)
+  * [[Luvash]] is overjoyed if [[Arabelle]] is returned and allows the party to pick an item from the treasure wagon (see below)
+  * If the characters ask a favor from them they won't cooperate until the party either brings them [[Arabelle]] or 6 barrels of wine, recommending they get the barrels in either [[Vallaki]] or [[The Wizard of Wines]] refinery
 * [[Luvash]] is punishing [[Alexei]] (CN male human **bandit** with 3HP) who failed to keep a watchful eye on [[Arabelle]]
   * He's accepted the punishment and tells the characters not to free him if they try, not wanting to look weak in front of the two Vistani
 * There are also 6 conked out Vistani (CN human **bandits**) on the floor who only wake up if they take at least 5HP of damage
 * 12 vistani **bandits** are missing from the camp who are searching for [[Arabelle]]
   * Every hour, **1d4 of them return** with no new news about her
-  * 9 of them appear within 2 rounds if the alarm is sounded 
+  * 9 of them appear within 2 rounds if the alarm is sounded for whatever reason
