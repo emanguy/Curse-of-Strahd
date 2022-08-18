@@ -63,3 +63,5 @@
 
 ### D - Horses
 >  The hilltop is covered with steaming piles of horse dung. More than two dozen horses are tethered to stone blocks inside the circle of wagons but outside the tent. Most of the animals are draft horses, but a few of them are riding horses equipped with saddles.
+
+* There are 24 **draft horses** and 6 **riding horses** here
