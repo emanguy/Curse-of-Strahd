@@ -22,3 +22,7 @@
 * 3 figures mentioned above are **guards** (N male dusk elves) who direct characters inside
 * Hovel has wooden statuettes of elven deities in cubbyholes along a wall and there's a tapestry of a forest too
 * [[Kasimir Velikov]] can be found here
+  * Says [[Patrina Velikovna]] is sending him dreams and that she's buried in the catacombs below [[Castle Ravenloft]]
+    * Thinks she repented for her sins and wants to be free and brought back to life
+  * If the characters seem like they wanna destroy [[Strahd]] he will tell them about [[The Amber Temple]] and that it might hold the key to destroying him
+    * He wants to accompany the characters there to 
