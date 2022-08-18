@@ -11,8 +11,9 @@
     * Also want wine because they ran out
   * The dusk elves had all their women killed by [[Strahd]] 4 centuries ago
     * They live in the small cottages lower on the hill
+    * [[Kasimir Velikov]], [[Patrina Velikovna]]'s brother, lives here
     * Many of them looking for [[Arabelle]] too
     * Kept safe by the Vistani and don't want to get on Strahd's bad side
 
 ## Landmarks
-### 
+### A - Kasimir's Hovel
