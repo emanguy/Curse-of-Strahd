@@ -77,11 +77,25 @@
 * There are "golden sun" hubcaps on the wagon which are worth 125 gp each
 
 ### F - Wagon of Sleeping Vistani
-> You hear heavy snores from with
+> You hear heavy snores from within this barrel-topped wagon.
+
+* There are **1d4 sleeping Vistani** inside (CN human bandits)
+* They wake up if the wagon is shaken or they take damage
 
 ### G - Wagon of Gambling Vistani
+> Loud voices and laughter spill from this barrel-topped wagon.
+
+* There are **3 Vistani** (CN male/female human bandits) inside playing a dice game with no stakes because they have no money
 
 ### H - Vistani Family Wagon
+* There is **1 Vistani adult and 1d4+1 vistani children** inside the wagon (the adult has commoner stats)
+* The adult is doing one of the following:
+  * Watching the children play games
+  * Teaching the children about their heritage
+  * Telling the children a scary story
 
 ### I - Vistani Treasure Wagon
+> Two iron padlocks secure the door of this barrel topped wagon
 
+* Locked with the keys held by [[Luvash]] and [[Arrigal]]
+* The padlocks are rigged with a 
