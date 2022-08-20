@@ -4,26 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "64577a83ad587149",
+        "id": "a7a6c288c16f0dc7",
         "type": "leaf",
-        "dimension": 44.2063492063492,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Vallaki/Vallaki.md",
+            "file": "Locations/Barovia/Barovia (Country).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "048c0b27ea5259cc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
             "mode": "preview",
             "source": false
           }
         }
       },
       {
-        "id": "1364bad8820ed171",
+        "id": "e623eef0650826bd",
         "type": "leaf",
-        "dimension": 55.7936507936508,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "c9c646e0586ffb0c",
+        "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Vallaki/Vistani Camp (Vallaki).md",
+            "file": "Characters/NPCs/Morgantha.md",
             "mode": "preview",
             "source": false
           }
@@ -54,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "table",
+                "query": "morninglord",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +81,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Vistani Camp (Vallaki).md"
+                "file": "Characters/NPCs/Morgantha.md"
               }
             }
           }
@@ -127,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Vistani Camp (Vallaki).md",
+                "file": "Characters/NPCs/Morgantha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,17 +164,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1364bad8820ed171",
+  "active": "e623eef0650826bd",
   "lastOpenFiles": [
-    "Characters/NPCs/Luvash.md",
-    "Locations/Barovia/Vallaki/Vistani Camp (Vallaki).md",
-    "Locations/Barovia/Vallaki/Vallaki.md",
-    "Useful Links and Info.md",
-    "Ongoing Quests/The Hunt for Strahd.md",
-    "Characters/NPCs/Patrina Velikovna.md",
-    "Locations/Barovia/Barovia Town/Barovia Town.md",
-    "Session Notes/2022-06-25.md",
+    "conflict-files-obsidian-git.md",
+    "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
+    "Characters/NPCs/Morgantha.md",
     "Locations/Barovia/Barovia (Country).md",
-    "Characters/NPCs/Groups/Vallakians.md"
+    "Ongoing Quests/Reuniting with Bam's Fam.md",
+    "Characters/NPCs/Myrtle.md",
+    "Characters/NPCs/Freek.md",
+    "Locations/Barovia/Barovia Town/Barovia Town.md",
+    "Useful Links and Info.md",
+    "Locations/Barovia/Overworld Features/Black Carriage.md"
   ]
 }
