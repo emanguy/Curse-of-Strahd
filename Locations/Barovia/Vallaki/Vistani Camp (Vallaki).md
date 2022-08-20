@@ -65,3 +65,14 @@
 >  The hilltop is covered with steaming piles of horse dung. More than two dozen horses are tethered to stone blocks inside the circle of wagons but outside the tent. Most of the animals are draft horses, but a few of them are riding horses equipped with saddles.
 
 * There are 24 **draft horses** and 6 **riding horses** here
+
+### E - Luvash's Wagon
+> This barrel-topped wagon is nicer than the others. Drapes of golden silk hang in the windows, and the wheels have gold, sun-shaped hubcaps. An iron chimney pipe protrudes from the roof.
+### F - Wagon of Sleeping Vistani
+
+### G - Wagon of Gambling Vistani
+
+### H - Vistani Family Wagon
+
+### I - Vistani Treasure Wagon
+
