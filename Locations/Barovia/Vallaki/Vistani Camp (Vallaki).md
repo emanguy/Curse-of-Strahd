@@ -98,4 +98,10 @@
 > Two iron padlocks secure the door of this barrel topped wagon
 
 * Locked with the keys held by [[Luvash]] and [[Arrigal]]
-* The padlocks are rigged with a 
+* The padlocks are rigged with a **poison needle trap** (see DMG chapter 5)
+
+#### Treasure
+* Wooden chest containing 1200 ep each bearing the visage of Strahd
+* Iron chest containing 650gp
+* Onyx jewelry box with gold filigree (250gp) contaning six pieces of cheap jewelry (50 gp each) and a potion of poison in a crystal vial worth 100gp
+* 
