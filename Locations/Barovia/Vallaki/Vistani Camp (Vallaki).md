@@ -68,7 +68,16 @@
 
 ### E - Luvash's Wagon
 > This barrel-topped wagon is nicer than the others. Drapes of golden silk hang in the windows, and the wheels have gold, sun-shaped hubcaps. An iron chimney pipe protrudes from the roof.
+
+* It's a mess inside: wineskins everywhere, dirty clothes, think freshman college dorm room
+* There's a burlap doll on the ground, [[Arabelle]]'s only possession
+* An iron stove inside keeps everything warm
+
+#### Treasure
+* There are "golden sun" hubcaps on the wagon which are worth 125 gp each
+
 ### F - Wagon of Sleeping Vistani
+> You hear heavy snores from with
 
 ### G - Wagon of Gambling Vistani
 
