@@ -3,6 +3,8 @@
 * Bam finds his brother after recognizing him through his dreams
 * [[Wham Booty]] has been preparing to travel to find their parents, who are alive and have been captured by roving slavers, though he lost track of them
 * The last place he saw them was somewhere off near [[Old Bonegrinder]] but he was chased off by the slavers before he could find out what happened to them
+* Bam's parents got in a fight with the slavers outside [[Old Bonegrinder]] and were seriously wounded.
+  * A wereraven (a member of the [[Keepers of the Feather]]) had been there, sitting 
 
 ## What's happened so far
 * Bam has been having recurring nightmares involving childhood memories with his parents
