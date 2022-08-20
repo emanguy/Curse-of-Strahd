@@ -104,4 +104,6 @@
 * Wooden chest containing 1200 ep each bearing the visage of Strahd
 * Iron chest containing 650gp
 * Onyx jewelry box with gold filigree (250gp) contaning six pieces of cheap jewelry (50 gp each) and a potion of poison in a crystal vial worth 100gp
-* 
+* Wooden throne with gold inlay and decorative stones worth 750gp
+* Rolled up 10 foot square rug with an exquisite unicorn motif worth 750gp
+* Small wooden box containing twelve fake potions in stoppered gourds (see [[Luvash]] for details)
