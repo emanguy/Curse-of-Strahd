@@ -28,14 +28,6 @@
         }
       },
       {
-        "id": "e623eef0650826bd",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
         "id": "c9c646e0586ffb0c",
         "type": "leaf",
         "state": {
@@ -118,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md"
+                "file": "Characters/NPCs/Morgantha.md"
               }
             }
           }
@@ -146,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
+                "file": "Characters/NPCs/Morgantha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,13 +156,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "048c0b27ea5259cc",
+  "active": "c9c646e0586ffb0c",
   "lastOpenFiles": [
-    "Characters/NPCs/Morgantha.md",
-    "Locations/Barovia/Barovia (Country).md",
-    "Ongoing Quests/Reuniting with Bam's Fam.md",
     "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
     "Characters/NPCs/Morgantha.md",
+    "conflict-files-obsidian-git.md",
     "Locations/Barovia/Barovia (Country).md",
     "Ongoing Quests/Reuniting with Bam's Fam.md",
     "Characters/NPCs/Myrtle.md",
