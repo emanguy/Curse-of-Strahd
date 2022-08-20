@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Ongoing Quests/Reuniting with Bam's Fam.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Vistani Camp (Vallaki).md"
+                "file": "Ongoing Quests/Reuniting with Bam's Fam.md"
               }
             }
           }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Vistani Camp (Vallaki).md",
+                "file": "Ongoing Quests/Reuniting with Bam's Fam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,10 +187,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "094beb3a42af35df",
+  "active": "c9c646e0586ffb0c",
   "lastOpenFiles": [
-    "Characters/NPCs/Groups/Dusk Elf Slavers.md",
     "Locations/Barovia/Vallaki/Vistani Camp (Vallaki).md",
+    "Characters/NPCs/Groups/Dusk Elf Slavers.md",
     "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
     "Locations/Barovia/Barovia (Country).md",
     "Ongoing Quests/Reuniting with Bam's Fam.md",
