@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Morgantha.md"
+                "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md"
               }
             }
           }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Morgantha.md",
+                "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,11 +164,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c9c646e0586ffb0c",
+  "active": "048c0b27ea5259cc",
   "lastOpenFiles": [
+    "Characters/NPCs/Morgantha.md",
     "Locations/Barovia/Barovia (Country).md",
     "Ongoing Quests/Reuniting with Bam's Fam.md",
-    "Characters/NPCs/Morgantha.md",
     "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
     "Characters/NPCs/Morgantha.md",
     "Locations/Barovia/Barovia (Country).md",
