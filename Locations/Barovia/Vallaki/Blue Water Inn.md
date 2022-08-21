@@ -32,7 +32,16 @@
 * Double doors leading in here can be barred from within
 * There are 3 wine barrels in alcoves behind the bar that are nearly empty
 * [[Danika Dorakova]] tends bar while [[Urwin Martikov]] works the kitchen
-* [[Brom]] and [[Bray]] are 
+* [[Brom]] and [[Bray]] are wilding doing their own thing
+* Dawn-noon there are nearly no patrons, noon-dusk there are **2d4 male/female commoners**, dusk-midnight there are **2d8** of them
+  * One or more of the following people may also be here: **Wolf hunters**, **Wachter brothers**, or **Rictavio**
+
+### Wolf Hunters
+* [[Szoldar Szoldarovich]] and [[Yevgeni Kruskin]] (N male human **scouts**) hunt wolves for a profession
+* Look pretty harrowed from their experience
+* Will serve as guides for **5gp/day**, won't travel at night unless their payment is **100gp+**
+* Will provide directions to nearby landmarks for free drinks
+* 
 ## D - Wine Storage
 
 ## E - Kitchen
