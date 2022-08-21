@@ -4,38 +4,44 @@
 > Gray Smoke issues from the chimney of this large, two-story wooden building with a stone foundation and sagging tile roof, upon which several ravens have perched. A painted wooden sign hanging above the main entrance depicts a blue waterfall.
 
 * Innkeeper - [[Urwin Martikov]]
-* Tries to be a shelter from the evils of the outside, and **all the windows and doors can be shut f
+* Tries to be a shelter from the evils of the outside, and **all the windows and doors can be shut from the inside** in the event of trouble
+* Bed for the night is **1 ep**, gives free beet soup and fresh bread with no extra charge
 
-## A - 
+### Other Menu
+* Cooked wolf steak for **1ep**
+* Pint of Purple Grapemash No. 3 wine for **3ep**
+* Pint of 
 
-## B - 
+## A - Well
 
-## C -
+## B - Outside Staircase
 
-## D - 
+## C - Taproom
 
-## E - 
+## D - Wine Storage
 
-## F - 
+## E - Kitchen
 
-## G - 
+## F - Stable
 
-## H - 
+## G - Storage
 
-## I - 
+## H - Ravens' Loft
 
-## J - 
+## I - Secret Stairs and Hall
 
-## K - 
+## J - Great Balcony
 
-## L - 
+## K - Guest Balcony
 
-## M - 
+## L - Guest Rooms
 
-## N - 
+## M - Guest Room
 
-## O - 
+## N - Private Guest Room
 
-## P - 
+## O - Boys' Bedroom
 
-## Q - 
+## P - Master Bedroom
+
+## Q - Secret Attic
