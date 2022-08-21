@@ -28,6 +28,18 @@
         }
       },
       {
+        "id": "eee0525b86a38a73",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Characters/NPCs/Rudolph van Richten.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "b75d6f297f5fe684",
         "type": "split",
         "children": [
@@ -38,6 +50,18 @@
               "type": "markdown",
               "state": {
                 "file": "Ongoing Quests/Reuniting with Bam's Fam.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c97530b9b1a0d02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPCs/Groups/Vallakians.md",
                 "mode": "preview",
                 "source": false
               }
@@ -128,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Blue Water Inn.md"
+                "file": "Characters/NPCs/Rudolph van Richten.md"
               }
             }
           }
@@ -156,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Blue Water Inn.md",
+                "file": "Characters/NPCs/Rudolph van Richten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,17 +198,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e293cf961b1b051b",
+  "active": "eee0525b86a38a73",
   "lastOpenFiles": [
+    "Locations/Barovia/Vallaki/Blue Water Inn.md",
+    "Characters/NPCs/Rudolph van Richten.md",
+    "Characters/NPCs/Groups/Vallakians.md",
+    "Ongoing Quests/Reuniting with Bam's Fam.md",
     "Characters/NPCs/Yevgeni Kruskin.md",
     "Characters/NPCs/Szoldar Szoldarovich.md",
-    "Locations/Barovia/Vallaki/Blue Water Inn.md",
     "Characters/NPCs/Urwin Martikov.md",
     "Characters/NPCs/Davian Martikov.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
-    "Ongoing Quests/Reuniting with Bam's Fam.md",
-    "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
-    "Locations/Barovia/Barovia (Country).md",
-    "Characters/NPCs/Kasimir Velikov.md"
+    "Locations/Barovia/Overworld Features/Old Bonegrinder.md"
   ]
 }

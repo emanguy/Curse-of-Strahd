@@ -46,6 +46,12 @@
 ### Wachter Brothers
 * [[Nikolai Wachter]] and [[Karl Wachter]] (N male human **nobles**)
 * Brash drunkards looking for trouble but know not to fight people who are really well armed
+* Sons of [[Lady Fiona Wachter]], but don't want to talk about her
+* Want to hear about the character's harrowing adventures and about how they plan to free the characters from the burgomaster [[Vargas Vallakovich]]'s madness
+
+### Rictavio
+* Identity adopted by [[Rudolph van Richten]]
+* Tells ridiculous, unbelievable stories
 
 ## D - Wine Storage
 
