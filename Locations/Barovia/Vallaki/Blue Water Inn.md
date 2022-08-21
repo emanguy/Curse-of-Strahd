@@ -64,11 +64,23 @@
 
 * The double doors leading outside can be barred from within
 * Behind red curtanis are 3 alcoves contaning a half-empty wine barrel in a wooden brace
-* 12 empty barrels are piled 2 high near the door to the kitchen area and have []
+  * 2 of the 3 are labeled "Purple Grapemash No. 3"
+  * The last one is labeled "Red Dragon Crush"
+* 12 empty barrels are piled 2 high near the door to the kitchen area and have [[The Wizard of Wines]] logo burned onto them
+  * 7 of the 12 barrels are labeled "Purple Grapemash No. 3"
+  * 5 of the 12 barrels are labeled "Red Dragon Crush"
 
 ## E - Kitchen
+> This room looks like the kitchen of someone who loves to cook. It has piles of pots, walls lined with utensils and shelves of ingredients, and all manner of pleasant odors. Two lanterns hang above a sturdy pine worktable in the middle of the clutter. A pot of soup bubbles on the hearth.
+
+* [[Urwin Martikov]] works here and occasionally gets help from [[Brom]] and [[Bray]]
+* A cupboard against the east wall has cutlery and dishware that isn't valuable
+* The door on the west wall can be barred from the inside
+* A secret door at the west end of the south wall opens to a wooden staircase that leads to **area I**
 
 ## F - Stable
+
+* The sliding wooden doors on the west wall of this room are held shut by a
 
 ## G - Storage
 
