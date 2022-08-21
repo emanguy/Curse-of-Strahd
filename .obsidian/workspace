@@ -22,19 +22,7 @@
           "type": "markdown",
           "state": {
             "file": "Locations/Barovia/Vallaki/Blue Water Inn.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "ce56d0dc78aec64d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/Barovia/Vallaki/Urwin Martikov.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -104,8 +92,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Urwin Martikov.md"
+                "file": "Locations/Barovia/Vallaki/Blue Water Inn.md"
               }
             }
           }
@@ -169,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Urwin Martikov.md",
+                "file": "Locations/Barovia/Vallaki/Blue Water Inn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,8 +174,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ce56d0dc78aec64d",
+  "active": "d4b6d74794f7a95c",
   "lastOpenFiles": [
+    "Characters/NPCs/Urwin Martikov.md",
+    "Characters/NPCs/Davian Martikov.md",
     "Locations/Barovia/Vallaki/Blue Water Inn.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Ongoing Quests/Reuniting with Bam's Fam.md",
@@ -196,8 +185,6 @@
     "Locations/Barovia/Barovia (Country).md",
     "Characters/NPCs/Kasimir Velikov.md",
     "Locations/Barovia/Vallaki/Vistani Camp (Vallaki).md",
-    "Characters/NPCs/Patrina Velikovna.md",
-    "Characters/NPCs/Groups/Dusk Elf Slavers.md",
-    "Keepers of the Feather.md"
+    "Characters/NPCs/Patrina Velikovna.md"
   ]
 }

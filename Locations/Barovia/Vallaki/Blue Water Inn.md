@@ -8,6 +8,8 @@
 * Bed for the night is **1 ep**, gives free beet soup and fresh bread with no extra charge
 * **The wine supply is almost depleted, the delivery from [[The Wizard of Wines]] winery is overdue**
   * [[Urwin Martikov]] will ask the players to check up on the wine delivery & see what's holding up the shipment, offering free room and board if they can get the wine
+* **1d4 wereravens** are always present at the inn
+  * Gaining the wereravens' trust will get them to watch over the party, having 1d4 of them swoop in at any time if the party looks like they're in trouble
 
 ### Other Menu
 * Cooked wolf steak for **1ep**
