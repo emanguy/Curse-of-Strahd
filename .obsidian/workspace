@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ongoing Quests/Reuniting with Bam's Fam.md"
+                "file": "Locations/Barovia/Vallaki/Vistani Camp (Vallaki).md"
               }
             }
           }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ongoing Quests/Reuniting with Bam's Fam.md",
+                "file": "Locations/Barovia/Vallaki/Vistani Camp (Vallaki).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,13 +187,13 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c9c646e0586ffb0c",
+  "active": "094beb3a42af35df",
   "lastOpenFiles": [
+    "Ongoing Quests/Reuniting with Bam's Fam.md",
     "Locations/Barovia/Vallaki/Vistani Camp (Vallaki).md",
     "Characters/NPCs/Groups/Dusk Elf Slavers.md",
     "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
     "Locations/Barovia/Barovia (Country).md",
-    "Ongoing Quests/Reuniting with Bam's Fam.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Keepers of the Feather.md",
     "Ongoing Quests/Corvyn's Missing Parents.md",
