@@ -41,7 +41,12 @@
 * Look pretty harrowed from their experience
 * Will serve as guides for **5gp/day**, won't travel at night unless their payment is **100gp+**
 * Will provide directions to nearby landmarks for free drinks
-* 
+* [[Yevgeni Kruskin]] parrots [[Szoldar Szoldarovich]]
+
+### Wachter Brothers
+* [[Nikolai Wachter]] and [[Karl Wachter]] (N male human **nobles**)
+* Brash drunkards looking for trouble but know not to fight people who are really well armed
+
 ## D - Wine Storage
 
 ## E - Kitchen

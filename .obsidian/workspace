@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "urwin",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,17 +174,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d4b6d74794f7a95c",
+  "active": "e293cf961b1b051b",
   "lastOpenFiles": [
+    "Characters/NPCs/Yevgeni Kruskin.md",
+    "Characters/NPCs/Szoldar Szoldarovich.md",
+    "Locations/Barovia/Vallaki/Blue Water Inn.md",
     "Characters/NPCs/Urwin Martikov.md",
     "Characters/NPCs/Davian Martikov.md",
-    "Locations/Barovia/Vallaki/Blue Water Inn.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Ongoing Quests/Reuniting with Bam's Fam.md",
     "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
     "Locations/Barovia/Barovia (Country).md",
-    "Characters/NPCs/Kasimir Velikov.md",
-    "Locations/Barovia/Vallaki/Vistani Camp (Vallaki).md",
-    "Characters/NPCs/Patrina Velikovna.md"
+    "Characters/NPCs/Kasimir Velikov.md"
   ]
 }
