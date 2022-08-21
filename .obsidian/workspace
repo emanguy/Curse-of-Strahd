@@ -9,8 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Barovia (Country).md",
+            "file": "Locations/Barovia/Vallaki/Vallaki.md",
             "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d4b6d74794f7a95c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Locations/Barovia/Vallaki/Blue Water Inn.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -19,18 +31,6 @@
         "id": "b75d6f297f5fe684",
         "type": "split",
         "children": [
-          {
-            "id": "048c0b27ea5259cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "c9c646e0586ffb0c",
             "type": "leaf",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md"
+                "file": "Locations/Barovia/Vallaki/Blue Water Inn.md"
               }
             }
           }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
+                "file": "Locations/Barovia/Vallaki/Blue Water Inn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,16 +174,16 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "048c0b27ea5259cc",
+  "active": "d4b6d74794f7a95c",
   "lastOpenFiles": [
+    "Locations/Barovia/Vallaki/Vallaki.md",
     "Ongoing Quests/Reuniting with Bam's Fam.md",
+    "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
+    "Locations/Barovia/Barovia (Country).md",
     "Characters/NPCs/Kasimir Velikov.md",
     "Locations/Barovia/Vallaki/Vistani Camp (Vallaki).md",
     "Characters/NPCs/Patrina Velikovna.md",
     "Characters/NPCs/Groups/Dusk Elf Slavers.md",
-    "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
-    "Locations/Barovia/Barovia (Country).md",
-    "Locations/Barovia/Vallaki/Vallaki.md",
     "Keepers of the Feather.md",
     "Ongoing Quests/Corvyn's Missing Parents.md"
   ]

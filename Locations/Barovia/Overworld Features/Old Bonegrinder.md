@@ -90,4 +90,6 @@ _Custom for [[Reuniting with Bam's Fam]]_
 ### Bam's Fam Event
 _Custom for [[Reuniting with Bam's Fam]]_
 
-* There is a member of the [[Keepers of the Feather]] in crow form sitting atop the summer megalith which will tell the party more info about the battle that happened
+* There is a member of the [[Keepers of the Feather]] in crow form sitting atop the summer megalith which will tell the party more info about the battle that happened in front of the windmill
+  * If the party reveals that they aren't affiliated with [[Strahd]] and [[Wham Booty]] is with them, the wereraven will reveal that [[Bam's Parents]] were badly poisoned and taken to [[Vallaki]]
+  * It also mentions they should seek out the [[Blue Water Inn]] if they want to know more
