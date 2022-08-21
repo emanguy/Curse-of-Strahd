@@ -60,6 +60,11 @@
 * Also trying to learn about the [[Vistani]] at the [[Vistani Camp (Vallaki)]]
 
 ## D - Wine Storage
+> This hallway contains three curtained alcoves as well as a larger area stuffed with wine barrels.
+
+* The double doors leading outside can be barred from within
+* Behind red curtanis are 3 alcoves contaning a half-empty wine barrel in a wooden brace
+* 12 empty barrels are piled 2 high near the door to the kitchen area and have []
 
 ## E - Kitchen
 

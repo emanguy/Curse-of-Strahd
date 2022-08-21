@@ -28,18 +28,6 @@
         }
       },
       {
-        "id": "eee0525b86a38a73",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Characters/NPCs/Rudolph van Richten.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "b75d6f297f5fe684",
         "type": "split",
         "children": [
@@ -152,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Rudolph van Richten.md"
+                "file": "Locations/Barovia/Vallaki/Blue Water Inn.md"
               }
             }
           }
@@ -180,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Rudolph van Richten.md",
+                "file": "Locations/Barovia/Vallaki/Blue Water Inn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,10 +186,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "eee0525b86a38a73",
+  "active": "d4b6d74794f7a95c",
   "lastOpenFiles": [
-    "Locations/Barovia/Vallaki/Blue Water Inn.md",
     "Characters/NPCs/Rudolph van Richten.md",
+    "Locations/Barovia/Vallaki/Blue Water Inn.md",
     "Characters/NPCs/Groups/Vallakians.md",
     "Ongoing Quests/Reuniting with Bam's Fam.md",
     "Characters/NPCs/Yevgeni Kruskin.md",
