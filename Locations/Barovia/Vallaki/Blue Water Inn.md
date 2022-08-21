@@ -95,7 +95,21 @@
 ## H - Ravens' Loft
 > Dim light spilling in through a pair of dirt-encrusted windows reveals piles of hay with pitchforks sticking out of them. Ravens rule this roost - you can see hundreds of them.
 
+* There is a locked wooden chest here. If the players try to open it, the ravens gather into 4 swarms and attack
+  * If 2 are killed, the others flee
+  * If the fighting continues for more than 3 rounds [[Urwin Martikov]] and 2 wereravens in human form investigate
+* There's an easily spottable secret door here that leads into the **Master Bedroom** (area P)
 
+### Treasure & Items
+* There are 3 pitchforks in the hay
+* There's a locked wooden chest here (see [[Useful Links and Info]] for the DC)
+  * 140 ep
+    * Have the likeness of Strahd
+  * 70 pp
+    * Have the likeness of Strahd
+  * 2 elixirs of health
+  * 3 potions of healing
+  * Gray bag of tricks
 
 ## I - Secret Stairs and Hall
 
