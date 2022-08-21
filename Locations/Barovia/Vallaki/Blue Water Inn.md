@@ -6,11 +6,13 @@
 * Innkeeper - [[Urwin Martikov]]
 * Tries to be a shelter from the evils of the outside, and **all the windows and doors can be shut from the inside** in the event of trouble
 * Bed for the night is **1 ep**, gives free beet soup and fresh bread with no extra charge
+* **The wine supply is almost depleted, the delivery from [[The Wizard of Wines]] winery is overdue**
+  * [[Urwin Martikov]] will ask the players to check up on the wine delivery & see what's holding up the shipment, offering free room and board if they can get the wine
 
 ### Other Menu
 * Cooked wolf steak for **1ep**
 * Pint of Purple Grapemash No. 3 wine for **3ep**
-* Pint of 
+* Pint of superior Red Dragon Crush for **1sp**
 
 ## A - Well
 
