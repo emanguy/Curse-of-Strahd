@@ -13,12 +13,14 @@ More Detail:
 * With a **DC 12** insight check, the party can determine the raven is trying to warn them of the danger inside. It flies to [[Vallaki]] after trying to warn the party.
 * The players can see a ring of stones (**The Megaliths**) in the forest beyond the windmill.
 
-## Bam's Fam event
+### Bam's Fam event
 _Custom for [[Reuniting with Bam's Fam]]_
 
 * There are broken wagons, weapons, and puddles of dried blood strewn across the ground in front of the windmill
-  * There are also a couple carcasses strewn across the ground such as giant scorpions and 
+  * There are also a couple carcasses strewn across the ground such as giant scorpions and giant toads, plus some humanoid remains
+    * With a **DC 13 nature or investigation** check, the bodies can be identified as [[Dusk Elves]]
   * [[Wham Booty]] recounts that this is where he lost contact with [[Bam's Parents]] 
+* There is a raven on **The Megaliths** which is a wereraven in raven form that can tell the party more info
 
 ## Ground Floor
 > The ground floor has been converted into a makeshift kitchen, but the room is filthy. Baskets and old dishware are piled everywhere. Adding to the clutter is a peddler's cart, a chicken coop, a heavy wooden trunk, and a pretty wooden cabinet with flowers painted on its doors.. In addition to the clucking of the chickens, you hear toads croaking.
@@ -84,3 +86,8 @@ _Custom for [[Reuniting with Bam's Fam]]_
 * Asking scholarly NPCs about this will reveal that these four stones represent cities of paradise where the [[Morninglord]], [[Mother Night]], and the other ancient gods dwelled
 * Ravens circle overhead, one is pecking at a dream pastry on top of the autumn stone
 * There's a pile of children's teeth in the center which the hags used to desecrate the megaliths as an offering to [[Ceithlenn of the Crooked Teeth]] whom they worship
+
+### Bam's Fam Event
+_Custom for [[Reuniting with Bam's Fam]]_
+
+* There is a member of the [[Keepers of the Feather]] in crow form sitting atop the summer megalith which will tell the party more info about the battle that happened
