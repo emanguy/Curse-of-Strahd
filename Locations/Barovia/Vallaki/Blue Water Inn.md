@@ -76,11 +76,16 @@
 * [[Urwin Martikov]] works here and occasionally gets help from [[Brom]] and [[Bray]]
 * A cupboard against the east wall has cutlery and dishware that isn't valuable
 * The door on the west wall can be barred from the inside
-* A secret door at the west end of the south wall opens to a wooden staircase that leads to **area I**
+* A secret door at the west end of the south wall opens to a wooden staircase that leads to the **secret stairs and hall** (Area I)
 
 ## F - Stable
+> You hear the squawking of birds and the plaintive whinny of a horse as you peer inside this stable. The stalls are clean and well maintained. One of them contains a gray mare. A small door is set into the east wall, and a wooden ladder gives access to a loft overhead. Perched on the wooden railing that encloses the loft are dozens of ravens.
 
-* The sliding wooden doors on the west wall of this room are held shut by a
+* The sliding wooden doors on the west wall of this room are held shut by an iron lock and chain and [[Urwin Martikov]] has the key
+* The doors to the North and South can be barred shut from the inside but are usually unlocked
+* The gray mare is [[Drusilla]], [[Rudolph van Richten|Rictavio]]'s **draft horse**
+* Characters can store horses here for **1sp/night**
+* There's a small door in the east wall
 
 ## G - Storage
 
