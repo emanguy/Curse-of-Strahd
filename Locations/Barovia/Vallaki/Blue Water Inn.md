@@ -112,6 +112,9 @@
   * Gray bag of tricks
 
 ## I - Secret Stairs and Hall
+> A wooden staircase to the north descends fifteen feet to a landing. A window dimly illuminates a short, wood-paneled hallway that runs west to east.
+
+
 
 ## J - Great Balcony
 
