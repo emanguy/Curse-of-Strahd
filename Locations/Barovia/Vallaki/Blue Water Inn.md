@@ -52,6 +52,8 @@
 ### Rictavio
 * Identity adopted by [[Rudolph van Richten]]
 * Tells ridiculous, unbelievable stories
+* Says he initially came with a monkey named [[Piccolo]] who wasn't welcome in the inn, so he gave it to [[Gadof Blinksy|the local toymaker]]
+* Twice a day he 
 
 ## D - Wine Storage
 
