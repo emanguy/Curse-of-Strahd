@@ -114,7 +114,9 @@
 ## I - Secret Stairs and Hall
 > A wooden staircase to the north descends fifteen feet to a landing. A window dimly illuminates a short, wood-paneled hallway that runs west to east.
 
-
+* [[Rudolph van Richten|Rictavio]] knows about this because he heard [[Brom]] and [[Bray]] opening and closing the door closest to his room
+* Secret doors can 
+* The northern door goes into the **Kitchen**
 
 ## J - Great Balcony
 
