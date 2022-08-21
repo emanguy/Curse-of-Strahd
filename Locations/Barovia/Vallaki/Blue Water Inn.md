@@ -27,9 +27,12 @@
 * The door at the top can be barred from the inside
 
 ## C - Taproom
-> Damp cloaks hang from pegs in the entrance portico. The tavern is packed with tables and chair, with narrow paths meandering between them. A bar stretches along one wall, under a balcony that can be reached by a wooden staircase that hugs the north wall. Another balcony overhangs an entrance to the east. All the windows are fitted with thick  shutters and crossbars. Lanterns hanging above the bar and resting on the tables bathe the room in dull orange light and cast shadows upon the walls, most of which are adorned with wolf heads mounted on wooden plaques.
+> Damp cloaks hang from pegs in the entrance portico. The tavern is packed with tables and chairs, with narrow paths meandering between them. A bar stretches along one wall, under a balcony that can be reached by a wooden staircase that hugs the north wall. Another balcony overhangs an entrance to the east. All the windows are fitted with thick shutters and crossbars. Lanterns hanging above the bar and resting on the tables bathe the room in dull orange light and cast shadows upon the walls, most of which are adorned with wolf heads mounted on wooden plaques.
 
-
+* Double doors leading in here can be barred from within
+* There are 3 wine barrels in alcoves behind the bar that are nearly empty
+* [[Danika Dorakova]] tends bar while [[Urwin Martikov]] works the kitchen
+* [[Brom]] and [[Bray]] are 
 ## D - Wine Storage
 
 ## E - Kitchen
