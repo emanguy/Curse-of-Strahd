@@ -16,7 +16,9 @@ More Detail:
 ## Bam's Fam event
 _Custom for [[Reuniting with Bam's Fam]]_
 
-* There are broken wagons, weapons, and 
+* There are broken wagons, weapons, and puddles of dried blood strewn across the ground in front of the windmill
+  * There are also a couple carcasses strewn across the ground such as giant scorpions and 
+  * [[Wham Booty]] recounts that this is where he lost contact with [[Bam's Parents]] 
 
 ## Ground Floor
 > The ground floor has been converted into a makeshift kitchen, but the room is filthy. Baskets and old dishware are piled everywhere. Adding to the clutter is a peddler's cart, a chicken coop, a heavy wooden trunk, and a pretty wooden cabinet with flowers painted on its doors.. In addition to the clucking of the chickens, you hear toads croaking.
