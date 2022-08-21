@@ -53,7 +53,11 @@
 * Identity adopted by [[Rudolph van Richten]]
 * Tells ridiculous, unbelievable stories
 * Says he initially came with a monkey named [[Piccolo]] who wasn't welcome in the inn, so he gave it to [[Gadof Blinksy|the local toymaker]]
-* Twice a day he 
+* Twice a day (at dawn and dusk) he leaves with a couple apples and a wolf steak wrapped in a handkerchief
+  * Says they're for the toymaker and his monkey
+  * They're actually for his horse [[Drusilla]] and his saber-toothed tiger
+* Trying to gather info on the identities of the wereravens of the [[Keepers of the Feather]]
+* Also trying to learn about the [[Vistani]] at the [[Vistani Camp (Vallaki)]]
 
 ## D - Wine Storage
 
