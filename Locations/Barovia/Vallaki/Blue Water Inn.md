@@ -85,11 +85,17 @@
 * The doors to the North and South can be barred shut from the inside but are usually unlocked
 * The gray mare is [[Drusilla]], [[Rudolph van Richten|Rictavio]]'s **draft horse**
 * Characters can store horses here for **1sp/night**
-* There's a small door in the east wall
+* There's a small door in the east wall that can be opened to get into the **Storage** (area G)
 
 ## G - Storage
 
+* Contains horse riding equipment
+* An unlocked wooden chest contains horseshoes, a mallet, and horseshoe nails
+
 ## H - Ravens' Loft
+> Dim light spilling in through a pair of dirt-encrusted windows reveals piles of hay with pitchforks sticking out of them. Ravens rule this roost - you can see hundreds of them.
+
+
 
 ## I - Secret Stairs and Hall
 
