@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "morninglord",
+                "query": "urwin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,7 +175,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d4b6d74794f7a95c",
+  "active": "a2f555f4bb50db77",
   "lastOpenFiles": [
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Ongoing Quests/Reuniting with Bam's Fam.md",
