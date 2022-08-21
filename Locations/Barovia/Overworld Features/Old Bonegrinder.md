@@ -13,6 +13,11 @@ More Detail:
 * With a **DC 12** insight check, the party can determine the raven is trying to warn them of the danger inside. It flies to [[Vallaki]] after trying to warn the party.
 * The players can see a ring of stones (**The Megaliths**) in the forest beyond the windmill.
 
+## Bam's Fam event
+_Custom for [[Reuniting with Bam's Fam]]_
+
+* There are broken wagons, weapons, and 
+
 ## Ground Floor
 > The ground floor has been converted into a makeshift kitchen, but the room is filthy. Baskets and old dishware are piled everywhere. Adding to the clutter is a peddler's cart, a chicken coop, a heavy wooden trunk, and a pretty wooden cabinet with flowers painted on its doors.. In addition to the clucking of the chickens, you hear toads croaking.
 >

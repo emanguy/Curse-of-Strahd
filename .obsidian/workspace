@@ -16,30 +16,6 @@
         }
       },
       {
-        "id": "094beb3a42af35df",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/Barovia/Vallaki/Vistani Camp (Vallaki).md",
-            "mode": "preview",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "dca55cdc6991fed9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Characters/NPCs/Kasimir Velikov.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "b75d6f297f5fe684",
         "type": "split",
         "children": [
@@ -50,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -152,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Kasimir Velikov.md"
+                "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md"
               }
             }
           }
@@ -180,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Kasimir Velikov.md",
+                "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,17 +174,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e293cf961b1b051b",
+  "active": "048c0b27ea5259cc",
   "lastOpenFiles": [
-    "Locations/Barovia/Vallaki/Vistani Camp (Vallaki).md",
     "Ongoing Quests/Reuniting with Bam's Fam.md",
+    "Characters/NPCs/Kasimir Velikov.md",
+    "Locations/Barovia/Vallaki/Vistani Camp (Vallaki).md",
+    "Characters/NPCs/Patrina Velikovna.md",
     "Characters/NPCs/Groups/Dusk Elf Slavers.md",
     "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
     "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Keepers of the Feather.md",
-    "Ongoing Quests/Corvyn's Missing Parents.md",
-    "Characters/NPCs/Morgantha.md",
-    "conflict-files-obsidian-git.md"
+    "Ongoing Quests/Corvyn's Missing Parents.md"
   ]
 }

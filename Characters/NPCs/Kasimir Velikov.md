@@ -12,4 +12,4 @@
   * Needs adventurers' help to survive getting through it
   * Thinks it might hold the secret to defeating [[Strahd]]
   * Thinks it might also have something to bring the dead back to life which he wants to use on his dead sister
-    * What he doesn't know is that [[Patrina Velikovna]] is using him to 
+    * He's being used by [[Patrina Velikovna]] to be brought back to life. (see her page for more info)
