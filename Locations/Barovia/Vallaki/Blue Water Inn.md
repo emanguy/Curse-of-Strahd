@@ -131,11 +131,22 @@
 * This balcony is 15 feet above the taproom floor.
 
 ## L - Guest Rooms
-> Two cozy beds with matching footlockers rest in the far corners of this fifteen foot s
+> Two cozy beds with matching footlockers rest in the far corners of this fifteen foot square room. Wolf furs are heaped atop each bed. Between the beds, a lamp sits on a table under a shuttered window. Two tall black wardrobes stand against the wall by the door.
+
+* The door can be locked from the inside
+* [[Urwin Martikov]] and [[Danika Dorakova]] carry spare keys to the room
+* The wardrobes and stuff are empty and can be used by guests
 
 ## M - Guest Room
+> Four plain beds with straw mattresses line the north wall of this well lit room. Each bed comes with a matching footlocker to stare clothing and other belongings. A table and four chairs occupy the corner across from the door. An oil lamp resting on the table casts a bright yellow flame.
+
+* Same basic description as the other **Guest Rooms** (area L)
 
 ## N - Private Guest Room
+> This small guest room contains a bed heaped with wolf furs, a footlocker, a tall wardrobe, and a writing desk with matching chair. An oil lamp rests atop the desk near a journal bound in a red leather jacket.
+
+* [[Rudolph van Richten|Rictavio]] has a key to the room, as do [[Urwin Martikov]] and [[Danika Dorakova]]
+* The door is always locked and is in plain view of the **Taproom** (area C) so picking the lock
 
 ## O - Boys' Bedroom
 
