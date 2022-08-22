@@ -168,8 +168,16 @@
 * Many toys in a toy chest etched with [[Gadof Blinksy]]'s slogan "Is no fun, is no Blinksy!"
   * Miniature puppet theater with marionettes of a king, queen, prince, princess, executioner, tax collector, dunce, vampire, vampire hunter
   * Toy vistani wagon hitched to a wooden horse and filled with Vistani figures
-  * Pair of pa
+  * Pair of painted wooden clown masks, one with a mean scowl and the other frightened
+  * Wooden top painted with images of scarecrows chasing children through the forest
+  * Stuffed (real) bat on puppet strings
+* There's a hidden trapdoor here which opens into a **Secret Attic** (area Q)
 
 ## P - Master Bedroom
+> Matching end tables flank a large wood framed bed with a red silk canopy. Across from the bed hangs a tapestry depicting a beautiful mountain valley. The other walls are dominated by a fireplace and a wardrobe.
+
+* [[Urwin Martikov]] and [[Danika Dorakova]] come here before going to the **Secret Attic** (area Q) to go to sleep, so the room is only for appearances
+* The secret door at the end of the south wall goes to the loft above the **Stable** (area F)
+* A hidden trapdoor in the ceiling leads to the **Secret Attic** (area Q)
 
 ## Q - Secret Attic
