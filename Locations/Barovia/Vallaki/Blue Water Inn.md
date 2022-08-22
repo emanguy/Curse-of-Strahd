@@ -116,13 +116,22 @@
 
 * [[Rudolph van Richten|Rictavio]] knows about this because he heard [[Brom]] and [[Bray]] opening and closing the door closest to his room
 * Secret doors can 
-* The northern door goes into the **Kitchen**
+* The northern door goes into the **Kitchen** (area E)
+* The eastern door leads to the **Great Balcony** (area J)
 
 ## J - Great Balcony
+> A wooden balcony stretches the full length of the taproom, enclosed by a wooden railing carved with raven motifs. The taproom's many lanterns illuminate the rafters and cast ominous shadows on the peaked ceiling.
+
+* The balcony is 15 feet above the taproom floor
+* The secret door at the end goes into the **secret stairs and hall**, area I
 
 ## K - Guest Balcony
+> This twenty foot long balcony provides a clear view of the bar and has a wooden railing carved with raven motifs. The taproom's many lanterns illuminate the rafters and cast ominous shadows on the peaked ceiling.
+
+* This balcony is 15 feet above the taproom floor.
 
 ## L - Guest Rooms
+> Two cozy beds with matching footlockers rest in the far corners of this fifteen foot s
 
 ## M - Guest Room
 
