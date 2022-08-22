@@ -192,4 +192,4 @@
 * Lockbox (key is held by [[Urwin Martikov]]) can be picked with a **DC 20 dex check with thieves' tools**
   * Sack of 150 ep (bearing the face of Strahd)
   * Six pieces of jewelry worth 250gp each
-  * 
+  * Three potions of healing
