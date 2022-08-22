@@ -151,9 +151,24 @@
   * Noon-dusk, there's a 40 percent chance he's in this room, otherwise he's in the **Taproom** (area C)
   * He doesn't leave anything valuable or incriminating in his room
 * The door is always locked and is in plain view of the **Taproom** (area C) so picking the lock may be tough
-* [[Rudolph van Richten|Rictavio]]'s journal is in this room and contains stuff that sells the 
+* [[Rudolph van Richten|Rictavio]]'s journal is in this room and contains stuff that sells his fake identity
+  * Mentions conversations with [[Drusilla]]
+  * Mentions long and tedious journeys on his wagon
+  * Mentions several oddities he's encountered
+    * Werehare child (changes into a rabbit on the full moon)
+    * Half-orc woman named Gorabacha who can claw through iron chains
+    * Giant, man-eating plant that had a good singing voice
+    * Pair of conjoined goblins
+    * Small man with no legs named Filmore Stunk who could drink entire casks of wine without getting drunk
 
 ## O - Boys' Bedroom
+> A large painted toy box rests between two small, cozy beds. Murals of ravens in flight are painted on the walls above the wood paneling.
+
+* [[Brom]] and [[Bray]]'s room, but they don't spend much time here
+* Many toys in a toy chest etched with [[Gadof Blinksy]]'s slogan "Is no fun, is no Blinksy!"
+  * Miniature puppet theater with marionettes of a king, queen, prince, princess, executioner, tax collector, dunce, vampire, vampire hunter
+  * Toy vistani wagon hitched to a wooden horse and filled with Vistani figures
+  * Pair of pa
 
 ## P - Master Bedroom
 
