@@ -146,7 +146,12 @@
 > This small guest room contains a bed heaped with wolf furs, a footlocker, a tall wardrobe, and a writing desk with matching chair. An oil lamp rests atop the desk near a journal bound in a red leather jacket.
 
 * [[Rudolph van Richten|Rictavio]] has a key to the room, as do [[Urwin Martikov]] and [[Danika Dorakova]]
-* The door is always locked and is in plain view of the **Taproom** (area C) so picking the lock
+  * He sleeps here between midnight and dawn
+  * At dawn he goes to check on [[Drusilla]] in the **Stables** (area F) and his wagon at the [[Arasek Stockyard]], coming back to the inn around noon.
+  * Noon-dusk, there's a 40 percent chance he's in this room, otherwise he's in the **Taproom** (area C)
+  * He doesn't leave anything valuable or incriminating in his room
+* The door is always locked and is in plain view of the **Taproom** (area C) so picking the lock may be tough
+* [[Rudolph van Richten|Rictavio]]'s journal is in this room and contains stuff that sells the 
 
 ## O - Boys' Bedroom
 
