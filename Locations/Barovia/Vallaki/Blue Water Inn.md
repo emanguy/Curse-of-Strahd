@@ -181,3 +181,15 @@
 * A hidden trapdoor in the ceiling leads to the **Secret Attic** (area Q)
 
 ## Q - Secret Attic
+> This ten foot wide, thirty five foot long attic has a ceiling that slants down toward the west, dropping from a height of eight feet to five feet. Four straw nests cover the floor, and a locked iron strongbox sits against the north wall. A small square opening in the south wall leads outside. Two trapdoors with iron hinges are set into the floor.
+
+* The martikovs sleep here in hybrid form at night
+* The opening in the south wall is just big enough for a raven or other tiny creature to fit through
+  * Used by wereravens as an escape route
+* The trapdoors here go to the **Master Bedroom** and **Boys' Bedroom**, respectively
+
+### Treasure
+* Lockbox (key is held by [[Urwin Martikov]]) can be picked with a **DC 20 dex check with thieves' tools**
+  * Sack of 150 ep (bearing the face of Strahd)
+  * Six pieces of jewelry worth 250gp each
+  * 
