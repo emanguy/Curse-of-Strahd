@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "04c567ea997f860f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4b6d74794f7a95c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Locations/Barovia/Vallaki/Blue Water Inn.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c53d0e712589c143",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cc9e67c56b8db2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e293cf961b1b051b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2f555f4bb50db77",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3d673f7bbf655d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a038c8fea330297c",
+        "type": "tabs",
+        "dimension": 26.59870250231696,
+        "children": [
+          {
+            "id": "b50f42d6b8b86707",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "eac3e8cee37be832",
+        "type": "tabs",
+        "dimension": 26.32066728452271,
+        "children": [
+          {
+            "id": "c148f00bbf92aea2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Locations/Barovia/Vallaki/Blue Water Inn.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "154db812d1f4cdf4",
+        "type": "tabs",
+        "dimension": 47.08063021316033,
+        "children": [
+          {
+            "id": "1e373c1578de3d9f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "15d6e19de3c532a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Locations/Barovia/Vallaki/Blue Water Inn.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "d4b6d74794f7a95c",
+  "lastOpenFiles": [
+    "Locations/Barovia/Vallaki/Blue Water Inn.md",
+    "Characters/NPCs/Rudolph van Richten.md",
+    "Characters/NPCs/Groups/Vallakians.md",
+    "Ongoing Quests/Reuniting with Bam's Fam.md",
+    "Characters/NPCs/Yevgeni Kruskin.md",
+    "Characters/NPCs/Szoldar Szoldarovich.md",
+    "Characters/NPCs/Urwin Martikov.md",
+    "Characters/NPCs/Davian Martikov.md",
+    "Locations/Barovia/Vallaki/Vallaki.md",
+    "Locations/Barovia/Overworld Features/Old Bonegrinder.md"
+  ]
+}
