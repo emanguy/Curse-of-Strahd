@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/NPCs/Strahd.md",
+            "file": "Locations/Barovia/Barovia (Country).md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "random",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Strahd.md"
+                "file": "Locations/Barovia/Barovia (Country).md"
               }
             }
           }
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Strahd.md",
+                "file": "Locations/Barovia/Barovia (Country).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +134,7 @@
   },
   "active": "d4b6d74794f7a95c",
   "lastOpenFiles": [
+    "Characters/NPCs/Strahd.md",
     "Characters/NPCs/Ireena Kolyana.md",
     "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Vallaki/Blue Water Inn.md",
@@ -141,7 +143,6 @@
     "Ongoing Quests/Reuniting with Bam's Fam.md",
     "Characters/NPCs/Yevgeni Kruskin.md",
     "Characters/NPCs/Szoldar Szoldarovich.md",
-    "Characters/NPCs/Urwin Martikov.md",
-    "Characters/NPCs/Davian Martikov.md"
+    "Characters/NPCs/Urwin Martikov.md"
   ]
 }
