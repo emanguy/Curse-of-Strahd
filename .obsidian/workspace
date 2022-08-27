@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Barovia (Country).md",
+            "file": "Locations/Barovia/Overworld Features/Tser Falls.md",
             "mode": "preview",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia (Country).md"
+                "file": "Locations/Barovia/Overworld Features/Tser Falls.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia (Country).md",
+                "file": "Locations/Barovia/Overworld Features/Tser Falls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,12 +133,12 @@
   },
   "active": "d4b6d74794f7a95c",
   "lastOpenFiles": [
+    "Locations/Barovia/Barovia (Country).md",
     "Characters/NPCs/Strahd.md",
     "Ongoing Quests/The Hunt for Strahd.md",
     "Characters/NPCs/Madam Eva.md",
     "Locations/Barovia/Overworld Features/Tser Pool Encampment.md",
     "Characters/NPCs/Ireena Kolyana.md",
-    "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Vallaki/Blue Water Inn.md",
     "Characters/NPCs/Rudolph van Richten.md",
     "Characters/NPCs/Groups/Vallakians.md",
