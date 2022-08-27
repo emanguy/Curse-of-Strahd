@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Barovia (Country).md",
+            "file": "Characters/NPCs/Ireena Kolyana.md",
             "mode": "preview",
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia (Country).md"
+                "file": "Characters/NPCs/Ireena Kolyana.md"
               }
             }
           }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia (Country).md",
+                "file": "Characters/NPCs/Ireena Kolyana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,8 +135,8 @@
   "active": "d4b6d74794f7a95c",
   "lastOpenFiles": [
     "Characters/NPCs/Strahd.md",
-    "Characters/NPCs/Ireena Kolyana.md",
     "Locations/Barovia/Barovia (Country).md",
+    "Characters/NPCs/Ireena Kolyana.md",
     "Locations/Barovia/Vallaki/Blue Water Inn.md",
     "Characters/NPCs/Rudolph van Richten.md",
     "Characters/NPCs/Groups/Vallakians.md",
