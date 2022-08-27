@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/NPCs/Strahd.md",
+            "file": "Locations/Barovia/Barovia (Country).md",
             "mode": "preview",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Strahd.md"
+                "file": "Locations/Barovia/Barovia (Country).md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Strahd.md",
+                "file": "Locations/Barovia/Barovia (Country).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,11 +133,11 @@
   },
   "active": "d4b6d74794f7a95c",
   "lastOpenFiles": [
+    "Characters/NPCs/Strahd.md",
     "Ongoing Quests/The Hunt for Strahd.md",
     "Characters/NPCs/Madam Eva.md",
     "Locations/Barovia/Overworld Features/Tser Pool Encampment.md",
     "Characters/NPCs/Ireena Kolyana.md",
-    "Characters/NPCs/Strahd.md",
     "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Vallaki/Blue Water Inn.md",
     "Characters/NPCs/Rudolph van Richten.md",
