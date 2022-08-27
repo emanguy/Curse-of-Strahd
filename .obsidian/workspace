@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -132,7 +131,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d4b6d74794f7a95c",
+  "active": "e293cf961b1b051b",
   "lastOpenFiles": [
     "Characters/NPCs/Strahd.md",
     "Locations/Barovia/Barovia (Country).md",
