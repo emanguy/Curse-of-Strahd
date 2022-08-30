@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "29cc626689b4bf66",
+        "id": "1da01036b8d06e64",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -125,8 +125,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "29cc626689b4bf66",
+  "active": "1da01036b8d06e64",
   "lastOpenFiles": [
+    "Characters/NPCs/Bluto Krogarov.md",
     "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Overworld Features/Gates of Barovia.md",
     "Locations/Barovia/Overworld Features/Tser Falls.md",
@@ -135,7 +136,6 @@
     "Characters/NPCs/Madam Eva.md",
     "Locations/Barovia/Overworld Features/Tser Pool Encampment.md",
     "Characters/NPCs/Ireena Kolyana.md",
-    "Locations/Barovia/Vallaki/Blue Water Inn.md",
-    "Characters/NPCs/Rudolph van Richten.md"
+    "Locations/Barovia/Vallaki/Blue Water Inn.md"
   ]
 }
