@@ -16,4 +16,4 @@
 * [[Izek Strazni]] flees and hides to avoid the people's wrath (where he goes is up to me)
 
 ### The players stop the attack
-* [[Strahd]] visits [[Lady Fiona Wachter]] and writes "Strahd's Invitation", inviting the characters to [[Castle Ravenloft]]
+* [[Strahd]] visits [[Lady Fiona Wachter]] and writes "Strahd's Invitation", inviting the characters to [[Castle Ravenloft]]                                                                                                                                                                                                                                                                                                 
