@@ -5,4 +5,4 @@
 * Dedicated to the [[Morninglord]] and named after St. Andral whose bones used to be buried here
 * Father [[Lucian Petrovich]] (priest) runs the church along with an altar boy named [[Yeska]] and a gravedigger named [[Milivoj]] (commoner)
 * At night the church is filled with **2d6 frightened commoners** and **2d6 frightened children** who come to hear prayers of protection from the father
-  * One of the congregation is always [[Willemina Rikalova]] whose son [[Udo Lukovich]] is imprisoned by the burgomaster
+  * One of the congregation is always [[Willemina Rikalova]] whose son [[Udo Lukovich]] is imprisoned by the burgomaster for speaking
