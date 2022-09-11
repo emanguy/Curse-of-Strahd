@@ -1,4 +1,5 @@
 # Town Square
+**Related event:** [[The Festival of the Blazing Sun]]
 > The shops and homes that enclose the town square are decorated with limp, tattered garlands and painted wooden boxes filled with tiny, dead flowers. At the north end of the square stands a row of stocks, locked in which are several men, women, and children wearing crude, plaster donkey heads.
 > 
 > In the center of the square, peasants in patchwork clothes eye you suspiciously as they use cups and vase to draw water from a crumbling stone fountain. Standing tall at the center of the fountain is a gray statue of and impressive man facing west. All around the square are posted proclamations:
