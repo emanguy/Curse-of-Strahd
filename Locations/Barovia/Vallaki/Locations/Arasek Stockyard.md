@@ -19,4 +19,6 @@
 * There's a **saber toothed tiger** inside with **84 HP**
   * It has armor too, making its AC 17
   * It doesn't attack anyone unless it's in self defense or if it sees a [[Vistani]]
-  * 
+* [[Rudolph van Richten]] regularly feeds it through a hole in the top of the wagon
+* There's a torn up doll inside the wagon as well
+  * A **DC 
