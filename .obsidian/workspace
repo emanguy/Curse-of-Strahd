@@ -28,6 +28,18 @@
         }
       },
       {
+        "id": "de529ae0bc5ce718",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Characters/NPCs/Hendrik van der Voort.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "1da01036b8d06e64",
         "type": "leaf",
         "state": {
@@ -157,15 +169,15 @@
   },
   "active": "0792b195d6a1ac3e",
   "lastOpenFiles": [
-    "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
+    "Characters/NPCs/Hendrik van der Voort.md",
     "Locations/Barovia/Vallaki/Coffin Maker's Shop.md",
+    "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
     "Characters/NPCs/Groups/Vallakians.md",
     "Characters/NPCs/Milivoj.md",
     "Characters/NPCs/Bluto Krogarov.md",
     "Locations/Barovia/Barovia (Country).md",
-    "Locations/Barovia/Overworld Features/Gates of Barovia.md",
-    "Locations/Barovia/Overworld Features/Tser Falls.md"
+    "Locations/Barovia/Overworld Features/Gates of Barovia.md"
   ]
 }
