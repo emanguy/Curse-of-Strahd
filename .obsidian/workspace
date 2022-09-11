@@ -16,6 +16,18 @@
         }
       },
       {
+        "id": "97017cd163b7f4f8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Locations/Barovia/Vallaki/Events/Tyger, Tyger.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "6db812cc3400399a",
         "type": "leaf",
         "state": {
@@ -97,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Arasek Stockyard.md"
+                "file": "Locations/Barovia/Vallaki/Events/Tyger, Tyger.md"
               }
             }
           }
@@ -125,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Arasek Stockyard.md",
+                "file": "Locations/Barovia/Vallaki/Events/Tyger, Tyger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,11 +155,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6db812cc3400399a",
+  "active": "97017cd163b7f4f8",
   "lastOpenFiles": [
-    "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
-    "Locations/Barovia/Vallaki/Locations/Arasek Stockyard.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
+    "Locations/Barovia/Vallaki/Locations/Arasek Stockyard.md",
+    "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
     "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
     "Characters/NPCs/Henrik van der Voort.md",
     "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",

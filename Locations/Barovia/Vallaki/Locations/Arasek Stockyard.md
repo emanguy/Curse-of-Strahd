@@ -36,4 +36,9 @@
     * 3 sharpened wooden stakes
     * A sack of garlic
     * A jar of salt
-    * A box of holy w
+    * A box of holy wafers
+    * 6 vials of holy water
+    * A polished steel mirror
+    * A bone scroll tube with a silver stopper and chain (worth **25 gp**) which contains:
+      * A scroll of protection from fiends
+      * A scroll of protection from undead
