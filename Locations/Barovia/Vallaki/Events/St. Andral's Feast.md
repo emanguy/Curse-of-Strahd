@@ -10,5 +10,10 @@
   * If [[Rudolph van Richten]] learns about Lucian's death, he recommends that his body should be burned so his body doesn't rise from the dead
 
 ## Consequences
+
+### The players fail to stop the attack
 * The father's death demoralizes the townsfolk, so in a few days the townsfolk will set [[Vargas Vallakovich]]'s mansion ablaze and they stone him and his family in the street
-* 
+* [[Izek Strazni]] flees and hides to avoid the people's wrath (where he goes is up to me)
+
+### The players stop the attack
+* [[Strahd]] visits [[Lady Fiona Wachter]] and writes "Strahd's Invitation", inviting the characters to [[Castle Ravenloft]]
