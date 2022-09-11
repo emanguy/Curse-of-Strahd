@@ -25,3 +25,7 @@
 * The townsfolk don't recognize the statue in the center, but [[Vargas Vallakovich]] claims it's the founder of [[Vallaki]], [[Boris Vallakovich]] (there's not much resemblance)
 
 ## Donkey Headed Criminals
+* Criminals are charged with "malicious unhappiness" (spreading negative opinions about the festival)
+* The stocks are locked and [[Izek Strazni]] has the keys - 3 men, 2 women, and 3 children are in there and are tired, wet, and famished
+  * Releasing them is a crime - the punishment for which is [[Izek Strazni]] rounding up the town guards and ordering the characters to leave town
+    * If the characters resist, the guards are ordered to beat the party into submission, take their weapons, and throw them out of town to be "food for the wolves"
