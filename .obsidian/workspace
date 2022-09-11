@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ed5a4acefb08a5fb",
-        "type": "split",
-        "children": [
-          {
-            "id": "b18157f4e11f0bad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Barovia/Vallaki/Vallaki.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "027b8499a6611281",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Barovia/Barovia (Country).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "97017cd163b7f4f8",
+        "id": "b18157f4e11f0bad",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Vallaki/Events/Tyger, Tyger.md",
-            "mode": "source",
+            "file": "Locations/Barovia/Vallaki/Vallaki.md",
+            "mode": "preview",
             "source": false
           }
         }
       },
       {
-        "id": "bbaeb51995e93974",
+        "id": "32c03cf223e0082a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Vallaki/Locations/Arasek Stockyard.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "6db812cc3400399a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/Barovia/Vallaki/Locations/Arasek Stockyard.md",
+            "file": "Locations/Barovia/Vallaki/Locations/Town Square.md",
             "mode": "source",
             "source": false
           }
@@ -140,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Arasek Stockyard.md"
+                "file": "Locations/Barovia/Vallaki/Locations/Town Square.md"
               }
             }
           }
@@ -168,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Arasek Stockyard.md",
+                "file": "Locations/Barovia/Vallaki/Locations/Town Square.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,17 +143,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "bbaeb51995e93974",
+  "active": "32c03cf223e0082a",
   "lastOpenFiles": [
-    "Locations/Barovia/Vallaki/Events/Tyger, Tyger.md",
-    "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Vallaki/Vallaki.md",
+    "Locations/Barovia/Vallaki/Locations/Town Square.md",
+    "Locations/Barovia/Barovia (Country).md",
+    "Locations/Barovia/Vallaki/Events/Tyger, Tyger.md",
     "Locations/Barovia/Vallaki/Locations/Arasek Stockyard.md",
     "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
     "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
     "Characters/NPCs/Henrik van der Voort.md",
     "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
-    "Characters/NPCs/Groups/Vallakians.md",
-    "Characters/NPCs/Milivoj.md"
+    "Characters/NPCs/Groups/Vallakians.md"
   ]
 }
