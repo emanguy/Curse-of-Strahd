@@ -16,31 +16,7 @@
         }
       },
       {
-        "id": "0792b195d6a1ac3e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/Barovia/Vallaki/Coffin Maker's Shop.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "de529ae0bc5ce718",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Characters/NPCs/Henrik van der Voort.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "1da01036b8d06e64",
+        "id": "6db812cc3400399a",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -121,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Coffin Maker's Shop.md"
+                "file": "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md"
               }
             }
           }
@@ -149,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Coffin Maker's Shop.md",
+                "file": "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,17 +143,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0792b195d6a1ac3e",
+  "active": "6db812cc3400399a",
   "lastOpenFiles": [
-    "Characters/NPCs/Henrik van der Voort.md",
-    "Locations/Barovia/Vallaki/Coffin Maker's Shop.md",
-    "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
+    "Locations/Barovia/Vallaki/Locations/Arasek Stockyard.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
+    "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
     "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
+    "Characters/NPCs/Henrik van der Voort.md",
+    "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
     "Characters/NPCs/Groups/Vallakians.md",
     "Characters/NPCs/Milivoj.md",
     "Characters/NPCs/Bluto Krogarov.md",
-    "Locations/Barovia/Barovia (Country).md",
-    "Locations/Barovia/Overworld Features/Gates of Barovia.md"
+    "Locations/Barovia/Barovia (Country).md"
   ]
 }

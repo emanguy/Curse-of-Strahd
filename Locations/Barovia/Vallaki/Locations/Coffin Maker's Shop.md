@@ -44,4 +44,5 @@ Henrik makes meals here
 > This large, drafty room is strung with cobwebs and takes up most of the upper floor. Stacks of wooden planks lie amid several crates labeled "JUNK"
 
 * The two southmost crates are actually junk, but the six at the north end are filled with dirt and house the **vampire spawn** living there
-* 
+  * Opening any occupied crate causes all the spawn to attack
+* The spot marked "T" is a teleport destination from [[Castle Ravenloft]]
