@@ -141,20 +141,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "1da01036b8d06e64",
   "lastOpenFiles": [
-    "Characters/NPCs/Milivoj.md",
+    "Characters/NPCs/Groups/Vallakians.md",
     "Locations/Barovia/Vallaki/St. Andral's Church.md",
+    "Characters/NPCs/Milivoj.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Characters/NPCs/Bluto Krogarov.md",
     "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Overworld Features/Gates of Barovia.md",
     "Locations/Barovia/Overworld Features/Tser Falls.md",
     "Characters/NPCs/Strahd.md",
-    "Ongoing Quests/The Hunt for Strahd.md",
-    "Characters/NPCs/Madam Eva.md"
+    "Ongoing Quests/The Hunt for Strahd.md"
   ]
 }

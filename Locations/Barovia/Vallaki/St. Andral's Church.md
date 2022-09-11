@@ -8,4 +8,6 @@
   * One of the congregation is always [[Willemina Rikalova]] whose son [[Udo Lukovich]] is imprisoned by the burgomaster for speaking out against him
 
 ## Bones of St. Andral
-* Someone stole St. Andral's bones from the crypt below the church so it's no longer hallowed ground and is vulnerable to strahd
+* Someone stole St. Andral's bones from the crypt below the church so it's no longer hallowed ground and is vulnerable to [[Strahd]]
+* [[Lucian Petrovich]] told [[Yeska]] about the bones a little while ago to comfort him. When asked, [[Yeska]] says he did tell someone about them but won't say a name
+* [[Lucian Petrovich]] suspects it was [[Milivoj]] but hasn't told authorities because he doesn't want to ruin the festival
