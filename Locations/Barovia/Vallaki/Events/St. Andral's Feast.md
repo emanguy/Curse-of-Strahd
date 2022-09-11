@@ -16,4 +16,6 @@
 * [[Izek Strazni]] flees and hides to avoid the people's wrath (where he goes is up to me)
 
 ### The players stop the attack
-* [[Strahd]] visits [[Lady Fiona Wachter]] and writes "Strahd's Invitation", inviting the characters to [[Castle Ravenloft]]                                                                                                                                                                                                                                                                                                 
+* [[Strahd]] visits [[Lady Fiona Wachter]] and writes "Strahd's Invitation", inviting the characters to [[Castle Ravenloft]] 
+  * She delivers it to the characters via [[Karl Wachter]], [[Nikolai Wachter]], or her spy, [[Ernst Larnak]]
+  * The characters get no random encounters on the way to the castle if they accept the invitation
