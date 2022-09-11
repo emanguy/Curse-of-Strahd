@@ -15,4 +15,8 @@
 * [[Rudolph van Richten]] has the key to the lock on the door, and the lock is rigged with a poison dart trap if picked
   * **DC 15 Perception** to detect it
   * **DC 15 Investigation** to find the holes where the darts launch, which can be plugged
-  * When activated, the trap makes four **+8 ranged attacks** against the person picking the lock, causing **1d4 piercing damage**. They must also make a **DC 15 Con Save
+  * When activated, the trap makes four **+8 ranged attacks** against the person picking the lock, causing **1d4 piercing damage**. They must also make a **DC 15 Con Save**, taking **2d10 poison damage** on a failed save and half as much on a success
+* There's a **saber toothed tiger** inside with **84 HP**
+  * It has armor too, making its AC 17
+  * It doesn't attack anyone unless it's in self defense or if it sees a [[Vistani]]
+  * 
