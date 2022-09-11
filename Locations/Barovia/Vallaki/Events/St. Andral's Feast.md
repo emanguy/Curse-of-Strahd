@@ -7,4 +7,8 @@
   * The vampire spawn cling to the outside of the church and attack anyone running out of it
 * Eventually [[Strahd]] enters the church in bat form, then becomes a vampire and tries to kill [[Lucian Petrovich]]
   * If he does this successfully, the townsfolk bury the body behind the church and he rises again as a vampire spawn the following night
-  * If [[Rudolph van Richten]] learn
+  * If [[Rudolph van Richten]] learns about Lucian's death, he recommends that his body should be burned so his body doesn't rise from the dead
+
+## Consequences
+* The father's death demoralizes the townsfolk, so in a few days the townsfolk will set [[Vargas Vallakovich]]'s mansion ablaze and they stone him and his family in the street
+* 
