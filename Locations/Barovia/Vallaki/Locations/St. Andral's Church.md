@@ -11,5 +11,5 @@
 * Someone stole St. Andral's bones from the crypt below the church so it's no longer hallowed ground and is vulnerable to [[Strahd]]
 * [[Lucian Petrovich]] hasn't told anyone but [[Yeska]] about the bones a little while ago to comfort him. When asked, [[Yeska]] says he did tell someone about them but won't say a name
 * [[Lucian Petrovich]] suspects it was [[Milivoj]] but hasn't told authorities because he doesn't want to ruin [[The Festival of the Blazing Sun]] or cause distress in the congregation
-* The crypt is underground in the chapel, and [[Milivoj]] pried up the floorboards to get at the bones and sold them to [[Hendrik van der Voort]]
+* The crypt is underground in the chapel, and [[Milivoj]] pried up the floorboards to get at the bones and sold them to [[Henrik van der Voort]]
 * Finding and returning the bones makes the church hallowed ground again, effectively being under a Hallow spell permanently                                                
