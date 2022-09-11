@@ -7,8 +7,12 @@
         "id": "1da01036b8d06e64",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Locations/Barovia/Vallaki/St. Andral's Church.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -80,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Locations/Barovia/Vallaki/St. Andral's Church.md"
+              }
             }
           }
         ]
@@ -107,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/Barovia/Vallaki/St. Andral's Church.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +134,7 @@
   },
   "active": "1da01036b8d06e64",
   "lastOpenFiles": [
+    "Locations/Barovia/Vallaki/Vallaki.md",
     "Characters/NPCs/Bluto Krogarov.md",
     "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Overworld Features/Gates of Barovia.md",
@@ -135,7 +143,6 @@
     "Ongoing Quests/The Hunt for Strahd.md",
     "Characters/NPCs/Madam Eva.md",
     "Locations/Barovia/Overworld Features/Tser Pool Encampment.md",
-    "Characters/NPCs/Ireena Kolyana.md",
-    "Locations/Barovia/Vallaki/Blue Water Inn.md"
+    "Characters/NPCs/Ireena Kolyana.md"
   ]
 }
