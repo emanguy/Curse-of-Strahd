@@ -34,6 +34,14 @@ Henrik makes meals here
 
 * Henrik sleeps here
 * The bookshelf has storybooks and carpenters' manuals
-* 
+
+### Treasure
+* The wardrobe has a secret compartment which can be found with a **DC 15 perception check** which contains 2 sacks:
+  * One contains the **bones of St. Andral**
+  * One contains **30 sp and 12 ep**, all of which bear the visage of Strahd
 
 ## F - Vampire Nest
+> This large, drafty room is strung with cobwebs and takes up most of the upper floor. Stacks of wooden planks lie amid several crates labeled "JUNK"
+
+* The two southmost crates are actually junk, but the six at the north end are filled with dirt and house the **vampire spawn** living there
+* 
