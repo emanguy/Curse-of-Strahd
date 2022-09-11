@@ -29,3 +29,5 @@
 * The stocks are locked and [[Izek Strazni]] has the keys - 3 men, 2 women, and 3 children are in there and are tired, wet, and famished
   * Releasing them is a crime - the punishment for which is [[Izek Strazni]] rounding up the town guards and ordering the characters to leave town
     * If the characters resist, the guards are ordered to beat the party into submission, take their weapons, and throw them out of town to be "food for the wolves"
+      * if the characters are thrown out without their weapons, the [[Keepers of the Feather]] steal the weapons back and bring them to the characters
+      * If the characters beat Izek and the guards, he flees to the [[Burgomaster's Mansion (Vallaki)]] and allows them to roam the town freely. The streets are then cleared because the townsfolk think the party will murder them
