@@ -10,3 +10,6 @@
 * [[Vargas Vallakovich]] does an investigation into the source of the tiger
   * The Wachters lie and say they were at the festival
   * [[Gunther Arasek]] and [[Yelena Arasek]] say they heard "evil growls" and scratching sounds coming from van Richten's cart at [[Arasek Stockyard]], then say they saw the cart's owner dropping food into the wagon through the hole in the roof
+* Once he learns [[Rudolph van Richten]] owned the cart, the Burgomaster orders that Rudolph should be arrested
+  * If van Richten thinks the party can help him, he asks them to distract Vargas and his guards so he can escape with [[Drusilla]], his wagon, and his tiger
+  * If asked where he's going, he tells the characters that he's going to "an old tower to the west where I can lay low" ([[Van Richten's Tower]])
