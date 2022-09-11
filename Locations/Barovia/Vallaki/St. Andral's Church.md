@@ -3,4 +3,5 @@
 
 * Use the [[Barovia Town]] church map if a map is needed.
 * Dedicated to the [[Morninglord]] and named after St. Andral whose bones used to be buried here
-* 
+* Father [[Lucian Petrovich]] (priest) runs the church along with an altar boy named [[Yeska]] and a gravedigger named [[Milivoj]] (commoner)
+* At night the church is filled with **2d6 frightened commoners**
