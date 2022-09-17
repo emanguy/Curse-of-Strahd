@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nikolai",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,7 +156,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a3388ca99aa66e77",
+  "active": "a2f555f4bb50db77",
   "lastOpenFiles": [
     "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
     "Locations/Barovia/Vallaki/Locations/Town Square.md",
