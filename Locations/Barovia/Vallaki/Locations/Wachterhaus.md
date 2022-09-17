@@ -14,13 +14,23 @@
 Opening the door:
 > The front door opens into a narrow vestibule. Three stained-glass doors in wooden frames lead from it.
 
-* Two closets inside contain [[Lady Fiona Wachter]]'s outdoor clothes and the other '
+* Two closets inside contain [[Lady Fiona Wachter]]'s outdoor clothes and the other contains coats and boots for her children
 
-## B -
+## B - Staircase
+> A wooden staircase leads up to a balcony. At the foot of the stairs is a landing with three stained-glass doors in wooden frames.
 
-## C -
+* Goes to the **Upstairs Hall** (area L)
 
-## D -
+## C - Kitchen
+* House cook prepares meals here and is sometimes cleaning up
+* Washbasin in the northeast corner, door in the west wall goes to a small pantry
+
+## D - Storage Room
+* Has the following:
+  * Crates of old clothing
+  * 3 barrels drinking water
+  * 2 empty and 1 full wine barrel labeled "Red Dragon Crush"
+* Wine barrels have [[The Wizard of Wines]] logo
 
 ## E - 
 
