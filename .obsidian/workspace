@@ -26,30 +26,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "987768b795ad2fb2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Characters/NPCs/Nikolai and Karl Wachter.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "a3388ca99aa66e77",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Characters/NPCs/Lady Fiona Wachter.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -76,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "karl wachter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Nikolai and Karl Wachter.md"
+                "file": "Locations/Barovia/Vallaki/Locations/Wachterhaus.md"
               }
             }
           }
@@ -150,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Nikolai and Karl Wachter.md",
+                "file": "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,17 +143,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "987768b795ad2fb2",
+  "active": "5211b1fa1e112295",
   "lastOpenFiles": [
+    "Characters/NPCs/Ernst Larnak.md",
     "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
+    "Characters/NPCs/Nikolai and Karl Wachter.md",
+    "Characters/NPCs/Lady Fiona Wachter.md",
     "Characters/NPCs/Groups/Vallakians.md",
     "Locations/Barovia/Vallaki/Events/Tyger, Tyger.md",
     "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
-    "Characters/NPCs/Nikolai and Karl Wachter.md",
     "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md",
-    "Characters/NPCs/Lady Fiona Wachter.md",
     "Locations/Barovia/Vallaki/Locations/Town Square.md",
-    "Locations/Barovia/Vallaki/Events/The Festival of the Blazing Sun.md",
-    "Locations/Barovia/Vallaki/Vallaki.md"
+    "Locations/Barovia/Vallaki/Events/The Festival of the Blazing Sun.md"
   ]
 }
