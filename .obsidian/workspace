@@ -26,18 +26,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "5211b1fa1e112295",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -77,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e3d673f7bbf655d6",
@@ -153,19 +142,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "837ba8324646dccd",
   "lastOpenFiles": [
-    "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
+    "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
+    "Locations/Barovia/Vallaki/Vallaki.md",
     "Characters/NPCs/Ernst Larnak.md",
     "Characters/NPCs/Nikolai and Karl Wachter.md",
     "Characters/NPCs/Lady Fiona Wachter.md",
     "Characters/NPCs/Groups/Vallakians.md",
     "Locations/Barovia/Vallaki/Events/Tyger, Tyger.md",
     "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
-    "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md",
-    "Locations/Barovia/Vallaki/Locations/Town Square.md"
+    "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md"
   ]
 }
