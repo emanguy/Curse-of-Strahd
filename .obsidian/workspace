@@ -16,16 +16,37 @@
         }
       },
       {
-        "id": "b4d904d61172ece5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/Barovia/Vallaki/Locations/Vistani Camp (Vallaki).md",
-            "mode": "preview",
-            "source": false
+        "id": "9152e642650ae77c",
+        "type": "split",
+        "children": [
+          {
+            "id": "b4d904d61172ece5",
+            "type": "leaf",
+            "dimension": 53.733528550512446,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Barovia/Vallaki/Locations/Vistani Camp (Vallaki).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e06e10f8c781d198",
+            "type": "leaf",
+            "dimension": 46.266471449487554,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPCs/Luvash.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -98,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Vistani Camp (Vallaki).md"
+                "file": "Characters/NPCs/Luvash.md"
               }
             }
           }
@@ -126,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Vistani Camp (Vallaki).md",
+                "file": "Characters/NPCs/Luvash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,17 +166,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b4d904d61172ece5",
+  "active": "e06e10f8c781d198",
   "lastOpenFiles": [
-    "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
     "Locations/Barovia/Vallaki/Locations/Vistani Camp (Vallaki).md",
+    "Characters/NPCs/Luvash.md",
+    "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
     "Characters/NPCs/Ernst Larnak.md",
     "Characters/NPCs/Nikolai and Karl Wachter.md",
     "Characters/NPCs/Lady Fiona Wachter.md",
     "Characters/NPCs/Groups/Vallakians.md",
-    "Locations/Barovia/Vallaki/Events/Tyger, Tyger.md",
-    "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md"
+    "Locations/Barovia/Vallaki/Events/Tyger, Tyger.md"
   ]
 }
