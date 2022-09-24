@@ -7,7 +7,6 @@
 * Henrik says the shop is closed if the characters show up but won't resist if they break in. He'll also give up where **St. Andral's Bones** (Henrik's Bedroom) are as well as the **Vampire Nest**.
 * If the characters report the incident to [[Vargas Vallakovich]] he'll dispatch 4 **guards** to arrest Henrik and get the bones. Henrik will only retrieve the bones himself if it's daytime.
   * He explains that the vampires forced him to steal the bones
-* =
 
 ## A - Coffin Storage
 > Arranged haphazardly about the floor of this musty, L-shaped room are 13 wooden coffins.
