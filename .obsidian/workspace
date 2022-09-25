@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
+            "file": "Locations/Barovia/Overworld Features/Lake Zarovich.md",
             "mode": "preview",
             "source": false
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md"
+                "file": "Locations/Barovia/Overworld Features/Lake Zarovich.md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
+                "file": "Locations/Barovia/Overworld Features/Lake Zarovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,8 +145,8 @@
   },
   "active": "bf5beced786a16b2",
   "lastOpenFiles": [
-    "Ongoing Quests/Reuniting with Bam's Fam.md",
     "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
+    "Ongoing Quests/Reuniting with Bam's Fam.md",
     "Useful Links and Info.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md",
