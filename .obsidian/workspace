@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ongoing Quests/Reuniting with Bam's Fam.md"
+                "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ongoing Quests/Reuniting with Bam's Fam.md",
+                "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,11 +143,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b18157f4e11f0bad",
+  "active": "bf5beced786a16b2",
   "lastOpenFiles": [
+    "Ongoing Quests/Reuniting with Bam's Fam.md",
     "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
     "Useful Links and Info.md",
-    "Ongoing Quests/Reuniting with Bam's Fam.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md",
     "Locations/Barovia/Vallaki/Locations/Vistani Camp (Vallaki).md",
