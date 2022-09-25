@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ongoing Quests/Reuniting with Bam's Fam.md"
+                "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ongoing Quests/Reuniting with Bam's Fam.md",
+                "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,8 +143,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b18157f4e11f0bad",
+  "active": "355951d599b6039a",
   "lastOpenFiles": [
+    "Ongoing Quests/Reuniting with Bam's Fam.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
     "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md",
@@ -153,7 +154,6 @@
     "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
     "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
     "Characters/NPCs/Ernst Larnak.md",
-    "Characters/NPCs/Nikolai and Karl Wachter.md",
-    "Characters/NPCs/Lady Fiona Wachter.md"
+    "Characters/NPCs/Nikolai and Karl Wachter.md"
   ]
 }
