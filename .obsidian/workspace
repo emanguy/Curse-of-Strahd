@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Vallaki/Vallaki.md",
+            "file": "Ongoing Quests/Reuniting with Bam's Fam.md",
             "mode": "preview",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md",
+            "file": "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
             "mode": "preview",
             "source": false
           }
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e3d673f7bbf655d6",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md"
+                "file": "Ongoing Quests/Reuniting with Bam's Fam.md"
               }
             }
           }
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md",
+                "file": "Ongoing Quests/Reuniting with Bam's Fam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,17 +143,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "355951d599b6039a",
+  "active": "b18157f4e11f0bad",
   "lastOpenFiles": [
     "Locations/Barovia/Vallaki/Vallaki.md",
+    "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
+    "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md",
     "Locations/Barovia/Vallaki/Locations/Vistani Camp (Vallaki).md",
     "Characters/NPCs/Luvash.md",
     "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
     "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
     "Characters/NPCs/Ernst Larnak.md",
     "Characters/NPCs/Nikolai and Karl Wachter.md",
-    "Characters/NPCs/Lady Fiona Wachter.md",
-    "Characters/NPCs/Groups/Vallakians.md",
-    "Locations/Barovia/Vallaki/Events/Tyger, Tyger.md"
+    "Characters/NPCs/Lady Fiona Wachter.md"
   ]
 }
