@@ -4,36 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bf5beced786a16b2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/Barovia/Vallaki/Vallaki.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "7ab24bb51abc1d48",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Locations/Barovia/Vallaki/Locations/Town Square.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "c9193b462837c852",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Characters/NPCs/Groups/Vallakians.md",
             "mode": "preview",
             "source": false
           }
@@ -157,15 +133,15 @@
   },
   "active": "7ab24bb51abc1d48",
   "lastOpenFiles": [
-    "Locations/Barovia/Vallaki/Vallaki.md",
     "Characters/NPCs/Groups/Vallakians.md",
+    "Locations/Barovia/Vallaki/Locations/Town Square.md",
+    "Locations/Barovia/Vallaki/Vallaki.md",
     "Ongoing Quests/Reuniting with Bam's Fam.md",
     "Locations/Barovia/Overworld Features/Lake Zarovich.md",
     "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
     "Useful Links and Info.md",
     "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md",
     "Locations/Barovia/Vallaki/Locations/Vistani Camp (Vallaki).md",
-    "Characters/NPCs/Luvash.md",
-    "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md"
+    "Characters/NPCs/Luvash.md"
   ]
 }
