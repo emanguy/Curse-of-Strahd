@@ -15,3 +15,10 @@
   * [[Erasmus]] was stolen by [[Vistani]] when he was 14 and was sold to a vampire named [[Baron Metus]] to be used as a companion
 * Found [[Erasmus]] as a Vampire Spawn, who begged him to end his suffering, so van Richten killed him with a wooden stake
 * [[Baron Metus]] then killed [[Ingrid]] as revenge for [[Erasmus]]
+* With this, van Richten took up a life fighting monsters
+
+## Hunting Strahd
+* Waiting for an opportunity to attack [[Strahd]] but knows he can't win on a full on fight.
+  * Waiting until he goes to sleep in his coffin
+* In the meantime, hides in plain sight with a _Hat of Disguise_ and protects his thoughts with a _Ring of Mind Shielding_
+* Trying to learn more about the [[Keepers of the Feather]] to gain a potential ally in the future
