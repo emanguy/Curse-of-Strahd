@@ -32,13 +32,25 @@ Opening the door:
   * 2 empty and 1 full wine barrel labeled "Red Dragon Crush"
 * Wine barrels have [[The Wizard of Wines]] logo
 
-## E - 
+## E - Back Vestibule
+* Back door here is locked
 
-## F -
+## F - Servants' Closet
+> Servants' coats and aprons hang from hooks in this room, and boots are neatly lined up against the wall.
 
-## G -
+* There's a secret door in this closet that can be detected with a **DC 10 Perception Check**. The door leads to the cellar
 
-## H -
+## G - Secret Staircase
+> Iron torch sconces cling to the wall of a stone staircase that cuts its way through the heart of the old house.
+
+* Goes to the Secret Cult Lair (Area S)
+
+## H - Servants' Quarters
+> The furnishing in this room are bereft of imagination. Four simple beds with equally austere wooden chests.
+
+* [[Lady Fiona Wachter]]'s four servants (N male/female **commoners**) sleep here at night
+  * Cook - Dhavit
+  * Two maids - Madalena and Amalthia
 
 ## I -
 
