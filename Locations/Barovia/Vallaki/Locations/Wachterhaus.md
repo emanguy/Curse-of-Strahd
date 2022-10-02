@@ -134,7 +134,17 @@ Opening the door:
 ## Q - Storage Room
 > Behind the hinged panel in the bookcase lies a dusty, ten-foot-square room with a curtained window and shelves lining three walls. On the bottom shelf rests an iron chest. The other shelves are bare.
 
-* There's a poison needle trap on the ch*
+* There's a poison needle trap on the chest, see description in area O (master bedroom) which is disabled with the cat key (see area P - Library)
+
+### Treasure
+* The chest contains the following:
+  * Silk bag containing 180 ep bearing the visage of Strahd
+  * Leather bag containing 110 gp
+  * Wooden pipe that has been passed down through many generations of Wachter patriarchs
+  * Five notarized land deeds given to the Wachter family by [[Strahd]] 4 centuries ago
+  * Supple leather case containing an unbound manuscript called **The Devil we Know** which [[Lady Fiona Wachter]] wrote about how worshiping devils can bring happiness, success, freedom, wealth, and longevity
+  * Blasphemous treatise bound in black leather called **The Grimoire of the Four Quarters** written by diabolist [[Devostas]] who was drawn and quartered for his fell practices but didn't die (it's a forgery, the real one would drive the reader mad)
+  * Old letter for [[Lady Lovinia Wachter]] (an ancestor) from [[Lord Vasili van Holt]]
 
 ## R -
 
