@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Stella Wachter.md"
+                "file": "Locations/Barovia/Vallaki/Locations/Wachterhaus.md"
               }
             }
           }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Stella Wachter.md",
+                "file": "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,8 +169,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d59a78e11f45218c",
+  "active": "b18157f4e11f0bad",
   "lastOpenFiles": [
+    "Locations/Barovia/Vallaki/Locations/Stella Wachter.md",
     "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
     "Characters/NPCs/Lady Fiona Wachter.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
@@ -179,7 +180,6 @@
     "Characters/NPCs/Luvash.md",
     "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
     "Characters/NPCs/Ernst Larnak.md",
-    "Characters/NPCs/Nikolai and Karl Wachter.md",
-    "Characters/NPCs/Groups/Vallakians.md"
+    "Characters/NPCs/Nikolai and Karl Wachter.md"
   ]
 }

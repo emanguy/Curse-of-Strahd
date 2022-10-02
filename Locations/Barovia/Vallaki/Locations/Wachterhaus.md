@@ -97,7 +97,10 @@ Opening the door:
 
 * The woman is [[Stella Wachter]]. See her page for more.
 
-## O -
+## O - Master Bedroom
+* Door is locked, [[Lady Fiona Wachter]] and her servants carry keys
+* Read when the characters go into the room:
+> Across form the door, a fire sputters and struggles for life in the hearth, above which hangs a framed family portrait: a noble father and 
 
 ## P - 
 
