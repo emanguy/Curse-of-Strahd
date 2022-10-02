@@ -16,6 +16,18 @@
         }
       },
       {
+        "id": "8b0e4768ecc8453a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Characters/NPCs/Lady Fiona Wachter.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "355951d599b6039a",
         "type": "leaf",
         "state": {
@@ -61,7 +73,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,15 +159,15 @@
   },
   "active": "b18157f4e11f0bad",
   "lastOpenFiles": [
+    "Characters/NPCs/Lady Fiona Wachter.md",
+    "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md",
-    "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
     "Locations/Barovia/Vallaki/Locations/Vistani Camp (Vallaki).md",
     "Characters/NPCs/Luvash.md",
     "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
     "Characters/NPCs/Ernst Larnak.md",
     "Characters/NPCs/Nikolai and Karl Wachter.md",
-    "Characters/NPCs/Lady Fiona Wachter.md",
     "Characters/NPCs/Groups/Vallakians.md"
   ]
 }

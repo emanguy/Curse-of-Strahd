@@ -51,8 +51,14 @@ Opening the door:
 * [[Lady Fiona Wachter]]'s four servants (N male/female **commoners**) sleep here at night
   * Cook - Dhavit
   * Two maids - Madalena and Amalthia
+  * Valet - Haliq
+  * All of them know Wachter's secrets but would sooner die than give them up
 
-## I -
+## I - Parlor
+> Here three elegant couches surround an oval table made of black glass. All are set in front of a blazing hearth, above which hangs the portrait of a smirking nobleman sporting a broken nose and a tangle of hair graying at the temples. Several smaller portraits hang on the north wall.
+
+* Portrait depicts [[Nikolai Wachter Sr.]], [[Lady Fiona Wachter]]'s dead husband.
+  * Other portraits depict [[Lady Fiona Wachter]], [[Nikolai and Karl Wachter]], [[Stella Wachter]], and various deceased family members
 
 ## J -
 
