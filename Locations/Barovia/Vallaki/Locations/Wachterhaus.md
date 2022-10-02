@@ -156,4 +156,11 @@ Opening the door:
 ## S - Cellar
 > This large root cellar has a dirt floor. Two ascending flights of stone steps enclosed by wooden railings stand across from one another. Tracks in the earth lead from one staircase to the other, and other trails go from both staircases to the center of the bare west wall. Four neatly made cots are set in a row against the south wall.
 
-## T -
+* There are 8 **skeletons** under the floor here which rise and attack intruders. They're reanimated dead [[Vallakians]] stolen from the church cemetery.
+  * They don't attack anyone uttering the phrase "let the dead remain at rest" before setting foot on the floor.
+  * Only [[Lady Fiona Wachter]], [[Nikolai and Karl Wachter]], her servants, and cult fanatics know about this secret
+* Cots are for cultists to spend the night
+* The trail gives away the secret door in the west wall, which pivots open on a central axis
+
+## T - Cult Headquarters
+> Flickering candles in iron holders fill this room with light and shadows. This room has a ten-foot-high ceiling and a large black pentagram inscribed on the stone floor. At each point of the pentagram rests a wooden chair. Sated in four of the five chairs are men and women in black robes with hods: a young man who has the face of an 
