@@ -100,7 +100,12 @@ Opening the door:
 ## O - Master Bedroom
 * Door is locked, [[Lady Fiona Wachter]] and her servants carry keys
 * Read when the characters go into the room:
-> Across form the door, a fire sputters and struggles for life in the hearth, above which hangs a framed family portrait: a noble father and 
+> Across form the door, a fire sputters and struggles for life in the hearth, above which hangs a framed family portrait: a noble father and mother, their two young sons, and a baby daughter in the father's arms. The sons are smiling in a way that suggests mischief. The parents look like uncrowned royalty.
+> Wood paneling covers the walls of the room. A closet and a framed mirror flank a curtained window to the south. To the north, a wide, canopied bed lies pinned between matching end tables with oil lamps. Stretched out on one side of the bed is a man dressed in black, his eyes each covered with a copper piece. He bears a striking resemblance to the father in the painting.
+
+* [[Nikolai Wachter Sr.]] is in the bed and [[Lady Fiona Wachter]] keeps him fresh with regular **Gentle Repose** spells.
+* Closet contains fancy footwear and fine clothing plus a black ceremonial robe with a hood similar to the cult fanatics in **area T**, the Cult Headquarters
+* There's a locked iron chest on a high shelf that's rigged with a poison needle trap
 
 ## P - 
 

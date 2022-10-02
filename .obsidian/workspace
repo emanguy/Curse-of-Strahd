@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
+            "file": "Locations/Barovia/Vallaki/Locations/Vistani Camp (Vallaki).md",
             "mode": "source",
             "source": false
           }
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "poison needle trap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e3d673f7bbf655d6",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Wachterhaus.md"
+                "file": "Locations/Barovia/Vallaki/Locations/Vistani Camp (Vallaki).md"
               }
             }
           }
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
+                "file": "Locations/Barovia/Vallaki/Locations/Vistani Camp (Vallaki).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,8 +170,8 @@
   },
   "active": "b18157f4e11f0bad",
   "lastOpenFiles": [
-    "Locations/Barovia/Vallaki/Locations/Stella Wachter.md",
     "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
+    "Locations/Barovia/Vallaki/Locations/Stella Wachter.md",
     "Characters/NPCs/Lady Fiona Wachter.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md",
