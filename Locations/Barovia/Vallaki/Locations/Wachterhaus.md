@@ -67,7 +67,15 @@ Opening the door:
 * [[Lady Fiona Wachter]] will offer the party a warm meal here if they intend to overthrow [[Vargas Vallakovich]]
 
 ## K - Den
-> Wood paneling, embroidered rugs, colorful furnishings, and a blazing fire make this chamber stifling.  mounted above the mantel is an elk's head. Across from
+> Wood paneling, embroidered rugs, colorful furnishings, and a blazing fire make this chamber stifling.  mounted above the mantel is an elk's head. Across from the hearth, tall, slender windows look out over dead gardens.
+
+* [[Ernst Larnak]] lounges here when he's not doing work for [[Lady Fiona Wachter]]
+
+### Treasure
+* The room contains the following:
+  * A golden goblet that [[Ernst Larnak]] drinks wine from worth **250gp**
+  * A crystal wine decanter worth **250gp**
+  * 
 
 ## L -
 
