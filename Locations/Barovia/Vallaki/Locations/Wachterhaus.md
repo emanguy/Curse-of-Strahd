@@ -75,9 +75,13 @@ Opening the door:
 * The room contains the following:
   * A golden goblet that [[Ernst Larnak]] drinks wine from worth **250gp**
   * A crystal wine decanter worth **250gp**
-  * 
+  * 4 electrum candelabras worth **25gp each**
+  * Bronze urn with frolicking children painted on the sides worth **100gp**
 
-## L -
+## L - Upstairs Hall
+> A hallway with a window at each end wraps around the staircase railing. Framed portraits and mirrors festoon the walls, surrounding you with judging looks and dark reflections. You hear something scratching at one of the many doors.
+
+* Scratching comes from [[stel*
 
 ## M -
 
