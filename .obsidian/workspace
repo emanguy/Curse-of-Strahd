@@ -16,6 +16,18 @@
         }
       },
       {
+        "id": "d59a78e11f45218c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Locations/Barovia/Vallaki/Locations/Stella Wachter.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "8b0e4768ecc8453a",
         "type": "leaf",
         "state": {
@@ -111,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Wachterhaus.md"
+                "file": "Locations/Barovia/Vallaki/Locations/Stella Wachter.md"
               }
             }
           }
@@ -139,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
+                "file": "Locations/Barovia/Vallaki/Locations/Stella Wachter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,10 +169,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b18157f4e11f0bad",
+  "active": "d59a78e11f45218c",
   "lastOpenFiles": [
-    "Characters/NPCs/Lady Fiona Wachter.md",
     "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
+    "Characters/NPCs/Lady Fiona Wachter.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md",
     "Locations/Barovia/Vallaki/Locations/Vistani Camp (Vallaki).md",

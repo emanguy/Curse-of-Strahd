@@ -81,11 +81,21 @@ Opening the door:
 ## L - Upstairs Hall
 > A hallway with a window at each end wraps around the staircase railing. Framed portraits and mirrors festoon the walls, surrounding you with judging looks and dark reflections. You hear something scratching at one of the many doors.
 
-* Scratching comes from [[stel*
+* Scratching comes from [[Stella Wachter]]'s room, which is locked
+  * If the characters call out a female voice meows and calls out "Can little kitty come out to play? Little kitty is sad and lonely and promises to be good this time, she really does."
+* The closet at the end of the hallway has blankets and linens
 
-## M -
+## M - Brothers' Rooms
+> This bedroom contains nothing out of the ordinary: a neatly made bed, a table with an oil lamp on it, an handsome wooden chest, a slender wardrobe and a window box with drapes.
 
-## N -
+* The rooms belong to [[Nikolai and Karl Wachter]]
+* There's a 25% chance that a maid is working here, tidying up (see Servants' Quarters, area H)
+
+## N - Stella's Room
+> The room is musty and dark. An iron-framed bed fitted with leather straps stands near a wall. The place has no other furnishings.
+> Scurrying away from you on all fours is a young woman in a soiled nightgown. She leaps onto the bed and hisses like a cat. "Little kitty doesn't know you!" she shouts. "Little kitty doesn't like the smell of you!"
+
+* The woman is [[Stella Wachter]]. See her page for more.
 
 ## O -
 
