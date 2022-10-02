@@ -163,4 +163,9 @@ Opening the door:
 * The trail gives away the secret door in the west wall, which pivots open on a central axis
 
 ## T - Cult Headquarters
-> Flickering candles in iron holders fill this room with light and shadows. This room has a ten-foot-high ceiling and a large black pentagram inscribed on the stone floor. At each point of the pentagram rests a wooden chair. Sated in four of the five chairs are men and women in black robes with hods: a young man who has the face of an 
+> Flickering candles in iron holders fill this room with light and shadows. This room has a ten-foot-high ceiling and a large black pentagram inscribed on the stone floor. At each point of the pentagram rests a wooden chair. Sated in four of the five chairs are men and women in black robes with hoods: a young man who has the face of an angel; a balding hulk of a man; a squat, middle-aged woman; and a taller, younger woman with an unsettling glare. They rise to confront you.
+
+* The four people are LE **cult fanatics** who [[Lady Fiona Wachter]] promised with power, wealth, and long life 
+  * Members of her "book club" waiting for Fiona to read them entries from her manifesto, found in the Storage Room, area Q
+  * Attack the party to protect their identities
+* The 5th chair holds [[Lady Fiona Wachter]]'s **imp**, [[Majesto]], who is eavesdropping on the cultists invisibly
