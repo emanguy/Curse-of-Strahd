@@ -8,6 +8,7 @@
 * Has a horse named [[Drusilla]]
 * Has a captured saber-tooth tiger
 * If he finds out the [[Vistani]] at the [[Vistani Camp (Vallaki)]] are in league with [[Strahd]] he tries to unleash his saber-tooth tiger on them
+* He's been cursed by a [[Vistani]] seer, which brings doom upon people he befriends
 
 ## History
 * Came from a land called [[Darkon]]
@@ -22,3 +23,6 @@
   * Waiting until he goes to sleep in his coffin
 * In the meantime, hides in plain sight with a _Hat of Disguise_ and protects his thoughts with a _Ring of Mind Shielding_
 * Trying to learn more about the [[Keepers of the Feather]] to gain a potential ally in the future
+* Wants to take out [[Strahd]]'s allies, starting with the Vistani
+* Unaware that [[Esmerelda d'Avenir]], his former Protege, is roaming around Barovia looking for him
+  * If he hears about her, he tries to protect her as best he can without putting his plans in jeopardy
