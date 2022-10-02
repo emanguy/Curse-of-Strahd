@@ -1,5 +1,6 @@
 # Ireena Kolyana
 * Human Woman with Auburn Hair
+* After fleeing the dire wolf attack (see [[Izek Strazni]]
 * Bitten twice by [[Strahd]]
 * Has a strong will and will help the party however she can
 * Not many memories and doesn't remember interactions with [[Strahd]] due to vampiric charm

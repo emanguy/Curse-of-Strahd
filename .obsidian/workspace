@@ -46,7 +46,7 @@
           "type": "markdown",
           "state": {
             "file": "Characters/NPCs/Ireena Kolyana.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Izek Strazni.md"
+                "file": "Characters/NPCs/Ireena Kolyana.md"
               }
             }
           }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Izek Strazni.md",
+                "file": "Characters/NPCs/Ireena Kolyana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,11 +167,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9e3175a7cd0415da",
+  "active": "5ccb52fa7e2eac6a",
   "lastOpenFiles": [
+    "Characters/NPCs/Izek Strazni.md",
     "Ongoing Quests/My Love, the Mayor's Daughter.md",
     "Ongoing Quests/Kragg's Musical Journey.md",
-    "Characters/NPCs/Izek Strazni.md",
     "Characters/Players/Rogue.md",
     "Characters/NPCs/Ireena Kolyana.md",
     "Locations/Barovia/Vallaki/Locations/Town Square.md",
