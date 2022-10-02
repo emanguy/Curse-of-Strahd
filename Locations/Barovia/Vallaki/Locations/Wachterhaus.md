@@ -59,10 +59,15 @@ Opening the door:
 
 * Portrait depicts [[Nikolai Wachter Sr.]], [[Lady Fiona Wachter]]'s dead husband.
   * Other portraits depict [[Lady Fiona Wachter]], [[Nikolai and Karl Wachter]], [[Stella Wachter]], and various deceased family members
+* Shares the fireplace with the Den (area K) where [[Ernst Larnak]] will eavesdrop on any conversations [[Lady Fiona Wachter]] has with the characters
 
-## J -
+## J - Dining Room
+> An ornate dining table stretches the length of this room, a crystal chandelier hanging above it imperiously. The silverware is tarnished, the dishes chipped, yet all are still quite elegant. Eight chairs, their backs adorned with sculpted elk horns, surround the table. Arched windows made of a latticework of iron and glass look out onto the small, fog-swept estate.
 
-## K -
+* [[Lady Fiona Wachter]] will offer the party a warm meal here if they intend to overthrow [[Vargas Vallakovich]]
+
+## K - Den
+> Wood paneling, embroidered rugs, colorful furnishings, and a blazing fire make this chamber stifling.  mounted above the mantel is an elk's head. Across from
 
 ## L -
 
