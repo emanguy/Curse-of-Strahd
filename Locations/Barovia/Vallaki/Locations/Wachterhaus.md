@@ -144,10 +144,16 @@ Opening the door:
   * Five notarized land deeds given to the Wachter family by [[Strahd]] 4 centuries ago
   * Supple leather case containing an unbound manuscript called **The Devil we Know** which [[Lady Fiona Wachter]] wrote about how worshiping devils can bring happiness, success, freedom, wealth, and longevity
   * Blasphemous treatise bound in black leather called **The Grimoire of the Four Quarters** written by diabolist [[Devostas]] who was drawn and quartered for his fell practices but didn't die (it's a forgery, the real one would drive the reader mad)
-  * Old letter for [[Lady Lovinia Wachter]] (an ancestor) from [[Lord Vasili van Holt]]
+  * Old letter for [[Lady Lovinia Wachter]] (an ancestor) from [[Strahd|Lord Vasili van Holtz]]thanking Lovinia for hospitality, loyalty, and friendship over the years
+    * If players have the [[Tome of Strahd]] they'll notice van Holtz and Strahd have the same handwriting
 
-## R -
+## R - Cellar Entrance
+* If approached from the cellar door, read:
+> A slanted, wooden cellar door with an iron pull ring and iron hinges stands against the foundation of the house.
 
-## S -
+* Door is unlocked
+
+## S - Cellar
+> This large root cellar has a dirt floor. Two ascending flights of stone steps enclosed by wooden railings stand across from one another. Tracks in the earth lead from one staircase to the other, and other trails go from both staircases to the center of the bare west wall. Four neatly made cots are set in a row against the south wall.
 
 ## T -
