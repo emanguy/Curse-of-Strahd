@@ -50,30 +50,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "db1fcee6813e630d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ongoing Quests/My Love, the Mayor's Daughter.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "e44b2ff2669128c3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ongoing Quests/Kragg's Musical Journey.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -145,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ongoing Quests/My Love, the Mayor's Daughter.md"
+                "file": "Characters/NPCs/Izek Strazni.md"
               }
             }
           }
@@ -173,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ongoing Quests/My Love, the Mayor's Daughter.md",
+                "file": "Characters/NPCs/Izek Strazni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,13 +167,13 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "db1fcee6813e630d",
+  "active": "9e3175a7cd0415da",
   "lastOpenFiles": [
-    "Ongoing Quests/Kragg's Musical Journey.md",
     "Ongoing Quests/My Love, the Mayor's Daughter.md",
+    "Ongoing Quests/Kragg's Musical Journey.md",
+    "Characters/NPCs/Izek Strazni.md",
     "Characters/Players/Rogue.md",
     "Characters/NPCs/Ireena Kolyana.md",
-    "Characters/NPCs/Izek Strazni.md",
     "Locations/Barovia/Vallaki/Locations/Town Square.md",
     "Characters/NPCs/Kasimir Velikov.md",
     "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
