@@ -116,7 +116,15 @@ Opening the door:
     * The trap can be disabled with a **DC 15 Dex Check** using thieves' tools
   * The chest is lined with lead and contains the bones of [[Leo Dilisnya]], which [[Lady Fiona Wachter]] keeps locked away to prevent him from being resurrected
 
-## P - 
+## P - Library
+* Doors are locked, [[Lady Fiona Wachter]] and her servants carry keys
+> This room is crawling with cats. Bookshelves hug the walls, but most of the shelves are bare. Other furnishings include a desk, a chair, a table, and a wine cabinet. The room has an irregular shape, and none of its angles seem quite right, as though the shifting of the house has set the whole place on edge.
+
+* Eight **cats** are in the library and attack anyone who tries to pick them up
+  * With a **DC 10 Passive Perception check**, notice one of them has a key around its neck which opens the chest in the Storage room, area Q
+* 25% chance one of the maids is dusting shelves in here
+* Cabinet holds wine glasses
+* Desk contains blank pieces of parchment, quill pens, jars of ink, wax seal
 
 ## Q -
 
