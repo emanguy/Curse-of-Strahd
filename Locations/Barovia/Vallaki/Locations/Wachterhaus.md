@@ -105,13 +105,16 @@ Opening the door:
 
 * [[Nikolai Wachter Sr.]] is in the bed and [[Lady Fiona Wachter]] keeps him fresh with regular **Gentle Repose** spells.
 * Closet contains fancy footwear and fine clothing plus a black ceremonial robe with a hood similar to the cult fanatics in **area T**, the Cult Headquarters
+* There's a key under the mantle of the fireplace for the iron chest, **DC 10 Perception** to detect it
+
+### Treasure
 * There's a locked iron chest on a high shelf that's rigged with a poison needle trap
   * Poison needle trap
     * Needle strikes when triggered, dealing **1 piercing damage and 2d10 poison**.
-    * Character must make a **DC 15 Con Save** or be poisoned for 1 hour.
+    * Character must make a **DC 15 Con Save** or ~~be poisoned~~ fall unconscious for 1 hour. (tweak for this specific trap)
     * The trap can be detected with a **DC 20 Investigation Check**
     * The trap can be disabled with a **DC 15 Dex Check** using thieves' tools
-    * 
+  * The chest is lined with lead and contains the bones of [[Leo Dilisnya]], which [[Lady Fiona Wachter]] keeps locked away to prevent him from being resurrected
 
 ## P - 
 

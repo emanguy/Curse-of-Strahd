@@ -16,6 +16,18 @@
         }
       },
       {
+        "id": "cc5e0c37d021b62c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Locations/Barovia/Vallaki/Locations/Leo Dilisnya.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "d59a78e11f45218c",
         "type": "leaf",
         "state": {
@@ -121,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Wachterhaus.md"
+                "file": "Locations/Barovia/Vallaki/Locations/Leo Dilisnya.md"
               }
             }
           }
@@ -149,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
+                "file": "Locations/Barovia/Vallaki/Locations/Leo Dilisnya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,10 +179,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b18157f4e11f0bad",
+  "active": "cc5e0c37d021b62c",
   "lastOpenFiles": [
-    "Characters/NPCs/Stella Wachter.md",
     "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
+    "Characters/NPCs/Stella Wachter.md",
     "Locations/Barovia/Vallaki/Locations/Arasek Stockyard.md",
     "Characters/NPCs/Lady Fiona Wachter.md",
     "Locations/Barovia/Vallaki/Locations/Vistani Camp (Vallaki).md",
