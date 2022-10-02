@@ -8,7 +8,8 @@
 * Has a horse named [[Drusilla]]
 * Has a captured saber-tooth tiger
 * If he finds out the [[Vistani]] at the [[Vistani Camp (Vallaki)]] are in league with [[Strahd]] he tries to unleash his saber-tooth tiger on them
-* He's been cursed by a [[Vistani]] seer, which brings doom upon people he befriends
+* He's been cursed by a [[Vistani]] seer, which brings doom upon people he befriends so he works alone
+* If he thinks he's in danger of being unmasked he retreats to [[Van Richten's Tower]] or somewhere else quiet enough to let the danger blow over
 
 ## History
 * Came from a land called [[Darkon]]
