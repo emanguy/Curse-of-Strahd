@@ -123,10 +123,18 @@ Opening the door:
 * Eight **cats** are in the library and attack anyone who tries to pick them up
   * With a **DC 10 Passive Perception check**, notice one of them has a key around its neck which opens the chest in the Storage room, area Q
 * 25% chance one of the maids is dusting shelves in here
+* Most books were sold to cover the Wachter family's debts, most are uninteresting
+  * You can use the **random book table** on **page 66** of the module for topics
+* The section of bookshelf on the south wall is a secret door that can be pulled outward (see [[Useful Links and Info]] for DC) which leads to the Storage Room (area Q)
+
+### Treasure
 * Cabinet holds wine glasses
 * Desk contains blank pieces of parchment, quill pens, jars of ink, wax seal
 
-## Q -
+## Q - Storage Room
+> Behind the hinged panel in the bookcase lies a dusty, ten-foot-square room with a curtained window and shelves lining three walls. On the bottom shelf rests an iron chest. The other shelves are bare.
+
+* There's a poison needle trap on the ch*
 
 ## R -
 
