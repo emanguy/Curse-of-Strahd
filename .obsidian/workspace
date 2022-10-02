@@ -21,6 +21,18 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Characters/NPCs/Lady Fiona Wachter.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d7c94bb41abbfc9b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Locations/Barovia/Vallaki/Lady Wachter's Wish.md",
             "mode": "source",
             "source": false
@@ -156,17 +168,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a2f555f4bb50db77",
+  "active": "d7c94bb41abbfc9b",
   "lastOpenFiles": [
-    "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
+    "Characters/NPCs/Lady Fiona Wachter.md",
     "Locations/Barovia/Vallaki/Lady Wachter's Wish.md",
+    "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Vallaki/Locations/Arasek Stockyard.md",
     "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
     "Characters/NPCs/Stella Wachter.md",
     "Ongoing Quests/The Hunt for Strahd.md",
     "Useful Links and Info.md",
-    "Characters/NPCs/Leo Dilisnya.md",
-    "Characters/NPCs/Lady Fiona Wachter.md"
+    "Characters/NPCs/Leo Dilisnya.md"
   ]
 }
