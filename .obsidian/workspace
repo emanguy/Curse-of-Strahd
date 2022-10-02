@@ -21,8 +21,56 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
+            "file": "Locations/Barovia/Vallaki/Locations/Town Square.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "9e3175a7cd0415da",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Characters/NPCs/Izek Strazni.md",
             "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "5ccb52fa7e2eac6a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Characters/NPCs/Ireena Kolyana.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "db1fcee6813e630d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ongoing Quests/My Love, the Mayor's Daughter.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "e44b2ff2669128c3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ongoing Quests/Kragg's Musical Journey.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -52,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "take care",
+                "query": "izek",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md"
+                "file": "Ongoing Quests/My Love, the Mayor's Daughter.md"
               }
             }
           }
@@ -125,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
+                "file": "Ongoing Quests/My Love, the Mayor's Daughter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,17 +191,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e293cf961b1b051b",
+  "active": "db1fcee6813e630d",
   "lastOpenFiles": [
+    "Ongoing Quests/Kragg's Musical Journey.md",
+    "Ongoing Quests/My Love, the Mayor's Daughter.md",
+    "Characters/Players/Rogue.md",
+    "Characters/NPCs/Ireena Kolyana.md",
+    "Characters/NPCs/Izek Strazni.md",
+    "Locations/Barovia/Vallaki/Locations/Town Square.md",
+    "Characters/NPCs/Kasimir Velikov.md",
+    "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
     "Locations/Barovia/Vallaki/Vallaki.md",
-    "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
-    "Characters/NPCs/Lady Fiona Wachter.md",
-    "Locations/Barovia/Vallaki/Events/Lady Wachter's Wish.md",
-    "Locations/Barovia/Overworld Features/Old Bonegrinder.md",
-    "Locations/Barovia/Vallaki/Locations/Arasek Stockyard.md",
-    "Characters/NPCs/Stella Wachter.md",
-    "Ongoing Quests/The Hunt for Strahd.md",
-    "Useful Links and Info.md",
-    "Characters/NPCs/Leo Dilisnya.md"
+    "Locations/Barovia/Vallaki/Locations/Wachterhaus.md"
   ]
 }
