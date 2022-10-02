@@ -14,4 +14,4 @@
 * Married childhood sweetheart [[Ingrid]] and had a son, [[Erasmus]]
   * [[Erasmus]] was stolen by [[Vistani]] when he was 14 and was sold to a vampire named [[Baron Metus]] to be used as a companion
 * Found [[Erasmus]] as a Vampire Spawn, who begged him to end his suffering, so van Richten killed him with a wooden stake
-* [[Baron Metus]] then
+* [[Baron Metus]] then killed [[Ingrid]] as revenge for [[Erasmus]]
