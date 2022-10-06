@@ -16,30 +16,6 @@
         }
       },
       {
-        "id": "4c8d468ba99021af",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/Barovia/Vallaki/Events/The Festival of the Blazing Sun.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "780d9bf94db5e73f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "996d8d309ccb8c10",
         "type": "leaf",
         "state": {
@@ -134,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Events/The Festival of the Blazing Sun.md"
+                "file": "Characters/NPCs/Vargas Vallakovich.md"
               }
             }
           }
@@ -162,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Events/The Festival of the Blazing Sun.md",
+                "file": "Characters/NPCs/Vargas Vallakovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,17 +157,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4c8d468ba99021af",
+  "active": "29d3e637939b7e22",
   "lastOpenFiles": [
+    "Characters/NPCs/Izek Strazni.md",
+    "Characters/NPCs/Vargas Vallakovich.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
-    "Characters/NPCs/Vargas Vallakovich.md",
+    "Locations/Barovia/Vallaki/Events/The Festival of the Blazing Sun.md",
     "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
     "Characters/NPCs/Ireena Kolyana.md",
     "Characters/NPCs/Rudolph van Richten.md",
     "Locations/Barovia/Vallaki/Locations/Town Square.md",
-    "Characters/NPCs/Izek Strazni.md",
-    "Ongoing Quests/My Love, the Mayor's Daughter.md",
-    "Ongoing Quests/Kragg's Musical Journey.md"
+    "Ongoing Quests/My Love, the Mayor's Daughter.md"
   ]
 }

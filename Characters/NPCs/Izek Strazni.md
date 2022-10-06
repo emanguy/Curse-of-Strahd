@@ -1,6 +1,7 @@
 # Izek Strazni
 * Izek and [[Ireena Kolyana]] were born in Vallaki (he thinks, due to [[My Love, the Mayor's Daughter]])
 * Born without a soul, unlike his sister
+* Carries the keys to the stocks in the [[Town Square]] on his belt
 
 ## History
 * Izek's father and uncle took him and [[Ireena Kolyana]] fishing on [[Lake Zarovich]]
