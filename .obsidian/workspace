@@ -6,6 +6,7 @@
       {
         "id": "85045794b993f392",
         "type": "split",
+        "dimension": 33.655913978494624,
         "children": [
           {
             "id": "29d3e637939b7e22",
@@ -37,6 +38,7 @@
       {
         "id": "78bb6d2c6ea3e716",
         "type": "leaf",
+        "dimension": 33.33333333333333,
         "state": {
           "type": "markdown",
           "state": {
@@ -49,6 +51,7 @@
       {
         "id": "6df6bae58d31b213",
         "type": "leaf",
+        "dimension": 33.01075268817204,
         "state": {
           "type": "markdown",
           "state": {
@@ -179,6 +182,7 @@
   "active": "6df6bae58d31b213",
   "lastOpenFiles": [
     "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
+    "Characters/NPCs/Lydia Petrovna.md",
     "Characters/NPCs/Vargas Vallakovich.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Characters/NPCs/Izek Strazni.md",
@@ -186,7 +190,6 @@
     "Locations/Barovia/Vallaki/Events/The Festival of the Blazing Sun.md",
     "Characters/NPCs/Ireena Kolyana.md",
     "Characters/NPCs/Rudolph van Richten.md",
-    "Locations/Barovia/Vallaki/Locations/Town Square.md",
-    "Ongoing Quests/My Love, the Mayor's Daughter.md"
+    "Locations/Barovia/Vallaki/Locations/Town Square.md"
   ]
 }
