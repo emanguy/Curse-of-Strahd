@@ -9,6 +9,7 @@
 ## Other Happenings
 * 2 members of the staff have vanished recently and [[Vargas Vallakovich]] told [[Izek Strazni]] to find them
   * These are the **butler** and [[Lydia Petrovna]]'s **lady-in-waiting**
+  * See Victor's Workroom, area T for more on this
 
 ## Areas - Ground Floor
 ### A - Entrance Hall and Vestibule
@@ -53,10 +54,16 @@
   * A cook (LG male **commoner**)
   * The butler
   * The baroness's lady-in-waiting
+* The chests here just contain the staff's clothes and uniforms
 
-### G - 
+### G - Kitchen
+> A cook wearing a white apron over a black smock busies himself in this warm, well-appointed kitchen. A staircase in one corner climbs to the upper floor.
+* The door to the garden to the west is locked but the cook and [[Vargas Vallakovich]] have keys to it
 
-### H - 
+### H - Pantry
+> This pantry contains shelves of foodstuffs, although half of the shelves are bare. Two barrels of wine stand against the east wall.
+* Hasn't been fully stocked for a while
+* Two barrels of wine are labeled with [[The Wizard of Wines]] logo and contain Red Dragon Crush
 
 ## Areas - Upper Floor
 ### I - 
