@@ -23,9 +23,17 @@
 
 ### C - Dining Room
 * Characters hear female voices in here
-> A chandelier of wrought iron fitted with wax candles hangs above a polished wooden dining table. Around the table are seated eight women of various ages in comfortable, high-backed chairs. They wear faded clothes, drink tea, and devour cake while a ninth woman, well dressed and very pleased with herself, circles the table and talks excitedly about decorations for the impending festiv
+> A chandelier of wrought iron fitted with wax candles hangs above a polished wooden dining table. Around the table are seated eight women of various ages in comfortable, high-backed chairs. They wear faded clothes, drink tea, and devour cake while a ninth woman, well dressed and very pleased with herself, circles the table and talks excitedly about decorations for the impending festival.
 
-### D - 
+* Women are 8 vallakian peasants (**commoners**) while [[Lydia Petrovna]] circles the table
+  * They're just here to get some grub
+  * Lydia has them here to sew together children's costumes and weave a wicker sun for [[The Festival of the Blazing Sun]]
+* When Lydia sees the characters walk in she assumes they were invited by [[Vargas Vallakovich]] and sends them to the Den (area E) then tells a maid to go fetch him from the Library (area L)
+
+### D - Preparation Room
+> White sheets cover two plain wooden tables in the center of this room. Neatly arranged atop one table is a complete set of polished silverware. The other table is covered with wicker baskets containing turnips and beets.
+
+
 
 ### E - 
 
