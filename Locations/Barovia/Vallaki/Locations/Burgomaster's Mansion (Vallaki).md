@@ -5,6 +5,7 @@
 ## Regular Happenings
 * Guards bring in people accused of "malicious unhappiness"
 * Commoners are bringing in bundles of sticks for [[The Festival of the Blazing Sun]]
+* 2 members of the staff have vanished recently and [[Vargas Vallakovich]] told [[Izek Strazni]] to find them
 
 ## Areas
 ### A - Entrance Hall and Vestibule

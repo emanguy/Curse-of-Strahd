@@ -7,4 +7,5 @@
   * If the characters get on his bad side he accuses them of being in league with [[Strahd]] and orders 12 **guards** to arrest them, take their weapons, and throw them out of town
   * If the guards fail, he orders [[Izek Strazni]] to rally 30 **commoners** to lynch them
   * If the commoners fail, he calls the remaining guards to his mansion and the characters have the run of the town
+* If the characters get on his good side, he insists they join him in the next festival as special guests and tell everyone that "all will be well"
 * Walks around with 2 **mastiffs** (breed of dog) and a henchman ([[Izek Strazni]])
