@@ -4,32 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "355951d599b6039a",
+        "id": "85045794b993f392",
+        "type": "split",
+        "children": [
+          {
+            "id": "29d3e637939b7e22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPCs/Vargas Vallakovich.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "355951d599b6039a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Barovia/Vallaki/Vallaki.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "78bb6d2c6ea3e716",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Vallaki/Vallaki.md",
-            "mode": "preview",
+            "file": "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
+            "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "996d8d309ccb8c10",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "29d3e637939b7e22",
+        "id": "6df6bae58d31b213",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/NPCs/Vargas Vallakovich.md",
+            "file": "Characters/NPCs/Lydia Petrovna.md",
             "mode": "source",
             "source": false
           }
@@ -106,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Vargas Vallakovich.md"
+                "file": "Characters/NPCs/Lydia Petrovna.md"
               }
             }
           }
@@ -134,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Vargas Vallakovich.md",
+                "file": "Characters/NPCs/Lydia Petrovna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,12 +176,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "996d8d309ccb8c10",
+  "active": "6df6bae58d31b213",
   "lastOpenFiles": [
     "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
     "Characters/NPCs/Vargas Vallakovich.md",
-    "Characters/NPCs/Izek Strazni.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
+    "Characters/NPCs/Izek Strazni.md",
     "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
     "Locations/Barovia/Vallaki/Events/The Festival of the Blazing Sun.md",
     "Characters/NPCs/Ireena Kolyana.md",
