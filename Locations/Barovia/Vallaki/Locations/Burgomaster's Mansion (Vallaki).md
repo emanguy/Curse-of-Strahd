@@ -33,7 +33,10 @@
 ### D - Preparation Room
 > White sheets cover two plain wooden tables in the center of this room. Neatly arranged atop one table is a complete set of polished silverware. The other table is covered with wicker baskets containing turnips and beets.
 
+* The beets and turnips are for [[The Festival of the Blazing Sun]]
 
+#### Treasure
+* The silverware set is worth **150gp**
 
 ### E - 
 
