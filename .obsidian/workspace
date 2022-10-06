@@ -6,7 +6,7 @@
       {
         "id": "85045794b993f392",
         "type": "split",
-        "dimension": 33.655913978494624,
+        "dimension": 30.204572803850787,
         "children": [
           {
             "id": "29d3e637939b7e22",
@@ -38,7 +38,7 @@
       {
         "id": "78bb6d2c6ea3e716",
         "type": "leaf",
-        "dimension": 33.33333333333333,
+        "dimension": 40.61371841155235,
         "state": {
           "type": "markdown",
           "state": {
@@ -51,12 +51,12 @@
       {
         "id": "6df6bae58d31b213",
         "type": "leaf",
-        "dimension": 33.01075268817204,
+        "dimension": 29.18170878459687,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/NPCs/Lydia Petrovna.md",
-            "mode": "source",
+            "file": "Characters/NPCs/Lady Fiona Wachter.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Lydia Petrovna.md"
+                "file": "Characters/NPCs/Lady Fiona Wachter.md"
               }
             }
           }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Lydia Petrovna.md",
+                "file": "Characters/NPCs/Lady Fiona Wachter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,20 +176,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "6df6bae58d31b213",
   "lastOpenFiles": [
-    "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
+    "Characters/NPCs/Victor Vallakovich.md",
     "Characters/NPCs/Lydia Petrovna.md",
+    "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
+    "Characters/NPCs/Tasha Petrovna.md",
+    "Characters/NPCs/Lucian Petrovich.md",
     "Characters/NPCs/Vargas Vallakovich.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Characters/NPCs/Izek Strazni.md",
     "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
-    "Locations/Barovia/Vallaki/Events/The Festival of the Blazing Sun.md",
-    "Characters/NPCs/Ireena Kolyana.md",
-    "Characters/NPCs/Rudolph van Richten.md",
-    "Locations/Barovia/Vallaki/Locations/Town Square.md"
+    "Locations/Barovia/Vallaki/Events/The Festival of the Blazing Sun.md"
   ]
 }
