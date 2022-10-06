@@ -5,4 +5,7 @@
 ## Regular Happenings
 * Guards bring in people accused of "malicious unhappiness"
 * Commoners are bringing in bundles of sticks for [[The Festival of the Blazing Sun]]
-* 
+
+## Areas
+### A - Entrance Hall and Vestibule
+* If the characters knock on the door here, a maid (LG female human **commoner**) lets them in, takes them to the Den (area C), and 
