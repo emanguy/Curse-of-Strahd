@@ -4,59 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "85045794b993f392",
-        "type": "split",
-        "dimension": 30.204572803850787,
-        "children": [
-          {
-            "id": "29d3e637939b7e22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/NPCs/Vargas Vallakovich.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "355951d599b6039a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Barovia/Vallaki/Vallaki.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "78bb6d2c6ea3e716",
+        "id": "355951d599b6039a",
         "type": "leaf",
-        "dimension": 40.61371841155235,
+        "dimension": 42.65080713678845,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
-            "mode": "source",
+            "file": "Locations/Barovia/Vallaki/Vallaki.md",
+            "mode": "preview",
             "source": false
           }
         }
       },
       {
-        "id": "6df6bae58d31b213",
+        "id": "78bb6d2c6ea3e716",
         "type": "leaf",
-        "dimension": 29.18170878459687,
+        "dimension": 57.349192863211556,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/NPCs/Lady Fiona Wachter.md",
-            "mode": "preview",
+            "file": "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
+            "mode": "source",
             "source": false
           }
         }
@@ -132,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Lady Fiona Wachter.md"
+                "file": "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md"
               }
             }
           }
@@ -160,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Lady Fiona Wachter.md",
+                "file": "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,17 +146,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6df6bae58d31b213",
+  "active": "78bb6d2c6ea3e716",
   "lastOpenFiles": [
     "Characters/NPCs/Victor Vallakovich.md",
+    "Characters/NPCs/Vargas Vallakovich.md",
+    "Characters/NPCs/Lady Fiona Wachter.md",
     "Characters/NPCs/Lydia Petrovna.md",
     "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
     "Characters/NPCs/Tasha Petrovna.md",
     "Characters/NPCs/Lucian Petrovich.md",
-    "Characters/NPCs/Vargas Vallakovich.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Characters/NPCs/Izek Strazni.md",
-    "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
-    "Locations/Barovia/Vallaki/Events/The Festival of the Blazing Sun.md"
+    "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md"
   ]
 }

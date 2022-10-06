@@ -8,6 +8,29 @@
 * 2 members of the staff have vanished recently and [[Vargas Vallakovich]] told [[Izek Strazni]] to find them
   * These are the **butler** and [[Lydia Petrovna]]'s **lady-in-waiting**
 
-## Areas
+## Areas - Ground Floor
 ### A - Entrance Hall and Vestibule
+> Framed portraits adorn the walls of this grand foyer, which features a wide staircase with a sculpted railing. A long, carpeted hall attached to the foyer stretches almost the length of the mansion and has several doors leading away from it, including one at the far end. Bundles of twigs are heaped against the walls.
 * If the characters knock on the door here, a maid (LG female human **commoner**) lets them in, takes them to the Den (area C), and fetches [[Vargas Vallakovich]]
+* The portraits here depict [[Vargas Vallakovich]], his family, and their ancestors
+  * Looking closely, one may notice that some of the ancestors look nearly alike
+* There's a vestibule here packed with cloaks, coats, and boots
+
+### B -
+
+### C - 
+
+### D - 
+
+### E - 
+
+### F - 
+
+### G - 
+
+### H - 
+
+## Areas - Upper Floor
+### I - 
+
+## Areas - Attic
