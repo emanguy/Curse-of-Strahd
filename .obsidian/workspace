@@ -16,37 +16,13 @@
         }
       },
       {
-        "id": "1b0084a7e9a44332",
+        "id": "996d8d309ccb8c10",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Barovia/Vallaki/Locations/Town Square.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "9e3175a7cd0415da",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Characters/NPCs/Rudolph van Richten.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "5ccb52fa7e2eac6a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Characters/NPCs/Ireena Kolyana.md",
-            "mode": "preview",
+            "file": "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
+            "mode": "source",
             "source": false
           }
         }
@@ -89,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e3d673f7bbf655d6",
@@ -121,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Rudolph van Richten.md"
+                "file": "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md"
               }
             }
           }
@@ -149,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Rudolph van Richten.md",
+                "file": "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,19 +142,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "9e3175a7cd0415da",
+  "active": "996d8d309ccb8c10",
   "lastOpenFiles": [
-    "Characters/NPCs/Izek Strazni.md",
+    "Locations/Barovia/Vallaki/Vallaki.md",
     "Characters/NPCs/Ireena Kolyana.md",
+    "Characters/NPCs/Rudolph van Richten.md",
+    "Locations/Barovia/Vallaki/Locations/Town Square.md",
+    "Characters/NPCs/Izek Strazni.md",
     "Ongoing Quests/My Love, the Mayor's Daughter.md",
     "Ongoing Quests/Kragg's Musical Journey.md",
     "Characters/Players/Rogue.md",
-    "Locations/Barovia/Vallaki/Locations/Town Square.md",
     "Characters/NPCs/Kasimir Velikov.md",
-    "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
-    "Locations/Barovia/Vallaki/Vallaki.md",
-    "Locations/Barovia/Vallaki/Locations/Wachterhaus.md"
+    "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md"
   ]
 }
