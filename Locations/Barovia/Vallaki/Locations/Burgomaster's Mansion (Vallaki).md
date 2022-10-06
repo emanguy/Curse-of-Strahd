@@ -5,6 +5,8 @@
 ## Regular Happenings
 * Guards bring in people accused of "malicious unhappiness"
 * Commoners are bringing in bundles of sticks for [[The Festival of the Blazing Sun]]
+
+## Other Happenings
 * 2 members of the staff have vanished recently and [[Vargas Vallakovich]] told [[Izek Strazni]] to find them
   * These are the **butler** and [[Lydia Petrovna]]'s **lady-in-waiting**
 
@@ -38,9 +40,19 @@
 #### Treasure
 * The silverware set is worth **150gp**
 
-### E - 
+### E - Den
+> Padded chairs and couches line the walls of this cozy, carpeted den. The room reeks of pipe smoke, and mounted on the east wall is the head of an angry-looking brown bear.
 
-### F - 
+* The bear's head is supposed to unnerve visitors
+  * [[Vargas Vallakovich]] claims his father killed the bear but it was actually gifted to his family by [[Szoldar Grygorovich]], who was the father of [[Szoldar Szoldarovich]]
+
+### F - Servants' Quarters
+> This room contains four simple beds and an equal number of plain wooden trunks.
+* Household staff all live here, they are:
+  * A maid (LG female **commoner**)
+  * A cook (LG male **commoner**)
+  * The butler
+  * The baroness's lady-in-waiting
 
 ### G - 
 
