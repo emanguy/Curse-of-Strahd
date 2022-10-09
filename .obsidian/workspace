@@ -47,11 +47,24 @@
           {
             "id": "2c054a93540b59dd",
             "type": "leaf",
-            "dimension": 26.79355783308931,
+            "dimension": 13.396778916544655,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Characters/NPCs/Milivoj.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "545d4286eb2a3c71",
+            "type": "leaf",
+            "dimension": 13.396778916544655,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
                 "mode": "preview",
                 "source": false
               }
@@ -174,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Milivoj.md"
+                "file": "Locations/Barovia/Vallaki/Vallaki.md"
               }
             }
           }
@@ -202,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Milivoj.md",
+                "file": "Locations/Barovia/Vallaki/Vallaki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,17 +233,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2c054a93540b59dd",
+  "active": "355951d599b6039a",
   "lastOpenFiles": [
-    "Locations/Barovia/Vallaki/Locations/Town Square.md",
+    "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
     "Characters/NPCs/Milivoj.md",
+    "Locations/Barovia/Vallaki/Locations/Town Square.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Vallaki/Events/The Festival of the Blazing Sun.md",
     "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md",
     "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
     "Characters/NPCs/Henrik van der Voort.md",
     "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
-    "Characters/NPCs/Groups/Vallakians.md",
-    "Characters/NPCs/Victor Vallakovich.md"
+    "Characters/NPCs/Groups/Vallakians.md"
   ]
 }
