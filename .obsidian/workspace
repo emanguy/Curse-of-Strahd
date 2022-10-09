@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md"
+                "file": "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md"
               }
             }
           }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
+                "file": "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,13 +220,13 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "545d4286eb2a3c71",
+  "active": "dd84e784b1688799",
   "lastOpenFiles": [
+    "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
     "Characters/NPCs/Milivoj.md",
     "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
     "Characters/NPCs/Henrik van der Voort.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
-    "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
     "Locations/Barovia/Vallaki/Locations/Town Square.md",
     "Locations/Barovia/Vallaki/Events/The Festival of the Blazing Sun.md",
     "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md",
