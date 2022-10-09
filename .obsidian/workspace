@@ -34,7 +34,7 @@
           {
             "id": "f6c5682af3b2e14a",
             "type": "leaf",
-            "dimension": 33.30893118594436,
+            "dimension": 26.42752562225476,
             "state": {
               "type": "markdown",
               "state": {
@@ -47,7 +47,7 @@
           {
             "id": "2c054a93540b59dd",
             "type": "leaf",
-            "dimension": 13.396778916544655,
+            "dimension": 25.91508052708638,
             "state": {
               "type": "markdown",
               "state": {
@@ -60,24 +60,11 @@
           {
             "id": "545d4286eb2a3c71",
             "type": "leaf",
-            "dimension": 13.396778916544655,
+            "dimension": 47.657393850658856,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9ce84acf6ed5a77",
-            "type": "leaf",
-            "dimension": 39.89751098096633,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/NPCs/Henrik van der Voort.md",
                 "mode": "preview",
                 "source": false
               }
@@ -187,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Vallaki.md"
+                "file": "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md"
               }
             }
           }
@@ -215,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Vallaki.md",
+                "file": "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,17 +220,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "355951d599b6039a",
+  "active": "545d4286eb2a3c71",
   "lastOpenFiles": [
-    "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
     "Characters/NPCs/Milivoj.md",
-    "Locations/Barovia/Vallaki/Locations/Town Square.md",
+    "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
+    "Characters/NPCs/Henrik van der Voort.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
+    "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
+    "Locations/Barovia/Vallaki/Locations/Town Square.md",
     "Locations/Barovia/Vallaki/Events/The Festival of the Blazing Sun.md",
     "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md",
     "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
-    "Characters/NPCs/Henrik van der Voort.md",
-    "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
     "Characters/NPCs/Groups/Vallakians.md"
   ]
 }
