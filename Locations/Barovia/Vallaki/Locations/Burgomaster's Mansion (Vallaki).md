@@ -118,7 +118,15 @@
 * The pull rope opens an unfolding ladder that leads to the attic.
 
 ### P - Bridal Gown and Spirit Mirror
-> This room smells of powder and fine perfume. A vanity with a mirror stands against one wa
+> This room smells of powder and fine perfume. A vanity with a mirror stands against one wall next to a faceless wooden mannequin wearing a white bridal gown. Mounted on another wall is a full-length mirror with a gilded frame. A door in one corner leads to a garderobe.
+
+* [[Lydia Petrovna]] keeps her bridal gown here to remind her of happier times
+* Using _Detect Magic_ will reveal that the mirror radiates conjuration magic. Casting _Identify_ reveals an assassin's ghost is bound to it as well as the rhyme required to summon the ghost:
+> Magic mirror on the wall,
+> summon forth your shade;
+> night's dark vengeance, heed my call
+> and wield your murderous blade
+
 
 ### Q - 
 
