@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Udo Lukovich.md"
+                "file": "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md"
               }
             }
           }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Udo Lukovich.md",
+                "file": "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,10 +171,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7e08ae7861774382",
+  "active": "78bb6d2c6ea3e716",
   "lastOpenFiles": [
-    "Locations/Barovia/Vallaki/Vallaki.md",
     "Characters/NPCs/Udo Lukovich.md",
+    "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
     "Characters/NPCs/Vargas Vallakovich.md",
     "Characters/NPCs/Izek Strazni.md",

@@ -106,12 +106,19 @@
 > Chained to the back wall of this otherwise empty closet is a badly beaten man wearing nothing but a loincloth. The iron shackles have cut into his wrists, causing blood to trickle down his hands.
 
 * Man is named [[Udo Lukovich]]
+  * His manacles break if they take 10+ damage from a single weapon attack
+  * If freed, [[Vargas Vallakovich]] sends [[Izek Strazni]] after Udo to find him. After being questioned he'll give the party up to him which will turn the burgomaster against them
 
-### N - 
+### N - Master Bedroom Closet
+> Cloaks, coats, gowns, and other fancy apparel hang from hooks in this closet. Arranged on low shelves are many fine shoes, slippers, and boots.
 
-### O - 
+### O - Master Bedroom
+> Time has faded the grandeur of this master bedroom. The furnishings have lost some of their color and splendor. A short pull-rope hangs from a wooden trapdoor in the ceiling.
 
-### P - 
+* The pull rope opens an unfolding ladder that leads to the attic.
+
+### P - Bridal Gown and Spirit Mirror
+> This room smells of powder and fine perfume. A vanity with a mirror stands against one wa
 
 ### Q - 
 
