@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPCs/Ernst Larnak.md",
+                "file": "Characters/NPCs/Milivoj.md",
                 "mode": "preview",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Ernst Larnak.md"
+                "file": "Characters/NPCs/Milivoj.md"
               }
             }
           }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Ernst Larnak.md",
+                "file": "Characters/NPCs/Milivoj.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,6 +222,7 @@
   },
   "active": "2c054a93540b59dd",
   "lastOpenFiles": [
+    "Characters/NPCs/Ernst Larnak.md",
     "Characters/NPCs/Milivoj.md",
     "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
     "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
@@ -230,7 +231,6 @@
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Vallaki/Locations/Town Square.md",
     "Locations/Barovia/Vallaki/Events/The Festival of the Blazing Sun.md",
-    "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md",
-    "Characters/NPCs/Groups/Vallakians.md"
+    "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md"
   ]
 }
