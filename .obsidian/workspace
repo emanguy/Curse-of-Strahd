@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Town Square.md"
+                "file": "Characters/NPCs/Milivoj.md"
               }
             }
           }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Town Square.md",
+                "file": "Characters/NPCs/Milivoj.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,15 +220,15 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cd08a42c1f7c33c0",
+  "active": "2c054a93540b59dd",
   "lastOpenFiles": [
-    "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Vallaki/Locations/Town Square.md",
+    "Characters/NPCs/Milivoj.md",
+    "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Vallaki/Events/The Festival of the Blazing Sun.md",
     "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md",
     "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
     "Characters/NPCs/Henrik van der Voort.md",
-    "Characters/NPCs/Milivoj.md",
     "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
     "Characters/NPCs/Groups/Vallakians.md",
     "Characters/NPCs/Victor Vallakovich.md"
