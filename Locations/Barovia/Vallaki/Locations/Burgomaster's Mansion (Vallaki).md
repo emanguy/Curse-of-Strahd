@@ -130,7 +130,9 @@
   * He appears as a darkly handsome 30 year old man with bloodshot eyes to a non-evil summoner. The summoner can ask him to kill a creature by giving its name which it will disappear and attempt to do so unless the creature is dead or undead. He will disappear if not given a name within 6 seconds
   * To an evil summoner he'll just appear as a pair of bloodshot eyes and hands which will try and choke the summoner, with the stats of **ghost** without possession or etherealness
 * When the mirror is used it needs a day to recharge. It has an AC of 10 and 5 HP. Breaking it will release the ghost.
-* The mirror corrupts its user. Every use, there's a cumulative 25% chance their alignment switches to 
+* The mirror corrupts its user. Every use, there's a cumulative 25% chance their alignment switches to NE
+* If a character gives Strahd's name there's a 50% chance he takes notice and appears in the mirror
+  * When this happens he tries to charm one creature within 30 feet and invites the characters to dine with him at [[Castle Ravenloft]]. If charmed by him, a character feels compelled to accept.
 
 ### Q - 
 
