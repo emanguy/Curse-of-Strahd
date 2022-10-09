@@ -66,9 +66,16 @@
 * Two barrels of wine are labeled with [[The Wizard of Wines]] logo and contain Red Dragon Crush
 
 ## Areas - Upper Floor
-### I - 
+### I - Upstairs Gallery
+* Arriving from the entrance (area A): 
+> The staircase climbs twenty feet to a beautifully appointed gallery that continues toward the west, running almost the length of the mansion. Framed landscape paintings line the walls, and red silk drapes cover a ten-foot-tall arched window of leaded glass.
 
-### J - 
+* Arriving from the kitchen (area G):
+> The staircase climbs to a ten-foot-wide gallery that stretches almost the length of the mansion. Breathtaking paintings of landscapes line the walls. Two separate, narrow hallways lead away from the gallery to the north.
+
+### J - Izek's Bedroom
+* Door is locked, [[Izek Strazni]] has the key
+>
 
 ### K - 
 

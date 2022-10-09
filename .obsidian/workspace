@@ -6,7 +6,7 @@
       {
         "id": "355951d599b6039a",
         "type": "leaf",
-        "dimension": 42.65080713678845,
+        "dimension": 35.064935064935064,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,7 +19,7 @@
       {
         "id": "78bb6d2c6ea3e716",
         "type": "leaf",
-        "dimension": 57.349192863211556,
+        "dimension": 64.93506493506493,
         "state": {
           "type": "markdown",
           "state": {
@@ -148,15 +148,15 @@
   },
   "active": "78bb6d2c6ea3e716",
   "lastOpenFiles": [
+    "Locations/Barovia/Vallaki/Vallaki.md",
+    "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
+    "Characters/NPCs/Izek Strazni.md",
     "Characters/NPCs/Victor Vallakovich.md",
     "Characters/NPCs/Vargas Vallakovich.md",
     "Characters/NPCs/Lady Fiona Wachter.md",
     "Characters/NPCs/Lydia Petrovna.md",
-    "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
     "Characters/NPCs/Tasha Petrovna.md",
     "Characters/NPCs/Lucian Petrovich.md",
-    "Locations/Barovia/Vallaki/Vallaki.md",
-    "Characters/NPCs/Izek Strazni.md",
     "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md"
   ]
 }
