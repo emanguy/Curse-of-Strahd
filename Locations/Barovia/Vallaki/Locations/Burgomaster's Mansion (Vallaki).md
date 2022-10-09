@@ -134,11 +134,16 @@
 * If a character gives Strahd's name there's a 50% chance he takes notice and appears in the mirror
   * When this happens he tries to charm one creature within 30 feet and invites the characters to dine with him at [[Castle Ravenloft]]. If charmed by him, a character feels compelled to accept.
 
-### Q - 
+### Q - Bathroom
+> An iron tub with clawed feet stands against the back wall. Neatly folded towels rest atop a table near the door.
 
 ## Areas - Attic
-### R - 
+### R - Attic Room
+> This dusty, twenty-foot-square room has a high-pitched ceiling that reaches its peak twenty feet above. The wooden rafters are shrouded in cobwebs. Except for an old table with a lantern on it, the room is empty.
 
-### S - 
+### S - Attic Storage
+> This large attic is full of old, forgotten things draped in white sheets. Piled around are barrels, crates, trunks, and old furnishings covered with cobwebs and dust. You see a clear footpath through the maze.
+
+
 
 ### T - 
