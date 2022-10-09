@@ -16,6 +16,18 @@
         }
       },
       {
+        "id": "7b8b8c983e0d7344",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Characters/NPCs/Groups/Vallakians.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "cd08a42c1f7c33c0",
         "type": "leaf",
         "state": {
@@ -97,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md"
+                "file": "Characters/NPCs/Groups/Vallakians.md"
               }
             }
           }
@@ -125,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md",
+                "file": "Characters/NPCs/Groups/Vallakians.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,9 +155,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cd08a42c1f7c33c0",
+  "active": "7b8b8c983e0d7344",
   "lastOpenFiles": [
     "Locations/Barovia/Vallaki/Vallaki.md",
+    "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md",
     "Characters/NPCs/Victor Vallakovich.md",
     "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
     "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
@@ -153,7 +166,6 @@
     "Characters/NPCs/Udo Lukovich.md",
     "Characters/NPCs/Izek Strazni.md",
     "Characters/NPCs/Lady Fiona Wachter.md",
-    "Characters/NPCs/Lydia Petrovna.md",
-    "Characters/NPCs/Tasha Petrovna.md"
+    "Characters/NPCs/Lydia Petrovna.md"
   ]
 }
