@@ -92,7 +92,12 @@
 
 ### L - Library
 > Floor-to-ceiling shelves line every wall of this windowless room, and the number of books contained here is nothing short of astounding.
-> A brass oil lamp sits atop a large desk in the center of teh room. The chair behind the desk is comfortably padded and has the symbol of a roaring bear stitched 
+> A brass oil lamp sits atop a large desk in the center of the room. The chair behind the desk is comfortably padded and has the symbol of a roaring bear stitched into its back cushion.
+
+* If [[Vargas Vallakovich]] hasn't been pulled elsewhere read:
+> Standing behind the chair, holding an open book, is a bear of a man. His breastplate, rapier, silk tunic, and greasy beard glisten in the lamplight. Resting on small rugs to his left and right are a pair of black mastiffs.
+
+* The desk contains parchm
 
 ### M - 
 

@@ -19,11 +19,24 @@
       {
         "id": "78bb6d2c6ea3e716",
         "type": "leaf",
-        "dimension": 64.93506493506493,
+        "dimension": 32.467532467532465,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "9db04896babbd493",
+        "type": "leaf",
+        "dimension": 32.467532467532465,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Characters/NPCs/Vargas Vallakovich.md",
             "mode": "source",
             "source": false
           }
@@ -148,11 +161,11 @@
   },
   "active": "78bb6d2c6ea3e716",
   "lastOpenFiles": [
-    "Locations/Barovia/Vallaki/Vallaki.md",
+    "Characters/NPCs/Vargas Vallakovich.md",
     "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
+    "Locations/Barovia/Vallaki/Vallaki.md",
     "Characters/NPCs/Izek Strazni.md",
     "Characters/NPCs/Victor Vallakovich.md",
-    "Characters/NPCs/Vargas Vallakovich.md",
     "Characters/NPCs/Lady Fiona Wachter.md",
     "Characters/NPCs/Lydia Petrovna.md",
     "Characters/NPCs/Tasha Petrovna.md",
