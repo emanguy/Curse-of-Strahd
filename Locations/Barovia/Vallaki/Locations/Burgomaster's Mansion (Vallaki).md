@@ -144,6 +144,13 @@
 ### S - Attic Storage
 > This large attic is full of old, forgotten things draped in white sheets. Piled around are barrels, crates, trunks, and old furnishings covered with cobwebs and dust. You see a clear footpath through the maze.
 
+* There's some old paintings and antiques here but there's nothing of value.
 
+### T - Victor's Workroom
+* [[Victor Vallakovich]] is usually here unless he's out getting food or spell components
+> Someone has carved a large skull into this door. Hanging from the doorknob is a wooden sign that reads "ALL IS NOT WELL!" You hear a young man's voice beyond.
 
-### T - 
+* Everyone can make a **DC 14 Investigation check** to notice a small _Glyph of Warding_ in the skull which inflicts **5d8 lightning** damage if anyone other than Victor opens the door
+* Anyone listening through the door can make a **DC 14 Arcana Check** to hear Victor badly reciting a teleportation spell
+* Opening the door:
+> Someone has taken old, mismatched furniture and created a study in this dusty, lamp-lit chamber.Tables are strewn with pieces of parchment, on which strange diagrams are drawn, and a freestanding bookshelf holds a collection of bones. A dusty rug covers the floor in front of a pine box, on which lounges a skeletal cat. Several more skeletal cats skulk about. Most unnerving of all is the sight of three small childre standin
