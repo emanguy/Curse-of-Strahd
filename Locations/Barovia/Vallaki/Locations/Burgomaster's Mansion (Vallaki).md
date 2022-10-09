@@ -97,9 +97,15 @@
 * If [[Vargas Vallakovich]] hasn't been pulled elsewhere read:
 > Standing behind the chair, holding an open book, is a bear of a man. His breastplate, rapier, silk tunic, and greasy beard glisten in the lamplight. Resting on small rugs to his left and right are a pair of black mastiffs.
 
-* The desk contains parchm
+#### Treasure
+* The desk contains parchment, jars of ink, writing quills as well as old tax records
+* The books here are on just about every subject, see **module pg. 68** for random topics
 
-### M - 
+### M - Locked Closet
+* Baron has the key
+> Chained to the back wall of this otherwise empty closet is a badly beaten man wearing nothing but a loincloth. The iron shackles have cut into his wrists, causing blood to trickle down his hands.
+
+* Man is named [[Udo Lukovich]]
 
 ### N - 
 

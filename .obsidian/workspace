@@ -6,7 +6,7 @@
       {
         "id": "355951d599b6039a",
         "type": "leaf",
-        "dimension": 35.064935064935064,
+        "dimension": 30.287769784172664,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,7 +19,7 @@
       {
         "id": "78bb6d2c6ea3e716",
         "type": "leaf",
-        "dimension": 32.467532467532465,
+        "dimension": 21.33093525179856,
         "state": {
           "type": "markdown",
           "state": {
@@ -30,9 +30,22 @@
         }
       },
       {
+        "id": "7e08ae7861774382",
+        "type": "leaf",
+        "dimension": 24.928057553956833,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Characters/NPCs/Udo Lukovich.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "9db04896babbd493",
         "type": "leaf",
-        "dimension": 32.467532467532465,
+        "dimension": 23.453237410071942,
         "state": {
           "type": "markdown",
           "state": {
@@ -67,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "izek",
+                "query": "udo luk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e3d673f7bbf655d6",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md"
+                "file": "Characters/NPCs/Udo Lukovich.md"
               }
             }
           }
@@ -141,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
+                "file": "Characters/NPCs/Udo Lukovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,17 +171,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "78bb6d2c6ea3e716",
+  "active": "7e08ae7861774382",
   "lastOpenFiles": [
-    "Characters/NPCs/Vargas Vallakovich.md",
-    "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
     "Locations/Barovia/Vallaki/Vallaki.md",
+    "Characters/NPCs/Udo Lukovich.md",
+    "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
+    "Characters/NPCs/Vargas Vallakovich.md",
     "Characters/NPCs/Izek Strazni.md",
     "Characters/NPCs/Victor Vallakovich.md",
     "Characters/NPCs/Lady Fiona Wachter.md",
     "Characters/NPCs/Lydia Petrovna.md",
     "Characters/NPCs/Tasha Petrovna.md",
-    "Characters/NPCs/Lucian Petrovich.md",
-    "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md"
+    "Characters/NPCs/Lucian Petrovich.md"
   ]
 }
