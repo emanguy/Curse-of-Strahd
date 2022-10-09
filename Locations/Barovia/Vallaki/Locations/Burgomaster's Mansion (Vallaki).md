@@ -75,7 +75,15 @@
 
 ### J - Izek's Bedroom
 * Door is locked, [[Izek Strazni]] has the key
->
+> Dolls. This room is full of pretty little dolls with powder-white skin and auburn hair, some of them dressed beautifully, others plainly. Some of the dolls fill a long bookshelf, and others are arranged in neat rows on wall-mounted shelves. Still others are piled atop a bed and a heavy wooden chest. What's most odd is that all of the dolls, apart from their clothing, look the same. They all look like Ireena Kolyana.
+
+* The dolls are all made by [[Gadof Blinksy]] and have the tag "Is no fun, is no Blinksy!" on them
+* [[Izek Strazni]] sleeps here at night but is usually in town doing business during the day (might be fun to do a luck roll to see if Izek happens to be walking by when the characters walk in)
+* There are some empty wine bottles under the bed labeled "Purple Grapemash" with [[The Wizard of Wines]] logo on them
+
+#### Treasure
+* The chest in here is unlocked, there's a nonmagical shortsword under some clothes
+  * If [[Ireena Kolyana]] is in here because she's been trapped by [[Izek Strazni]]
 
 ### K - 
 
