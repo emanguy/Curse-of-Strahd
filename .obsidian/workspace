@@ -6,38 +6,11 @@
       {
         "id": "355951d599b6039a",
         "type": "leaf",
-        "dimension": 26.510721247563353,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Locations/Barovia/Vallaki/Vallaki.md",
             "mode": "preview",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "78bb6d2c6ea3e716",
-        "type": "leaf",
-        "dimension": 35.67251461988304,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "7166eaf5baba9ba8",
-        "type": "leaf",
-        "dimension": 37.81676413255361,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Characters/NPCs/Victor Vallakovich.md",
-            "mode": "source",
             "source": false
           }
         }
@@ -112,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Wachterhaus.md"
+                "file": "Locations/Barovia/Vallaki/Vallaki.md"
               }
             }
           }
@@ -140,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
+                "file": "Locations/Barovia/Vallaki/Vallaki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +131,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "78bb6d2c6ea3e716",
+  "active": "355951d599b6039a",
   "lastOpenFiles": [
     "Characters/NPCs/Victor Vallakovich.md",
     "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
