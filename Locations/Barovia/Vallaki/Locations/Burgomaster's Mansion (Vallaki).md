@@ -157,6 +157,10 @@
 * If the _Glyph of Warding_ was triggered, Victor casts _greater invisibility_ on himself and hides in a corner. Otherwise read:
 > In the center of the room, perched on a stool, is a thin young man with a premature streak of gray in his dark hair. He cradles an open leather-bound book in his arms.
 * The "children" in the corner of the room are just wooden dolls dressed in Victor's childhood clothes. He pretends they're his disobedient pupils
+* The teleportation circle here under the rug is dangerous because Victor doesn't fully understand how to cast it
+  * **DC 15 Arcana Check** determines that the circle is made wrong and could be deadly
+  * Trying to use it in a teleportation circle spell inflicts **3d10 force damage** on the subject in the middle of the circle
+  * Victor tested the spell on the two servants who went missing. They're missing because they got disintegrated in a flash of purple light. He's gonna try to fix it and try again.
 
 #### Treasure
 * The trunk contains silk cloth, needles, thread, and a half finished Wizard's robe
@@ -180,4 +184,9 @@
   * Shield
   * Misty Step
   * Suggestion
-  * 
+  * Counterspell
+  * Fireball
+  * Fly
+  * Greater Invisibility
+  * Ice Storm
+  * Cone of Cold
