@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md"
+                "file": "Locations/Barovia/Vallaki/Vallaki.md"
               }
             }
           }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
+                "file": "Locations/Barovia/Vallaki/Vallaki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,10 +167,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "dd84e784b1688799",
+  "active": "355951d599b6039a",
   "lastOpenFiles": [
-    "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
     "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
+    "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
     "Characters/NPCs/Groups/Vallakians.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md",
