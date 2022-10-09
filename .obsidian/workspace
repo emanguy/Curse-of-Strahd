@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Henrik van der Voort.md"
+                "file": "Locations/Barovia/Vallaki/Vallaki.md"
               }
             }
           }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Henrik van der Voort.md",
+                "file": "Locations/Barovia/Vallaki/Vallaki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,10 +201,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c9ce84acf6ed5a77",
+  "active": "355951d599b6039a",
   "lastOpenFiles": [
-    "Characters/NPCs/Milivoj.md",
     "Characters/NPCs/Henrik van der Voort.md",
+    "Characters/NPCs/Milivoj.md",
     "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
     "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
