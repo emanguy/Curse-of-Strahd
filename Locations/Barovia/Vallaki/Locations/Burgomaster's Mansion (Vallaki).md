@@ -83,11 +83,16 @@
 
 #### Treasure
 * The chest in here is unlocked, there's a nonmagical shortsword under some clothes
-  * If [[Ireena Kolyana]] is in here because she's been trapped by [[Izek Strazni]]
+  * If [[Ireena Kolyana]] is in here because she's been trapped by [[Izek Strazni]], roll a d6 for what corner of the room she's in, with 5 and 6 meaning she's actually bound. If not bound she'll have taken the sword for self defense and will attack the first person coming through to try and escape
 
-### K - 
+### K - Victor's Bedroom
+> This handsomely appointed room contains a canopied bed, a low bookshelf, and a full-length mirror in a wooden frame on the wall across from the door. Set into the north wall is an arched window of leaded glass. Nothing here seems unusual.
 
-### L - 
+* Books are about Barovian fables, mythology, heraldry, and other subjects
+
+### L - Library
+> Floor-to-ceiling shelves line every wall of this windowless room, and the number of books contained here is nothing short of astounding.
+> A brass oil lamp sits atop a large desk in the center of teh room. The chair behind the desk is comfortably padded and has the symbol of a roaring bear stitched 
 
 ### M - 
 
