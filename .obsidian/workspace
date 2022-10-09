@@ -6,7 +6,7 @@
       {
         "id": "355951d599b6039a",
         "type": "leaf",
-        "dimension": 30.287769784172664,
+        "dimension": 26.510721247563353,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,7 +19,7 @@
       {
         "id": "78bb6d2c6ea3e716",
         "type": "leaf",
-        "dimension": 21.33093525179856,
+        "dimension": 35.67251461988304,
         "state": {
           "type": "markdown",
           "state": {
@@ -30,26 +30,13 @@
         }
       },
       {
-        "id": "7e08ae7861774382",
+        "id": "7166eaf5baba9ba8",
         "type": "leaf",
-        "dimension": 24.928057553956833,
+        "dimension": 37.81676413255361,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/NPCs/Udo Lukovich.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "9db04896babbd493",
-        "type": "leaf",
-        "dimension": 23.453237410071942,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Characters/NPCs/Vargas Vallakovich.md",
+            "file": "Characters/NPCs/Victor Vallakovich.md",
             "mode": "source",
             "source": false
           }
@@ -173,12 +160,12 @@
   },
   "active": "78bb6d2c6ea3e716",
   "lastOpenFiles": [
-    "Characters/NPCs/Udo Lukovich.md",
-    "Locations/Barovia/Vallaki/Vallaki.md",
-    "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
-    "Characters/NPCs/Vargas Vallakovich.md",
-    "Characters/NPCs/Izek Strazni.md",
     "Characters/NPCs/Victor Vallakovich.md",
+    "Locations/Barovia/Vallaki/Vallaki.md",
+    "Characters/NPCs/Vargas Vallakovich.md",
+    "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
+    "Characters/NPCs/Udo Lukovich.md",
+    "Characters/NPCs/Izek Strazni.md",
     "Characters/NPCs/Lady Fiona Wachter.md",
     "Characters/NPCs/Lydia Petrovna.md",
     "Characters/NPCs/Tasha Petrovna.md",

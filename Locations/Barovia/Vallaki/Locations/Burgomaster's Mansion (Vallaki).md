@@ -153,4 +153,7 @@
 * Everyone can make a **DC 14 Investigation check** to notice a small _Glyph of Warding_ in the skull which inflicts **5d8 lightning** damage if anyone other than Victor opens the door
 * Anyone listening through the door can make a **DC 14 Arcana Check** to hear Victor badly reciting a teleportation spell
 * Opening the door:
-> Someone has taken old, mismatched furniture and created a study in this dusty, lamp-lit chamber.Tables are strewn with pieces of parchment, on which strange diagrams are drawn, and a freestanding bookshelf holds a collection of bones. A dusty rug covers the floor in front of a pine box, on which lounges a skeletal cat. Several more skeletal cats skulk about. Most unnerving of all is the sight of three small childre standin
+> Someone has taken old, mismatched furniture and created a study in this dusty, lamp-lit chamber.Tables are strewn with pieces of parchment, on which strange diagrams are drawn, and a freestanding bookshelf holds a collection of bones. A dusty rug covers the floor in front of a pine box, on which lounges a skeletal cat. Several more skeletal cats skulk about. Most unnerving of all is the sight of three small children standing with their backs to you in the northeast corner of the room.
+* If the _Glyph of Warding_ was triggered, Victor casts _greater invisibility_ on himself and hides in a corner. Otherwise read:
+> In the center of the room, perched on a stool, is a thin young man with a premature streak of gray in his dark hair. He cradles an open leather-bound book in his arms.
+* The "children" in the corner of the room are just wooden dolls dressed in Victor's childhood clothes.
