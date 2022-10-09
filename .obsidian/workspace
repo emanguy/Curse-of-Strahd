@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPCs/Milivoj.md",
+                "file": "Characters/NPCs/Ernst Larnak.md",
                 "mode": "preview",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md"
+                "file": "Characters/NPCs/Ernst Larnak.md"
               }
             }
           }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
+                "file": "Characters/NPCs/Ernst Larnak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,17 +220,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "dd84e784b1688799",
+  "active": "2c054a93540b59dd",
   "lastOpenFiles": [
-    "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
     "Characters/NPCs/Milivoj.md",
+    "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
+    "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
     "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
     "Characters/NPCs/Henrik van der Voort.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Vallaki/Locations/Town Square.md",
     "Locations/Barovia/Vallaki/Events/The Festival of the Blazing Sun.md",
     "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md",
-    "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
     "Characters/NPCs/Groups/Vallakians.md"
   ]
 }
