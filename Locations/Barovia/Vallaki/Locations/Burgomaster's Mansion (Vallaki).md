@@ -126,7 +126,7 @@
 > summon forth your shade;
 > night's dark vengeance, heed my call
 > and wield your murderous blade
-
+* The ghost in the mirror is an **assassin** who belonged 
 
 ### Q - 
 
