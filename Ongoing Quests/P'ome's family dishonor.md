@@ -21,7 +21,8 @@
 > possumfolk on the ground are staring
 > I dunno how I'll be faring
 > 
-> Oh Talos, I'm gonna 
+> Oh Talos, I'm gonna fall so hard / and break my mage shard
+> 
 
 The original:
 > I like big butts and I can not lie  
@@ -34,7 +35,7 @@ You get sprung, wanna pull up tough
 Deep in the jeans she's wearing  
 I'm hooked and I can't stop staring  
   
-Oh baby, I wanna get with ya and take your picture  
+Oh baby, I wanna get with ya / and take your picture  
 My homeboys tried to warn me but that butt you got  
 Make me so horny, ooh, rumple smooth skin  
 You say you wanna get in my Benz  
