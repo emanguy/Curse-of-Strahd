@@ -17,6 +17,8 @@
 > And ya holding your trap in place
 > 
 > It gets sprung, you fly through the air
+> 'cause that spring was taut as fuck
+> possom
 
 ## What's happened so far
 * P'ome heard that some magic user on the other side of [[Lake Zarovich]] is casting lightning magic, which matches what he remembers about the person who dishonored his parents
