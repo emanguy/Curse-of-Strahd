@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "8a88c1bb2ff1171a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Barovia/The Wizard of Wines.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "05e10fc2a5443f45",
             "type": "leaf",
             "state": {
@@ -43,13 +31,24 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d3c8bf17cbad7b55",
         "type": "tabs",
         "children": [
+          {
+            "id": "8a88c1bb2ff1171a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Barovia/The Wizard of Wines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "dd84e784b1688799",
             "type": "leaf",
@@ -98,8 +97,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "4985b13b9c19cad8",
