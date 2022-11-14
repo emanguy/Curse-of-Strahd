@@ -113,8 +113,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "c18e38c4ebfa3d61",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Locations/Barovia/Mad Mage of Mount Baratok.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -207,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Mad Mage's Mansion.md"
+                "file": "Locations/Barovia/Mad Mage of Mount Baratok.md"
               }
             }
           }
@@ -224,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Mad Mage's Mansion.md",
+                "file": "Locations/Barovia/Mad Mage of Mount Baratok.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Barovia/Mad Mage's Mansion.md",
+                "file": "Locations/Barovia/Mad Mage of Mount Baratok.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,10 +266,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "db9fd9d47bca3fbf",
+  "active": "c18e38c4ebfa3d61",
   "lastOpenFiles": [
-    "Locations/Barovia/Van Richten's Tower.md",
     "Locations/Barovia/Mad Mage's Mansion.md",
+    "Locations/Barovia/Van Richten's Tower.md",
     "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/The Wizard of Wines.md",
     "Locations/Barovia/Vallaki/Locations/Vistani Camp (Vallaki).md",
