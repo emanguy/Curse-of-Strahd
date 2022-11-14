@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2022-06-25.md",
+                "file": "Locations/Barovia/Vallaki/Vallaki.md",
                 "mode": "preview",
                 "source": false
               }
@@ -109,7 +109,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Characters/NPCs/Milivoj.md",
+                    "file": "Ongoing Quests/My Love, the Mayor's Daughter.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -130,6 +130,7 @@
       {
         "id": "1cc9e67c56b8db2b",
         "type": "tabs",
+        "dimension": 58.2112567463377,
         "children": [
           {
             "id": "e293cf961b1b051b",
@@ -157,6 +158,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "613a5d3f8c2eeb9a",
+        "type": "tabs",
+        "dimension": 41.7887432536623,
+        "children": [
+          {
+            "id": "b28a9279b11f9633",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,6 +194,18 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "9cee0e701ccc6b2e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Locations/Barovia/Vallaki/Vallaki.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       },
@@ -192,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md"
+                "file": "Locations/Barovia/Vallaki/Vallaki.md"
               }
             }
           }
@@ -204,23 +232,12 @@
         "dimension": 47.08063021316033,
         "children": [
           {
-            "id": "1e373c1578de3d9f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "15d6e19de3c532a1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
+                "file": "Locations/Barovia/Vallaki/Vallaki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,17 +254,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1e373c1578de3d9f",
+  "active": "355951d599b6039a",
   "lastOpenFiles": [
+    "Session Notes/2022-06-25.md",
+    "Ongoing Quests/My Love, the Mayor's Daughter.md",
+    "Useful Links and Info.md",
     "Characters/NPCs/Milivoj.md",
     "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
     "Locations/Barovia/Vallaki/Locations/Town Square.md",
-    "Session Notes/2022-06-25.md",
     "Session Notes/2022-05-07.md",
     "Session Notes/2022-04-09.md",
     "Session Notes/2022-02-19.md",
-    "Session Notes/2022-01-22.md",
-    "Locations/Barovia/Vallaki/Vallaki.md",
-    "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md"
+    "Session Notes/2022-01-22.md"
   ]
 }

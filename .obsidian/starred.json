@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Barovia (Country)",
+      "path": "Locations/Barovia/Barovia (Country).md"
+    },
+    {
+      "type": "file",
+      "title": "Useful Links and Info",
+      "path": "Useful Links and Info.md"
+    }
+  ]
+}
