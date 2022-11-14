@@ -12,4 +12,9 @@
   * Unsure who stole the first one
   * Second was stolen by [[Baba Lysaga]] who is repeatedly attacking the winery with scarecrows
   * Third was stolen by evil druids who took the gem back to [[Yester Hill]]
-* 
+* The [[Yester Hill Druids]] later attacked the winery and drove [[Davian Martikov]] and his family out and poisoned the fermentation vats so there's only a little bit of drinkable wine left
+
+## Approaching the Vineyard
+
+
+## Approaching the Winery
