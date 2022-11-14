@@ -1,5 +1,6 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Deep Work",
-  "accentColor": ""
+  "cssTheme": "",
+  "accentColor": "#42c251",
+  "nativeMenus": true
 }
