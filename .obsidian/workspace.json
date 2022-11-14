@@ -149,8 +149,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "ecba4dc1881476bf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Characters/NPCs/Davian Martikov.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -289,41 +302,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "floating": {
-    "id": "3b6d92c16f5649a6",
-    "type": "floating",
-    "children": [
-      {
-        "id": "05cd61d766189af4",
-        "type": "window",
-        "children": [
-          {
-            "id": "0188c7aac7a6805f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c27953b1c626ed9c",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1331,
-        "y": 176,
-        "width": 1644,
-        "height": 1216,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "8a88c1bb2ff1171a",
   "lastOpenFiles": [
+    "Characters/NPCs/Davian Martikov.md",
+    "Locations/Barovia/The Wizard of Wines.md",
     "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
@@ -331,8 +313,6 @@
     "Ongoing Quests/My Love, the Mayor's Daughter.md",
     "Useful Links and Info.md",
     "Characters/NPCs/Milivoj.md",
-    "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
-    "Locations/Barovia/Vallaki/Locations/Town Square.md",
-    "Session Notes/2022-05-07.md"
+    "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md"
   ]
 }
