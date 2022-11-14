@@ -13,7 +13,10 @@
 * When explaining what happened to [[P'ome Gnossum]]'s parents, Mordenkainen will explain with this riff on "I like big butts and I cannot lie":
 > I like big buttes and I cannot lie
 > My other brothers can't deny
+> That when a possum walks by with an itty bitty face
+> And ya holding your trap in place
 > 
+> It gets sprung, you fly through the air
 
 ## What's happened so far
 * P'ome heard that some magic user on the other side of [[Lake Zarovich]] is casting lightning magic, which matches what he remembers about the person who dishonored his parents
