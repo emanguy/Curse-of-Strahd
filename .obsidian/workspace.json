@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Mad Mage of Mount Baratok.md"
+                "file": "Locations/Barovia/Mad Mage's Mansion.md"
               }
             }
           }
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Mad Mage of Mount Baratok.md",
+                "file": "Locations/Barovia/Mad Mage's Mansion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Barovia/Mad Mage of Mount Baratok.md",
+                "file": "Locations/Barovia/Mad Mage's Mansion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,10 +241,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c18e38c4ebfa3d61",
+  "active": "db9fd9d47bca3fbf",
   "lastOpenFiles": [
-    "Locations/Barovia/Mad Mage's Mansion.md",
     "Locations/Barovia/Mad Mage of Mount Baratok.md",
+    "Locations/Barovia/Mad Mage's Mansion.md",
     "Locations/Barovia/Van Richten's Tower.md",
     "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/The Wizard of Wines.md",

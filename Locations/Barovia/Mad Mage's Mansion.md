@@ -3,3 +3,4 @@
 > You see an elk standing on a rocky spur about sixty feet away. Suddenly, it assumes the form of a man in tattered black robes. His hair and beard are long, black, and streaked with gray, and his eyes crackle with eldritch power.
 
 * The [[Mad Mage of Mount Baratok]] lives in the woods here
+* If the characters cure the mage of his madness
