@@ -18,7 +18,39 @@
 > 
 > It gets sprung, you fly through the air
 > 'cause that spring was taut as fuck
-> possom
+> possumfolk on the ground are staring
+> I dunno how I'll be faring
+> 
+> Oh Talos, I'm gonna 
+
+The original:
+> I like big butts and I can not lie  
+You other brothers can't deny  
+That when a girl walks in with an itty, bitty waist  
+And a round thing in your face  
+  
+You get sprung, wanna pull up tough  
+'Cuz you notice that butt was stuffed  
+Deep in the jeans she's wearing  
+I'm hooked and I can't stop staring  
+  
+Oh baby, I wanna get with ya and take your picture  
+My homeboys tried to warn me but that butt you got  
+Make me so horny, ooh, rumple smooth skin  
+You say you wanna get in my Benz  
+Well, use me use me 'cuz you ain't that average groupy  
+  
+I've seen them dancin', to hell with romancin'  
+She's sweat, wet, got it goin' like a turbo vette  
+  
+I'm tired of magazines, saying flat butts are the thing  
+Take the average black man and ask him that  
+She gotta pack much back  
+  
+So fellas, fellas, has your girlfriend got the butt?  
+(Yeah, yeah, hell, yeah)  
+Well shake it, shake it, shake it, shake it  
+Shake that healthy butt, baby got back
 
 ## What's happened so far
 * P'ome heard that some magic user on the other side of [[Lake Zarovich]] is casting lightning magic, which matches what he remembers about the person who dishonored his parents
