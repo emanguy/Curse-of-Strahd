@@ -38,73 +38,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a88c1bb2ff1171a",
+            "id": "db9fd9d47bca3fbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Barovia/The Wizard of Wines.md",
+                "file": "Locations/Barovia/Mad Mage's Mansion.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "991623840ecba7ae",
+            "id": "c5a7e19d77760dab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Vistani Camp (Vallaki).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd84e784b1688799",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "545d4286eb2a3c71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd08a42c1f7c33c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Town Square.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19f4b5a2123dc2f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
-                "mode": "preview",
+                "file": "Locations/Barovia/Van Richten's Tower.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -255,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Barovia (Country).md"
+                "file": "Locations/Barovia/Mad Mage's Mansion.md"
               }
             }
           }
@@ -272,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Barovia (Country).md",
+                "file": "Locations/Barovia/Mad Mage's Mansion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Barovia/Barovia (Country).md",
+                "file": "Locations/Barovia/Mad Mage's Mansion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -301,17 +253,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "355951d599b6039a",
+  "active": "db9fd9d47bca3fbf",
   "lastOpenFiles": [
+    "Locations/Barovia/Van Richten's Tower.md",
+    "Locations/Barovia/Mad Mage's Mansion.md",
+    "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/The Wizard of Wines.md",
     "Locations/Barovia/Vallaki/Locations/Vistani Camp (Vallaki).md",
     "Ongoing Quests/My Love, the Mayor's Daughter.md",
     "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md",
     "Characters/NPCs/Urwin Martikov.md",
     "Characters/NPCs/Davian Martikov.md",
-    "Locations/Barovia/Barovia (Country).md",
-    "Locations/Barovia/Vallaki/Vallaki.md",
-    "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
-    "Session Notes/2022-06-25.md"
+    "Locations/Barovia/Vallaki/Vallaki.md"
   ]
 }
