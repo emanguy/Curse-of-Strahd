@@ -63,6 +63,18 @@
             }
           },
           {
+            "id": "02ff9e3d095e6272",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ongoing Quests/P'ome's family dishonor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c5a7e19d77760dab",
             "type": "leaf",
             "state": {
@@ -74,7 +86,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "742f14ba3bd62c0d",
@@ -195,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Mad Mage's Mansion.md"
+                "file": "Ongoing Quests/P'ome's family dishonor.md"
               }
             }
           }
@@ -212,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Mad Mage's Mansion.md",
+                "file": "Ongoing Quests/P'ome's family dishonor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Barovia/Mad Mage's Mansion.md",
+                "file": "Ongoing Quests/P'ome's family dishonor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,10 +254,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "db9fd9d47bca3fbf",
+  "active": "02ff9e3d095e6272",
   "lastOpenFiles": [
-    "Locations/Barovia/Mad Mage of Mount Baratok.md",
     "Locations/Barovia/Mad Mage's Mansion.md",
+    "Locations/Barovia/Mad Mage of Mount Baratok.md",
     "Locations/Barovia/Van Richten's Tower.md",
     "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/The Wizard of Wines.md",
