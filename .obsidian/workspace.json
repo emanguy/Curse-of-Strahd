@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c18e38c4ebfa3d61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Barovia/Mad Mage of Mount Baratok.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "d3c8bf17cbad7b55",
@@ -64,73 +77,35 @@
         ]
       },
       {
-        "id": "4985b13b9c19cad8",
-        "type": "split",
+        "id": "742f14ba3bd62c0d",
+        "type": "tabs",
         "children": [
           {
-            "id": "742f14ba3bd62c0d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b57464e28aa26e35",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Locations/Barovia/Vallaki/Events/The Festival of the Blazing Sun.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "f6c5682af3b2e14a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
+            "id": "b57464e28aa26e35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Barovia/Vallaki/Events/The Festival of the Blazing Sun.md",
+                "mode": "preview",
+                "source": false
               }
-            ],
-            "currentTab": 1
+            }
           },
           {
-            "id": "49c56cbf5ec9a195",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2c054a93540b59dd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ongoing Quests/My Love, the Mayor's Daughter.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "c18e38c4ebfa3d61",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Locations/Barovia/Mad Mage of Mount Baratok.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "f6c5682af3b2e14a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
+                "mode": "preview",
+                "source": false
               }
-            ],
-            "currentTab": 1
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
