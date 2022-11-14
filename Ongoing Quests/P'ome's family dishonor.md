@@ -5,7 +5,15 @@
   * Bigby
   * Tenser
   * Otto
-  * Raa
+  * Rary
+* There is also a window to the outside that somehow allows the party to view the top of Mount Baratok from above (again, it is a Butte)
+* Mordenkainen also explains that prior to coming to defeat Strahd he used to create dungeons for adventurers and would experiment with various traps in his workshop just outside Waterdeep
+
+### Explaining the spooking of his parents
+* When explaining what happened to [[P'ome Gnossum]]'s parents, Mordenkainen will explain with this riff on "I like big butts and I cannot lie":
+> I like big buttes and I cannot lie
+> My other brothers can't deny
+> 
 
 ## What's happened so far
 * P'ome heard that some magic user on the other side of [[Lake Zarovich]] is casting lightning magic, which matches what he remembers about the person who dishonored his parents
