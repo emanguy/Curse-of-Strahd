@@ -140,7 +140,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "abandoned",
+                "query": "vista",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +149,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "613a5d3f8c2eeb9a",
@@ -248,6 +249,8 @@
   },
   "active": "1292253a6c65fe8e",
   "lastOpenFiles": [
+    "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md",
+    "Locations/Barovia/Vallaki/Blinksy Toys.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Argynvostholt.md",
@@ -255,8 +258,6 @@
     "Locations/Barovia/The Wizard of Wines.md",
     "Locations/Barovia/Luna River Crossroads.md",
     "Locations/Barovia/Vallaki/Events/Tyger, Tyger.md",
-    "Locations/Barovia/Van Richten's Tower.md",
-    "Ongoing Quests/P'ome's family dishonor.md",
-    "Locations/Barovia/Mad Mage's Mansion.md"
+    "Locations/Barovia/Van Richten's Tower.md"
   ]
 }
