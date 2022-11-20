@@ -139,6 +139,41 @@
         "dimension": 47.08063021316033,
         "children": [
           {
+            "id": "49c4de133070973c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Locations/Barovia/Van Richten's Tower.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1.9,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.488545978077874,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
             "id": "15d6e19de3c532a1",
             "type": "leaf",
             "state": {
@@ -173,7 +208,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c5a7e19d77760dab",
+  "active": "49c4de133070973c",
   "lastOpenFiles": [
     "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Van Richten's Tower.md",
