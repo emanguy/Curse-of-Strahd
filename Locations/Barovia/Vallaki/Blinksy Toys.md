@@ -25,4 +25,4 @@
 
 ## Blinksy's Request
 * Blinksy will mention to the party that he's a student of [[Fritz van Weerg]] and that he hears one of van Weerg's greatest masterpieces, a clockwork man, is somewhere in [[Castle Ravenloft]]. 
-  * He asks the party to retrieve
+  * He asks the party to retrieve it if they ever come across it, but since business isn't going well all he has to offer them for it is a toy of his, or his monkey if they don't want the toy
