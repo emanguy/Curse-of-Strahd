@@ -9,7 +9,7 @@
   * Red Dragon Crush
   * Champagne du le Stomp
 * Has 3 grapevine gems planted by a mage many years ago which allow the grapevines at the winery to thrive, all of which have been stolen
-  * Unsure who stole the first one
+  * Unsure who stole the first one (this is left as an exercise to the reader)
   * Second was stolen by [[Baba Lysaga]] who is repeatedly attacking the winery with scarecrows
   * Third was stolen by evil druids who took the gem back to [[Yester Hill]]
 * The [[Yester Hill Druids]] later attacked the winery and drove [[Davian Martikov]] and his family out and poisoned the fermentation vats so there's only a little bit of drinkable wine left
