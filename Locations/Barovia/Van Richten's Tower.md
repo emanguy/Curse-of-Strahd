@@ -69,7 +69,11 @@
 * A charred page from van Richten's Journal:
 > For more than three decades now, I have undertaken to investigate and expose creatures of darkness to the purifying light of truth and knowledge. "Hero" I am named in some circles; "sage" and "monster hunter" I am called in others. That i have survived countless supernatural assaults is seen as a marvel among my peers; my name is spoken with fear and loathing among my foes.
 > 
-> In truth, this "virtuous" calling began as an obsessive effort to destroy a vampire that murdered my child, and it has become for me a tedious and bleak career. Even as my life of hunting monsters began, I felt the weight of time in my weary shoulders. Today I am a man who has simply lived too long. Like a regretful lich, I find myself inexorably bound to an existence I sought out of madness and, seemingly
+> In truth, this "virtuous" calling began as an obsessive effort to destroy a vampire that murdered my child, and it has become for me a tedious and bleak career. Even as my life of hunting monsters began, I felt the weight of time in my weary shoulders. Today I am a man who has simply lived too long. Like a regretful lich, I find myself inexorably bound to an existence I sought out of madness and, seemingly, must now endure for all eternity. Of course I shall die, but whether I shall ever rest in my grave haunts my idle thoughts, and torments me in my dreams.
+> 
+> I expect that those who think me a hero will change their minds when they know the whole truth about my life as a hunter of the unnatural. Nevertheless, i must reveal, here and now, that I have been the indirect yet certain cause of many deaths, and the loss of many good friends. Mistake me not! I do not merely feel sorry for myself. Rather, I come to grips with a devastating realization: I now see that I am the object of a baleful Vistani curse. More tragically, the nature of this hex is such that I have not borne the brunt of it; instead, far worse, those who surround me have fallen victim to it!
+> 
+> I have related the tragic story of how my only child Erasmus was taken by Vistani and sold to a vampire. I explained how Erasmus was made a minion of the night stalker, and how it was my miserable part to free him from that fate at the point of a stake. What I have neglected to illuminate before is how I trakced Erasmus's kidnappers across the land, or how I "extracted" Erasmus's whereabouts form them.
 
 ### 2 - Tower Door
 
