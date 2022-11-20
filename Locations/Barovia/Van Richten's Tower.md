@@ -67,7 +67,9 @@
 * Two spell scrolls: _Major Image_ and _Remove Curse_
 * A map of Barovia revealing the DM's version of the map
 * A charred page from van Richten's Journal:
-> For more than three decades now, I have undertaken to investigate and expose crea
+> For more than three decades now, I have undertaken to investigate and expose creatures of darkness to the purifying light of truth and knowledge. "Hero" I am named in some circles; "sage" and "monster hunter" I am called in others. That i have survived countless supernatural assaults is seen as a marvel among my peers; my name is spoken with fear and loathing among my foes.
+> 
+> In truth, this "virtuous" calling began as an obsessive effort to destroy a vampire that murdered my child, and it has become for me a tedious and bleak career. Even as my life of hunting monsters began, I felt the weight of time in my weary shoulders. Today I am a man who has simply lived too long. Like a regretful lich, I find myself inexorably bound to an existence I sought out of madness and, seemingly
 
 ### 2 - Tower Door
 
