@@ -94,7 +94,11 @@
   * Creatures within 20 feet of the tower make a **DC 15 dex save**, taking **8d10 bludgeoning damage** from falling debris or none on a success
   * The collapse destroys nearly everything inside except the wooden chest from the 4th floor which takes **1d8 + 2 hours** to search through the rubble for
   * The clay golems from the 1st floor also live. There is a **10 percent chance of uncovering a golem** for every hour spent searching for the chest
-* The door is opened by following the dance represented by the stick figures, following the 
+* The door is opened by following the dance represented by the stick figures, following the line to each arm position in either direction
+  * If the characters get an arm position wrong, a young blue dragon appears and attacks the party until it is reduced to 0HP or the characters successfully open the door
+  * When the dance is done properly the door opens automatically and stays open for **10 minutes**
+  * I'll go ahead and say that the door opens automatically when approached from inside
+* Beyond the door there's a 5-foot square vestibule with a curtain that conceals t
 
 ### 3 - Rickety Scaffolding
 
