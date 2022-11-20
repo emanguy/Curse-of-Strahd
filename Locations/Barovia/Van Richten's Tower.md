@@ -14,3 +14,28 @@
 
 * The tower is affected by a ward called **Khazan's Spell Drain** which acts as the spell _Antimagic Field_ centered on the tower and going out 5 feet from it in all directions
   * This doesn't affect magic spells, traps, or constructs that [[Khazan]] put together
+
+## First Floor
+
+### 1 - Ezmerelda's Magic Wagon
+> Under layers of mud, this wagon sports a fresh coat of purple paint, and its wheels have fancy gold trim. A brass lantern hangs from each corner, and red drapes cover a tombstone-shaped window on each side. A steel padlock secures the back door, hanging from which is a cheap wooden sign that reads "Keep out!"
+
+
+
+### 2 - Tower Door
+
+### 3 - Rickety Scaffolding
+
+### 4 - Tower, First Floor
+
+## Second Floor
+
+### 5 - Tower, Second Floor
+
+## Third Floor
+
+### 6 - Tower, Third Floor
+
+## Fourth Floor
+
+### 7 - Tower, Fourth Floor
