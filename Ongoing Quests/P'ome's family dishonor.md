@@ -32,12 +32,13 @@
 > 
 > I'm tired of being blamed
 > For heroes harmed and maimed
-> It's their choice to ven-ture like that
+> It's their choice to ven-ture out like that
 > With dungeons that's a fact!
 > 
 > So P'ome! (yeah!) P'ome! (yeah!)
 > Did I wanna hurt your mom? (Hell no!)
-> 
+> I tell you I'm sorry! (Sorry!) I'm sorry! (Sorry!) I'd take it back if I could,
+> So don't talk no smack
 
 The original:
 > I like big butts and I can not lie  
