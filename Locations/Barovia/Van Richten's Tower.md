@@ -81,9 +81,13 @@
 > 
 > When I found the caravan, I threatened to set the zombies on the Vistani unless they returned my dear boy. They replied that he had been sold to the vampire, Baron Metus. Something inside me snapped. I released the zombies, and the entire tribe was eaten alive.
 > 
-> Yet the story has not ended. Before she died, the leader cursed me, saying "Live you always among monsters, and see everyone you love die beneath their claws!" Even now, so many years later, I can hear her words with painful clarity. A short time later, I found my dear Erasmus made into a vampire. He begged me to end his curse, which I did with a heavy heart. The darkness had torn him from my loving arms forever, and I foolishly believed that the curse had e
+> Yet the story has not ended. Before she died, the leader cursed me, saying "Live you always among monsters, and see everyone you love die beneath their claws!" Even now, so many years later, I can hear her words with painful clarity. A short time later, I found my dear Erasmus made into a vampire. He begged me to end his curse, which I did with a heavy heart. The darkness had torn him from my loving arms forever, and I foolishly believed that the curse had exacted its deadly toll. I wept until an insatiate desire for vengeance filled the bottomless rift in my heart.
 
 ### 2 - Tower Door
+> The tower door is made of iron, with no visible handles or hinges. In the middle of the door is a large, embossed symbol - a connected series of lines with eight stick figures set around it. Carved into the lintel above the door is a word: **Khazan**.
+
+* The door is magically locked and trapped. Attempting to touch the door without disabling the trap makes lightning envelop the tower and everything within 10 feet of it.
+  * Players make a **DC 15 dex save** with disadvantage if wearing metal armor, taking **4d10 lightning damage** or half as much on a successf 
 
 ### 3 - Rickety Scaffolding
 
