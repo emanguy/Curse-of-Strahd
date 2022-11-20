@@ -31,6 +31,6 @@
     * Specifically mentions that the gems are in [[Ruins of Berez|Berez]] and [[Yester Hill]] but he doesn't know what happened to the 3rd one
     * Says they're the size and shape of pinecones and glow green as bright as a torch
   * Tells them that the evil druids have taken over the winery, getting rid of them makes him trust the party
-* 
+* Lake Baratok 
 
 ## Approaching the Winery

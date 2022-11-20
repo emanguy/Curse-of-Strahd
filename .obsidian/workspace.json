@@ -20,13 +20,13 @@
             }
           },
           {
-            "id": "05e10fc2a5443f45",
+            "id": "6054e486df8b07b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Vallaki.md",
-                "mode": "preview",
+                "file": "Locations/Barovia/Argynvostholt.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -42,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3d5074a3793df75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Barovia/Vallaki/Vallaki.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d3c8bf17cbad7b55",
@@ -96,21 +109,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fc5d1abc3afaa297",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Barovia/Luna River Crossroads.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "udo luk",
+                "query": "abandoned",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +150,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "613a5d3f8c2eeb9a",
@@ -200,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Luna River Crossroads.md"
+                "file": "Locations/Barovia/Argynvostholt.md"
               }
             }
           }
@@ -217,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Luna River Crossroads.md",
+                "file": "Locations/Barovia/Argynvostholt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Barovia/Luna River Crossroads.md",
+                "file": "Locations/Barovia/Argynvostholt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,17 +248,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fc5d1abc3afaa297",
+  "active": "6054e486df8b07b6",
   "lastOpenFiles": [
-    "Locations/Barovia/Vallaki/Events/Tyger, Tyger.md",
-    "Locations/Barovia/Luna River Crossroads.md",
+    "Locations/Barovia/Vallaki/Vallaki.md",
+    "Locations/Barovia/Argynvostholt.md",
     "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/The Wizard of Wines.md",
+    "Locations/Barovia/Luna River Crossroads.md",
+    "Locations/Barovia/Vallaki/Events/Tyger, Tyger.md",
     "Locations/Barovia/Van Richten's Tower.md",
     "Ongoing Quests/P'ome's family dishonor.md",
     "Locations/Barovia/Mad Mage's Mansion.md",
-    "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
-    "Locations/Barovia/Vallaki/Events/The Festival of the Blazing Sun.md",
-    "Locations/Barovia/Mad Mage of Mount Baratok.md"
+    "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md"
   ]
 }

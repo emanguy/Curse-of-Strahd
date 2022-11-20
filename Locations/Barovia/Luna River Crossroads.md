@@ -6,4 +6,5 @@
 * The characters can easily figure out how to put the sign back together, and when they do the sign reads as follows
   * [[Krezk]] and [[Tsolenka Pass]] to the southwest
   * Lake Baratok to the northwest (and [[Van Richten's Tower]])
-  * [[Vallaki]] and 
+  * [[Vallaki]] and [[Castle Ravenloft]] to the northeast
+  * [[Ruins of Berez|Berez]] to the southeast
