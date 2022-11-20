@@ -20,7 +20,13 @@
 ### 1 - Ezmerelda's Magic Wagon
 > Under layers of mud, this wagon sports a fresh coat of purple paint, and its wheels have fancy gold trim. A brass lantern hangs from each corner, and red drapes cover a tombstone-shaped window on each side. A steel padlock secures the back door, hanging from which is a cheap wooden sign that reads "Keep out!"
 
-
+* Casting _Detect Magic_ on the wagon reveals it's radiating conjuration magic
+* Casting _Identify_ on the wagon reveals the command word required to operate it: "Drovash"
+  * This conjures a set of quasi-real draft horses magically tethered to the wagon
+  * The horses can be dismissed with the command word "Arvesh"
+* There's a trapdoor under the wagon which can be detected by looking under the wagon and succeeding on a **DC 13 Perception Check**. It's the only safe way inside the wagon
+* The door on the wagon is booby trapped; when opened a flask of **Alchemist's Fire** falls from the ceiling and ignites hundreds of other flasks dangling from the walls inside
+  * When the explosion goes off, creatures within 30 feet of the wagon make a **DC 12 Con save**, taking **10d10 fire damage** on a failure or half as much on a success
 
 ### 2 - Tower Door
 
