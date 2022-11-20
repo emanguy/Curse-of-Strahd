@@ -16,6 +16,7 @@
 
 ## Approaching the Vineyard
 
-
+* Read when the players reach the fork of the road toward the vineyard:
+> After a half mile, the road becomes a muddy trail that meanders through the woods, descending gradually until the trees part, revealing a mist-shrouded meadow
 
 ## Approaching the Winery
