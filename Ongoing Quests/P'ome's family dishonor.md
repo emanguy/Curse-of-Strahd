@@ -22,7 +22,7 @@
 > I dunno how I'll be faring
 > 
 > Oh Talos, I'm gonna fall so hard / and break my mage shard
-> Oh that ground is coming for me / and here it is
+> Oh that ground is coming for me / and so here it is
 > may god have mercy, oof, bump on my head
 > it looks like this possum's dead?
 > Oh screw me, screw me, these folk look like they'll sue me
@@ -38,7 +38,7 @@
 > So P'ome! (yeah!) P'ome! (yeah!)
 > Did I wanna hurt your mom? (Hell no!)
 > I tell you I'm sorry! (Sorry!) I'm sorry! (Sorry!) I'd take it back if I could,
-> And that's a wrap!  
+> Situation was whack!
 
 The original:
 > I like big butts and I can not lie  
