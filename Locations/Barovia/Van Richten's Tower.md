@@ -27,6 +27,29 @@
 * There's a trapdoor under the wagon which can be detected by looking under the wagon and succeeding on a **DC 13 Perception Check**. It's the only safe way inside the wagon
 * The door on the wagon is booby trapped; when opened a flask of **Alchemist's Fire** falls from the ceiling and ignites hundreds of other flasks dangling from the walls inside
   * When the explosion goes off, creatures within 30 feet of the wagon make a **DC 12 Con save**, taking **10d10 fire damage** on a failure or half as much on a success
+  * Creatures within 5 feet of the wagon have disadvantage on the saving throw
+  * Setting off this trap destroys both the wagon and its contents
+  * A character inside the wagon can disable the trap with a **DC 10 Dex check**, triggering the trap on a failure
+
+#### Treasure
+* A wooden trunk covered in claw marks containing:
+  * A Battleaxe
+  * A flail
+  * A morningstar
+  * A light crossbow
+  * 10 silvered crossbow bolts
+* A narrow wardrobe containing:
+  * 3 sets of fine clothes
+  * 2 sets of traveler's clothes
+  * Several pairs of shoes
+  * A harlequin mask
+  * 3 wigs
+* A climber's kit
+* A disguise kit
+* A healer's kit
+* A poisoner's kit
+* A lyre with golden strings (**worth **50gp**)
+* A sculpted wooden cage holding a chicken and a silver ewer (worth **100gp**)
 
 ### 2 - Tower Door
 
