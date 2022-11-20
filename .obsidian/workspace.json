@@ -63,6 +63,18 @@
             }
           },
           {
+            "id": "c5a7e19d77760dab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Barovia/Van Richten's Tower.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "02ff9e3d095e6272",
             "type": "leaf",
             "state": {
@@ -75,12 +87,12 @@
             }
           },
           {
-            "id": "c5a7e19d77760dab",
+            "id": "2df607eb7dce761b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Barovia/Van Richten's Tower.md",
+                "file": "Locations/Barovia/The Wizard of Wines.md",
                 "mode": "source",
                 "source": false
               }
@@ -208,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ongoing Quests/P'ome's family dishonor.md"
+                "file": "Locations/Barovia/Van Richten's Tower.md"
               }
             }
           }
@@ -225,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ongoing Quests/P'ome's family dishonor.md",
+                "file": "Locations/Barovia/Van Richten's Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ongoing Quests/P'ome's family dishonor.md",
+                "file": "Locations/Barovia/Van Richten's Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,17 +266,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "02ff9e3d095e6272",
+  "active": "c5a7e19d77760dab",
   "lastOpenFiles": [
-    "Locations/Barovia/Mad Mage's Mansion.md",
-    "Locations/Barovia/Mad Mage of Mount Baratok.md",
-    "Locations/Barovia/Van Richten's Tower.md",
-    "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/The Wizard of Wines.md",
+    "Locations/Barovia/Van Richten's Tower.md",
+    "Locations/Barovia/Mad Mage's Mansion.md",
+    "Ongoing Quests/P'ome's family dishonor.md",
+    "Locations/Barovia/Mad Mage of Mount Baratok.md",
+    "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Vallaki/Locations/Vistani Camp (Vallaki).md",
     "Ongoing Quests/My Love, the Mayor's Daughter.md",
     "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md",
-    "Characters/NPCs/Urwin Martikov.md",
-    "Characters/NPCs/Davian Martikov.md"
+    "Characters/NPCs/Urwin Martikov.md"
   ]
 }
