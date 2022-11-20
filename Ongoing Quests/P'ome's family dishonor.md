@@ -28,6 +28,9 @@
 > Oh screw me, screw me, these folk look like they'll sue me
 > 
 > I'll get to fleein'; To hell with this scee-in (scene)
+> Got bunches / of dungeons / more traps that I gotta set
+> 
+> I'm tired of being blamed
 > 
 
 The original:
@@ -48,7 +51,7 @@ The original:
 > Well, use me use me 'cuz you ain't that average groupy  
 > 
 > I've seen them dancin', to hell with romancin'  
-> She's sweat, wet, got it goin' like a turbo vette  
+> She's sweat, / wet, / got it goin' like a turbo vette  
 > 
 > I'm tired of magazines, saying flat butts are the thing  
 > Take the average black man and ask him that  
