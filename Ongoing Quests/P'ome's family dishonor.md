@@ -31,6 +31,12 @@
 > Got bunches / of dungeons / more traps that I gotta set
 > 
 > I'm tired of being blamed
+> For heroes harmed and maimed
+> It's their choice to ven-ture like that
+> With dungeons that's a fact!
+> 
+> So P'ome! (yeah!) P'ome! (yeah!)
+> Did I wanna hurt your mom? (Hell no!)
 > 
 
 The original:
