@@ -24,6 +24,12 @@
 
 * The man beckoning is one of **9 wereravens, LG M/F base humans**
 
-
+### Meeting the wereravens
+* Wereravens wear dark leather raincloaks and cowls
+* One is [[Davian Martikov]]
+  * Doesn't tell them about stolen gems until he trusts them
+    * Specifically mentions that the gems are in [[Ruins of Berez|Berez]] and [[Yester Hill]] but he doesn't know 
+  * Tells them that the evil druids have taken over the winery, getting rid of them makes him trust the party
+* 
 
 ## Approaching the Winery
