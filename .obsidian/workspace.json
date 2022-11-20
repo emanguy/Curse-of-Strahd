@@ -140,7 +140,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vista",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,8 +149,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "613a5d3f8c2eeb9a",
