@@ -38,7 +38,7 @@
 > So P'ome! (yeah!) P'ome! (yeah!)
 > Did I wanna hurt your mom? (Hell no!)
 > I tell you I'm sorry! (Sorry!) I'm sorry! (Sorry!) I'd take it back if I could,
-> So don't talk no smack
+> And that's a wrap! 
 
 The original:
 > I like big butts and I can not lie  
