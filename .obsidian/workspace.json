@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/The Wizard of Wines.md"
+                "file": "Locations/Barovia/Barovia (Country).md"
               }
             }
           }
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/The Wizard of Wines.md",
+                "file": "Locations/Barovia/Barovia (Country).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Barovia/The Wizard of Wines.md",
+                "file": "Locations/Barovia/Barovia (Country).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,10 +234,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2df607eb7dce761b",
+  "active": "355951d599b6039a",
   "lastOpenFiles": [
-    "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/The Wizard of Wines.md",
+    "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Van Richten's Tower.md",
     "Ongoing Quests/P'ome's family dishonor.md",
     "Locations/Barovia/Mad Mage's Mansion.md",
