@@ -16,4 +16,13 @@
   * A headless doll with a sack of attachable heads, including one with its eyes and mouth stitched shut
   * A miniature gallows, complete with trapdoor and weighted "hangman" 
   * A set of wooden nesting dolls which get older as they get smaller until the center one is a mummified corpse
-  * A wood and string mobile 
+  * A wood and string mobile with hanging bats that flap their wings
+  * A wind-up musical merry-go-round with wolves that chase children instead of horses
+  * A ventriloquist dummy that looks like Strahd
+  * A doll that looks a lot like [[Ireena Kolyana]]
+    * Blinksy just reports that he makes these for [[Izek Strazni]] who threatens to burn down his shop if he doesn't get a new one each month
+    * Blinksy will put 2 and 2 together if Ireena is with the party
+
+## Blinksy's Request
+* Blinksy will mention to the party that he's a student of [[Fritz van Weerg]] and that he hears one of van Weerg's greatest masterpieces, a clockwork man, is somewhere in [[Castle Ravenloft]]. 
+  * He asks the party to retrieve
