@@ -48,8 +48,26 @@
 * A disguise kit
 * A healer's kit
 * A poisoner's kit
-* A lyre with golden strings (**worth **50gp**)
-* A sculpted wooden cage holding a chicken and a silver ewer (worth **100gp**)
+* A lyre with golden strings (worth **50gp**)
+* A sculpted wooden cage holding a chicken and a silver ewer (worth **100gp**) with 5 chicken eggs in it
+* A tiny wooden box containing a deck of tarokka cards wrapped in silk
+* A set of copper pots and pans (worth **50gp**)
+* 3 sets of manacles
+* A shovel
+* A wooden chest containing:
+  * A gold holy symbol of the [[Morninglord]]
+  * 3 vials of holy water
+  * 3 vials of perfume
+  * 2 vials of antitoxin
+  * A 50-foot coil of hempen rope
+  * A tinderbox
+  * A steel mirror
+  * A sharpened wooden stake
+  * A spyglass
+* Two spell scrolls: _Major Image_ and _Remove Curse_
+* A map of Barovia revealing the DM's version of the map
+* A charred page from van Richten's Journal:
+> For more than three decades now, I have undertaken to investigate and expose crea
 
 ### 2 - Tower Door
 
