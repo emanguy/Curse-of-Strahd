@@ -27,6 +27,7 @@
 > it looks like this possum's dead?
 > Oh screw me, screw me, these folk look like they'll sue me
 > 
+> I'll get to fleein'; To hell with this scee-in (scene)
 > 
 
 The original:
