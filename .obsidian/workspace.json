@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "c18e38c4ebfa3d61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Barovia/Mad Mage of Mount Baratok.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d3d5074a3793df75",
             "type": "leaf",
             "state": {
@@ -56,12 +44,24 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "d3c8bf17cbad7b55",
         "type": "tabs",
         "children": [
+          {
+            "id": "1292253a6c65fe8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Barovia/Vallaki/Blinksy Toys.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "db9fd9d47bca3fbf",
             "type": "leaf",
@@ -110,8 +110,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,8 +149,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "613a5d3f8c2eeb9a",
@@ -202,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Argynvostholt.md"
+                "file": "Locations/Barovia/Vallaki/Blinksy Toys.md"
               }
             }
           }
@@ -219,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Argynvostholt.md",
+                "file": "Locations/Barovia/Vallaki/Blinksy Toys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Barovia/Argynvostholt.md",
+                "file": "Locations/Barovia/Vallaki/Blinksy Toys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,17 +246,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6054e486df8b07b6",
+  "active": "1292253a6c65fe8e",
   "lastOpenFiles": [
     "Locations/Barovia/Vallaki/Vallaki.md",
-    "Locations/Barovia/Argynvostholt.md",
     "Locations/Barovia/Barovia (Country).md",
+    "Locations/Barovia/Argynvostholt.md",
+    "Locations/Barovia/Mad Mage of Mount Baratok.md",
     "Locations/Barovia/The Wizard of Wines.md",
     "Locations/Barovia/Luna River Crossroads.md",
     "Locations/Barovia/Vallaki/Events/Tyger, Tyger.md",
     "Locations/Barovia/Van Richten's Tower.md",
     "Ongoing Quests/P'ome's family dishonor.md",
-    "Locations/Barovia/Mad Mage's Mansion.md",
-    "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md"
+    "Locations/Barovia/Mad Mage's Mansion.md"
   ]
 }
