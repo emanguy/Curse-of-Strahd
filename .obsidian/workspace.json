@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Vallaki.md",
+                "file": "Useful Links and Info.md",
                 "mode": "preview",
                 "source": false
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Vallaki.md"
+                "file": "Useful Links and Info.md"
               }
             }
           }
@@ -245,7 +245,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Vallaki.md",
+                "file": "Useful Links and Info.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Vallaki.md",
+                "file": "Useful Links and Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,7 +297,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Vallaki.md",
+                "file": "Useful Links and Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -311,9 +311,9 @@
   },
   "active": "5816e5e054d40c5b",
   "lastOpenFiles": [
+    "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Barovia (Country).md",
     "Useful Links and Info.md",
-    "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
     "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
     "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
