@@ -71,8 +71,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
-                    "mode": "preview",
+                    "file": "Session Notes/2022-11-26.md",
+                    "mode": "source",
                     "source": false
                   }
                 }
@@ -178,7 +178,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
+            "file": "Session Notes/2022-11-26.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
+            "file": "Session Notes/2022-11-26.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -207,7 +207,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md"
+            "file": "Session Notes/2022-11-26.md"
           }
         }
       },
@@ -224,6 +224,7 @@
   },
   "active": "545d4286eb2a3c71",
   "lastOpenFiles": [
+    "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
     "Characters/NPCs/Milivoj.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Characters/NPCs/Arabelle.md",
@@ -232,7 +233,6 @@
     "Locations/Barovia/Vallaki/Locations/Arasek Stockyard.md",
     "Locations/Barovia/Vallaki/Events/Tyger, Tyger.md",
     "Characters/NPCs/Ernst Larnak.md",
-    "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
-    "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md"
+    "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md"
   ]
 }
