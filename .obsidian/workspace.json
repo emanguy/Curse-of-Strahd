@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md"
+                "file": "Locations/Barovia/Vallaki/Vallaki.md"
               }
             }
           }
@@ -245,7 +245,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
+                "file": "Locations/Barovia/Vallaki/Vallaki.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
+                "file": "Locations/Barovia/Vallaki/Vallaki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,7 +297,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
+                "file": "Locations/Barovia/Vallaki/Vallaki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -309,17 +309,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6dcec5711b33d5ce",
+  "active": "5816e5e054d40c5b",
   "lastOpenFiles": [
+    "Locations/Barovia/Barovia (Country).md",
+    "Useful Links and Info.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
+    "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
     "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
     "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
     "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
     "Characters/NPCs/Ernst Larnak.md",
     "Characters/NPCs/Stella Wachter.md",
-    "Locations/Barovia/Barovia (Country).md",
-    "Locations/Barovia/Van Richten's Tower.md",
-    "Characters/NPCs/Khazan.md",
-    "Locations/Barovia/Argynvostholt.md"
+    "Locations/Barovia/Van Richten's Tower.md"
   ]
 }
