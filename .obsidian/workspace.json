@@ -30,18 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c4dd40c7673e15d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -53,7 +41,20 @@
           {
             "id": "d3c8bf17cbad7b55",
             "type": "tabs",
+            "dimension": 58.45718329794764,
             "children": [
+              {
+                "id": "6dcec5711b33d5ce",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
               {
                 "id": "bf4aeef08e5c4fcb",
                 "type": "leaf",
@@ -95,6 +96,7 @@
           {
             "id": "b9566a9ac5d5d020",
             "type": "tabs",
+            "dimension": 41.54281670205237,
             "children": [
               {
                 "id": "8558299a0c543b24",
@@ -119,9 +121,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "c4dd40c7673e15d2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -214,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Vallaki.md"
+                "file": "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md"
               }
             }
           }
@@ -231,7 +245,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Vallaki.md",
+                "file": "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Vallaki.md",
+                "file": "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +297,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Vallaki.md",
+                "file": "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -295,10 +309,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5816e5e054d40c5b",
+  "active": "6dcec5711b33d5ce",
   "lastOpenFiles": [
-    "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
+    "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
     "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
     "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
     "Characters/NPCs/Ernst Larnak.md",
