@@ -35,35 +35,60 @@
         "currentTab": 1
       },
       {
-        "id": "d3c8bf17cbad7b55",
-        "type": "tabs",
+        "id": "eebeec2dc96fa0f5",
+        "type": "split",
         "children": [
           {
-            "id": "c5a7e19d77760dab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Barovia/Van Richten's Tower.md",
-                "mode": "preview",
-                "source": false
+            "id": "d3c8bf17cbad7b55",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c5a7e19d77760dab",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Locations/Barovia/Van Richten's Tower.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "835a36b2b04e8ddc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "835a36b2b04e8ddc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
-                "mode": "preview",
-                "source": false
+            "id": "b9566a9ac5d5d020",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8558299a0c543b24",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Characters/NPCs/Stella Wachter.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -236,6 +261,8 @@
   },
   "active": "835a36b2b04e8ddc",
   "lastOpenFiles": [
+    "Characters/NPCs/Stella Wachter.md",
+    "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Van Richten's Tower.md",
@@ -243,8 +270,6 @@
     "Locations/Barovia/Argynvostholt.md",
     "Ongoing Quests/P'ome's family dishonor.md",
     "Locations/Barovia/Mad Mage's Mansion.md",
-    "Locations/Barovia/The Wizard of Wines.md",
-    "Locations/Barovia/Vallaki/Blinksy Toys.md",
-    "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md"
+    "Locations/Barovia/The Wizard of Wines.md"
   ]
 }
