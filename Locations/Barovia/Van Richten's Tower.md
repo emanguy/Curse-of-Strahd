@@ -97,8 +97,8 @@
 * The door is opened by following the dance represented by the stick figures, following the line to each arm position in either direction
   * If the characters get an arm position wrong, a young blue dragon appears and attacks the party until it is reduced to 0HP or the characters successfully open the door
   * When the dance is done properly the door opens automatically and stays open for **10 minutes**
-  * I'll go ahead and say that the door opens automatically when approached from inside
-* Beyond the door there's a 5-foot square vestibule with a curtain that conceals t
+  * The door can be safely opened from inside, and stays open for **1 minute** when opened this way unless held open
+* Beyond the door there's a 5-foot square vestibule with a curtain that conceals the first floor of the tower beyond
 
 ### 3 - Rickety Scaffolding
 

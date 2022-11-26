@@ -32,7 +32,7 @@
               "type": "markdown",
               "state": {
                 "file": "Locations/Barovia/Van Richten's Tower.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -208,7 +208,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "49c4de133070973c",
+  "active": "c5a7e19d77760dab",
   "lastOpenFiles": [
     "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Van Richten's Tower.md",
