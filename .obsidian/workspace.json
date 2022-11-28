@@ -103,7 +103,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           },
           {
             "id": "b9566a9ac5d5d020",
@@ -239,9 +240,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Locations/Barovia/Vallaki/Vallaki.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -257,7 +256,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Vallaki.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,7 +290,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Vallaki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +306,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Vallaki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -321,14 +317,47 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "073f9791268b30c3",
+  "floating": {
+    "id": "3a72175d1cf00473",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b7dec63aca687b17",
+        "type": "window",
+        "children": [
+          {
+            "id": "a8f76a91eccbe1ea",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d16499f71639c6af",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 840,
+        "y": 47,
+        "width": 600,
+        "height": 600,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d16499f71639c6af",
   "lastOpenFiles": [
+    "Locations/Barovia/Vallaki/Vallaki.md",
     "Useful Links and Info.md",
     "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
     "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
     "Locations/Barovia/Van Richten's Tower.md",
     "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
-    "Locations/Barovia/Vallaki/Vallaki.md",
     "Locations/Barovia/Barovia (Country).md",
     "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
     "Characters/NPCs/Ernst Larnak.md",
