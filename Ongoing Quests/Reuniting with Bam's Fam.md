@@ -14,7 +14,9 @@
   * It's also being patrolled by several members of the [[Dusk Elf Slavers]] who may show up while trying to dislodge the crystals. (They will appear if I roll a **5 or lower** on a pure luck roll)
   * There is another way - the slavers on patrol wear pendants with fragments of the same crystal used for the detection crystals. If you can steal one from them without being detected you could use it to get the party through
   * The patrolling slavers can set of an alert of intruders using the pendants though - it's effectively a concentration spell they can cast as an action which will activate if their concentration isn't broken by their next turn in a round of combat
-* After the party makes it past the ring of detection crystals, they'll spot a small camp of **5 Drow Guards** with 2 **Bristled Moorbounders**. The guards are all shooting the shit, but one of them offends another, who throws a piece of his food at the other one. He misses wildly and the piece of food lands next to the party. This won't make the guards notice them, but the moorbounders will start heading for the food that was dropped
+* After the party makes it past the ring of detection crystals, they'll spot a small camp of **5 Drow  (Dusk Elf) Guards** with 2 **Bristled Moorbounders**. The guards are all shooting the shit, but one of them offends another, who throws a piece of his food at the other one. He misses wildly and the piece of food lands next to the party. This won't make the guards notice them, but the moorbounders will start heading for the food that was dropped so the party will need to figure their way out of that situation without getting caught
+* The party will eventually arrive at the camp, where there will be a bunch of tents containing cages containing the creatures these dusk elves have enslaved. Around the camp are **15 Drow (Dusk Elf) Guards** who can all let creatures out of cages if they realize they are in danger. 
+  * The party can try and find the tent where the ravens are, stealthily, but this will be difficult.
 
 ## What's happened so far
 * Bam has been having recurring nightmares involving childhood memories with his parents
