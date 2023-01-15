@@ -1,0 +1,368 @@
+{
+  "main": {
+    "id": "04c567ea997f860f",
+    "type": "split",
+    "children": [
+      {
+        "id": "87283591ac508a56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "355951d599b6039a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Barovia/Barovia (Country).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5816e5e054d40c5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Useful Links and Info.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "073f9791268b30c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Barovia/Vallaki/Vallaki.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6de2470e970a1dfa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "64660e67992ca64e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "eebeec2dc96fa0f5",
+        "type": "split",
+        "children": [
+          {
+            "id": "d3c8bf17cbad7b55",
+            "type": "tabs",
+            "dimension": 58.45718329794764,
+            "children": [
+              {
+                "id": "6dcec5711b33d5ce",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "bf4aeef08e5c4fcb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c5a7e19d77760dab",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Locations/Barovia/Van Richten's Tower.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "835a36b2b04e8ddc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "b9566a9ac5d5d020",
+            "type": "tabs",
+            "dimension": 41.54281670205237,
+            "children": [
+              {
+                "id": "8558299a0c543b24",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Characters/NPCs/Stella Wachter.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "471da400cb2bf8f8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Characters/NPCs/Ernst Larnak.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c4dd40c7673e15d2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c53d0e712589c143",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cc9e67c56b8db2b",
+        "type": "tabs",
+        "dimension": 58.2112567463377,
+        "children": [
+          {
+            "id": "e293cf961b1b051b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2f555f4bb50db77",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "613a5d3f8c2eeb9a",
+        "type": "tabs",
+        "dimension": 41.7887432536623,
+        "children": [
+          {
+            "id": "b28a9279b11f9633",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3d673f7bbf655d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a038c8fea330297c",
+        "type": "tabs",
+        "dimension": 26.59870250231696,
+        "children": [
+          {
+            "id": "b50f42d6b8b86707",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "eac3e8cee37be832",
+        "type": "tabs",
+        "dimension": 26.32066728452271,
+        "children": [
+          {
+            "id": "c148f00bbf92aea2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "154db812d1f4cdf4",
+        "type": "tabs",
+        "dimension": 47.08063021316033,
+        "children": [
+          {
+            "id": "49c4de133070973c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1.9,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.488545978077874,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "15d6e19de3c532a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9cee0e701ccc6b2e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "64660e67992ca64e",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Locations/Barovia/Vallaki/Vallaki.md",
+    "Useful Links and Info.md",
+    "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
+    "Locations/Barovia/Vallaki/Locations/Wachterhaus.md",
+    "Locations/Barovia/Van Richten's Tower.md",
+    "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
+    "Locations/Barovia/Barovia (Country).md",
+    "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
+    "Characters/NPCs/Ernst Larnak.md"
+  ]
+}

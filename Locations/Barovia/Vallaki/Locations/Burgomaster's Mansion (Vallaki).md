@@ -66,27 +66,127 @@
 * Two barrels of wine are labeled with [[The Wizard of Wines]] logo and contain Red Dragon Crush
 
 ## Areas - Upper Floor
-### I - 
+### I - Upstairs Gallery
+* Arriving from the entrance (area A): 
+> The staircase climbs twenty feet to a beautifully appointed gallery that continues toward the west, running almost the length of the mansion. Framed landscape paintings line the walls, and red silk drapes cover a ten-foot-tall arched window of leaded glass.
 
-### J - 
+* Arriving from the kitchen (area G):
+> The staircase climbs to a ten-foot-wide gallery that stretches almost the length of the mansion. Breathtaking paintings of landscapes line the walls. Two separate, narrow hallways lead away from the gallery to the north.
 
-### K - 
+### J - Izek's Bedroom
+* Door is locked, [[Izek Strazni]] has the key
+> Dolls. This room is full of pretty little dolls with powder-white skin and auburn hair, some of them dressed beautifully, others plainly. Some of the dolls fill a long bookshelf, and others are arranged in neat rows on wall-mounted shelves. Still others are piled atop a bed and a heavy wooden chest. What's most odd is that all of the dolls, apart from their clothing, look the same. They all look like Ireena Kolyana.
 
-### L - 
+* The dolls are all made by [[Gadof Blinksy]] and have the tag "Is no fun, is no Blinksy!" on them
+* [[Izek Strazni]] sleeps here at night but is usually in town doing business during the day (might be fun to do a luck roll to see if Izek happens to be walking by when the characters walk in)
+* There are some empty wine bottles under the bed labeled "Purple Grapemash" with [[The Wizard of Wines]] logo on them
 
-### M - 
+#### Treasure
+* The chest in here is unlocked, there's a nonmagical shortsword under some clothes
+  * If [[Ireena Kolyana]] is in here because she's been trapped by [[Izek Strazni]], roll a d6 for what corner of the room she's in, with 5 and 6 meaning she's actually bound. If not bound she'll have taken the sword for self defense and will attack the first person coming through to try and escape
 
-### N - 
+### K - Victor's Bedroom
+> This handsomely appointed room contains a canopied bed, a low bookshelf, and a full-length mirror in a wooden frame on the wall across from the door. Set into the north wall is an arched window of leaded glass. Nothing here seems unusual.
 
-### O - 
+* Books are about Barovian fables, mythology, heraldry, and other subjects
 
-### P - 
+### L - Library
+> Floor-to-ceiling shelves line every wall of this windowless room, and the number of books contained here is nothing short of astounding.
+> A brass oil lamp sits atop a large desk in the center of the room. The chair behind the desk is comfortably padded and has the symbol of a roaring bear stitched into its back cushion.
 
-### Q - 
+* If [[Vargas Vallakovich]] hasn't been pulled elsewhere read:
+> Standing behind the chair, holding an open book, is a bear of a man. His breastplate, rapier, silk tunic, and greasy beard glisten in the lamplight. Resting on small rugs to his left and right are a pair of black mastiffs.
+
+#### Treasure
+* The desk contains parchment, jars of ink, writing quills as well as old tax records
+* The books here are on just about every subject, see **module pg. 68** for random topics
+
+### M - Locked Closet
+* Baron has the key
+> Chained to the back wall of this otherwise empty closet is a badly beaten man wearing nothing but a loincloth. The iron shackles have cut into his wrists, causing blood to trickle down his hands.
+
+* Man is named [[Udo Lukovich]]
+  * His manacles break if they take 10+ damage from a single weapon attack
+  * If freed, [[Vargas Vallakovich]] sends [[Izek Strazni]] after Udo to find him. After being questioned he'll give the party up to him which will turn the burgomaster against them
+
+### N - Master Bedroom Closet
+> Cloaks, coats, gowns, and other fancy apparel hang from hooks in this closet. Arranged on low shelves are many fine shoes, slippers, and boots.
+
+### O - Master Bedroom
+> Time has faded the grandeur of this master bedroom. The furnishings have lost some of their color and splendor. A short pull-rope hangs from a wooden trapdoor in the ceiling.
+
+* The pull rope opens an unfolding ladder that leads to the attic.
+
+### P - Bridal Gown and Spirit Mirror
+> This room smells of powder and fine perfume. A vanity with a mirror stands against one wall next to a faceless wooden mannequin wearing a white bridal gown. Mounted on another wall is a full-length mirror with a gilded frame. A door in one corner leads to a garderobe.
+
+* [[Lydia Petrovna]] keeps her bridal gown here to remind her of happier times
+* Using _Detect Magic_ will reveal that the mirror radiates conjuration magic. Casting _Identify_ reveals an assassin's ghost is bound to it as well as the rhyme required to summon the ghost:
+> Magic mirror on the wall,
+> summon forth your shade;
+> night's dark vengeance, heed my call
+> and wield your murderous blade
+* The ghost in the mirror is an **assassin** who belonged to a secret society called the **Ba'al Verzi**
+  * He appears as a darkly handsome 30 year old man with bloodshot eyes to a non-evil summoner. The summoner can ask him to kill a creature by giving its name which it will disappear and attempt to do so unless the creature is dead or undead. He will disappear if not given a name within 6 seconds
+  * To an evil summoner he'll just appear as a pair of bloodshot eyes and hands which will try and choke the summoner, with the stats of **ghost** without possession or etherealness
+* When the mirror is used it needs a day to recharge. It has an AC of 10 and 5 HP. Breaking it will release the ghost.
+* The mirror corrupts its user. Every use, there's a cumulative 25% chance their alignment switches to NE
+* If a character gives Strahd's name there's a 50% chance he takes notice and appears in the mirror
+  * When this happens he tries to charm one creature within 30 feet and invites the characters to dine with him at [[Castle Ravenloft]]. If charmed by him, a character feels compelled to accept.
+
+### Q - Bathroom
+> An iron tub with clawed feet stands against the back wall. Neatly folded towels rest atop a table near the door.
 
 ## Areas - Attic
-### R - 
+### R - Attic Room
+> This dusty, twenty-foot-square room has a high-pitched ceiling that reaches its peak twenty feet above. The wooden rafters are shrouded in cobwebs. Except for an old table with a lantern on it, the room is empty.
 
-### S - 
+### S - Attic Storage
+> This large attic is full of old, forgotten things draped in white sheets. Piled around are barrels, crates, trunks, and old furnishings covered with cobwebs and dust. You see a clear footpath through the maze.
 
-### T - 
+* There's some old paintings and antiques here but there's nothing of value.
+
+### T - Victor's Workroom
+* [[Victor Vallakovich]] is usually here unless he's out getting food or spell components
+> Someone has carved a large skull into this door. Hanging from the doorknob is a wooden sign that reads "ALL IS NOT WELL!" You hear a young man's voice beyond.
+
+* Everyone can make a **DC 14 Investigation check** to notice a small _Glyph of Warding_ in the skull which inflicts **5d8 lightning** damage if anyone other than Victor opens the door
+* Anyone listening through the door can make a **DC 14 Arcana Check** to hear Victor badly reciting a teleportation spell
+* Opening the door:
+> Someone has taken old, mismatched furniture and created a study in this dusty, lamp-lit chamber.Tables are strewn with pieces of parchment, on which strange diagrams are drawn, and a freestanding bookshelf holds a collection of bones. A dusty rug covers the floor in front of a pine box, on which lounges a skeletal cat. Several more skeletal cats skulk about. Most unnerving of all is the sight of three small children standing with their backs to you in the northeast corner of the room.
+* If the _Glyph of Warding_ was triggered, Victor casts _greater invisibility_ on himself and hides in a corner. Otherwise read:
+> In the center of the room, perched on a stool, is a thin young man with a premature streak of gray in his dark hair. He cradles an open leather-bound book in his arms.
+* The "children" in the corner of the room are just wooden dolls dressed in Victor's childhood clothes. He pretends they're his disobedient pupils
+* The teleportation circle here under the rug is dangerous because Victor doesn't fully understand how to cast it
+  * **DC 15 Arcana Check** determines that the circle is made wrong and could be deadly
+  * Trying to use it in a teleportation circle spell inflicts **3d10 force damage** on the subject in the middle of the circle
+  * Victor tested the spell on the two servants who went missing. They're missing because they got disintegrated in a flash of purple light. He's gonna try to fix it and try again.
+
+#### Treasure
+* The trunk contains silk cloth, needles, thread, and a half finished Wizard's robe
+  * Victor gave up halfway through making the robe since it was tedious
+* Victor's spellbook contains all the following spells:
+  * Animate Dead
+  * Blight
+  * Cloudkill
+  * Darkvision
+  * Glyph of Warding
+  * Levitate
+  * Remove Curse
+  * Thunderwave
+  * Fire Bolt
+  * Light
+  * Mage hand
+  * Prestidigitation
+  * Detect Magic
+  * Mage Armor
+  * Magic Missile
+  * Shield
+  * Misty Step
+  * Suggestion
+  * Counterspell
+  * Fireball
+  * Fly
+  * Greater Invisibility
+  * Ice Storm
+  * Cone of Cold

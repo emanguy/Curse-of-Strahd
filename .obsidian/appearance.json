@@ -1,4 +1,6 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Deep Work"
+  "cssTheme": "Encore",
+  "accentColor": "#54e866",
+  "nativeMenus": true
 }

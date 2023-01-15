@@ -6,7 +6,6 @@
       {
         "id": "355951d599b6039a",
         "type": "leaf",
-        "dimension": 42.65080713678845,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,17 +16,101 @@
         }
       },
       {
-        "id": "78bb6d2c6ea3e716",
+        "id": "dd84e784b1688799",
         "type": "leaf",
-        "dimension": 57.349192863211556,
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
             "mode": "preview",
+||||||| 879192c
+            "file": "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
+            "mode": "source",
+=======
+            "file": "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
+            "mode": "preview",
+>>>>>>> origin/main
             "source": false
           }
         }
+      },
+      {
+        "id": "d9d0397cf0f03576",
+        "type": "split",
+        "children": [
+          {
+            "id": "f6c5682af3b2e14a",
+            "type": "leaf",
+            "dimension": 26.427525622254755,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c054a93540b59dd",
+            "type": "leaf",
+            "dimension": 25.915080527086378,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPCs/Milivoj.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "545d4286eb2a3c71",
+            "type": "leaf",
+            "dimension": 47.657393850658856,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "08a4e0fbc99ea126",
+        "type": "split",
+        "children": [
+          {
+            "id": "cd08a42c1f7c33c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Barovia/Vallaki/Locations/Town Square.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b57464e28aa26e35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Barovia/Vallaki/Events/The Festival of the Blazing Sun.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -54,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "izek",
+                "query": "udo luk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e3d673f7bbf655d6",
@@ -100,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md"
+                "file": "Characters/NPCs/Milivoj.md"
               }
             }
           }
@@ -128,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
+                "file": "Characters/NPCs/Milivoj.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,17 +228,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "78bb6d2c6ea3e716",
+  "active": "2c054a93540b59dd",
   "lastOpenFiles": [
-    "Characters/NPCs/Victor Vallakovich.md",
-    "Characters/NPCs/Vargas Vallakovich.md",
-    "Characters/NPCs/Lady Fiona Wachter.md",
-    "Characters/NPCs/Lydia Petrovna.md",
-    "Locations/Barovia/Vallaki/Locations/Burgomaster's Mansion (Vallaki).md",
-    "Characters/NPCs/Tasha Petrovna.md",
-    "Characters/NPCs/Lucian Petrovich.md",
+    "Characters/NPCs/Ernst Larnak.md",
+    "Characters/NPCs/Milivoj.md",
+    "Locations/Barovia/Vallaki/Locations/St. Andral's Church.md",
+    "Locations/Barovia/Vallaki/Locations/Coffin Maker's Shop.md",
+    "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md",
+    "Characters/NPCs/Henrik van der Voort.md",
     "Locations/Barovia/Vallaki/Vallaki.md",
-    "Characters/NPCs/Izek Strazni.md",
-    "Locations/Barovia/Vallaki/Events/St. Andral's Feast.md"
+    "Locations/Barovia/Vallaki/Locations/Town Square.md",
+    "Locations/Barovia/Vallaki/Events/The Festival of the Blazing Sun.md",
+    "Locations/Barovia/Vallaki/Locations/Blue Water Inn.md"
   ]
 }
