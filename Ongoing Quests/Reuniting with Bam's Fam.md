@@ -9,7 +9,10 @@
 * There wasn't enough time to retrieve the antidote, so [[Urwin Martikov]] offered to turn them into were-ravens, as the mutation causes resistance to poison as a side effect
 * Bam's parents then became members of the [[Keepers of the Feather]]. They then left on an assignment to spy on the [[Dusk Elf Slavers]] and haven't been heard from in 3 weeks.
   * They were captured in raven form and cannot revert to human form because they're being kept in a cage
-* 
+* Urwin will warn Bam that there's a ring of detection crystals surrounding the slavers' camp to warn them of intruders. 
+  * It's possible to dislodge them but you'd need to be very careful about it - at least 2 must be dislodged from trees in the Svalich Woods in order to open up a sufficiently sized area to pass through undetected
+  * It's also being patrolled by several members of the [[Dusk Elf Slavers]] who may show up while trying to dislodge the crystals. (They will appear if I roll a **5 or lower** on a pure luck roll)
+  * There is another way - the slavers on patrol carry pendants with fragments of the same crystal used for the detection crystals
 
 ## What's happened so far
 * Bam has been having recurring nightmares involving childhood memories with his parents
