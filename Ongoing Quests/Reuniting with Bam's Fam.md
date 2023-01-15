@@ -9,6 +9,7 @@
 * There wasn't enough time to retrieve the antidote, so [[Urwin Martikov]] offered to turn them into were-ravens, as the mutation causes resistance to poison as a side effect
 * Bam's parents then became members of the [[Keepers of the Feather]]. They then left on an assignment to spy on the [[Dusk Elf Slavers]] and haven't been heard from in 3 weeks.
   * They were captured in raven form and cannot revert to human form because they're being kept in a cage
+* 
 
 ## What's happened so far
 * Bam has been having recurring nightmares involving childhood memories with his parents
