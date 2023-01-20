@@ -13,5 +13,11 @@
   "legacyEditor": false,
   "livePreview": true,
   "useMarkdownLinks": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
