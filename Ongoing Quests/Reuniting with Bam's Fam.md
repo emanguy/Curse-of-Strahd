@@ -18,6 +18,7 @@
 * The party will eventually arrive at the camp, where there will be a bunch of tents containing cages containing the creatures these dusk elves have enslaved. Around the camp are **15 Drow (Dusk Elf) Guards** who can all let creatures out of cages if they realize they are in danger. Their leader, [[Ranudia Telorel]], is speaking to 5 of them near one of the bonfires in the center of camp.
   * The party can try and find the tent where the ravens are, stealthily, but this will be difficult.
   * If the party gets into a fight with the slavers, if they make it into one of the tents I'll pull a set of beasts from a roll table that they set free in order to attack the party during the battle.
+* When everyone is reunited, consult [[Bam's Parents]] for details on why he was left
 
 ## What's happened so far
 * Bam has been having recurring nightmares involving childhood memories with his parents

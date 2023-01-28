@@ -13,4 +13,4 @@
 * The two are part of an ancient monastic order called **Hintern** who are sworn to defend the people of Waterdeep
 * About a year after Jam had Bam, Waterdeep was attacked and suffered bad losses and Hintern was called upon to strike back against the attackers
 * Jam had no choice but to leave Bam somewhere because she couldn't bring him into a war zone
-* They fought in this war for about 7 years. When they returned they felt so ashamed they ha
+* They fought in this war for about 7 years. When they returned they felt so ashamed that they had abandoned Bam they decided they couldn't face him and never came back for him
