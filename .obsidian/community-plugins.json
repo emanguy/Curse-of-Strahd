@@ -1,14 +1,11 @@
 [
   "calendar",
   "nldates-obsidian",
-  "obsidian-image-toolkit",
   "cm-editor-syntax-highlight-obsidian",
   "url-into-selection",
   "obsidian-git",
-  "obsidian-icons-plugin",
   "table-editor-obsidian",
   "maximise-active-pane-obsidian",
   "OA-file-hider",
-  "obsidian-prominent-starred-files",
-  "obsidian-icon-folder"
+  "obsidian-prominent-starred-files"
 ]
