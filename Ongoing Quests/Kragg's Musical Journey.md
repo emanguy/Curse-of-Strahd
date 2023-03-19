@@ -10,3 +10,4 @@
 ## What's happened so far
 * Kragg picked up the lute off the person of the shambling mound in the basement of the [[Haunted House]]
 * Kragg played the lute a little on the Old Svalich Road and got tingly skin but nothing more has really happened yet
+* Kragg realized he was growing a tail when he got to [[St. Andral's Church]]
