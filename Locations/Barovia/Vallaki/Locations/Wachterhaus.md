@@ -146,6 +146,7 @@ Opening the door:
   * Blasphemous treatise bound in black leather called **The Grimoire of the Four Quarters** written by diabolist [[Devostas]] who was drawn and quartered for his fell practices but didn't die (it's a forgery, the real one would drive the reader mad)
   * Old letter for [[Lady Lovinia Wachter]] (an ancestor) from [[Strahd|Lord Vasili van Holtz]]thanking Lovinia for hospitality, loyalty, and friendship over the years
     * If players have the [[Tome of Strahd]] they'll notice van Holtz and Strahd have the same handwriting
+    * I'm gonna say that with a **DC 16 perception check** they can do the same thing with Strahd's signature on the notarized land deeds
 
 ## R - Cellar Entrance
 * If approached from the cellar door, read:
