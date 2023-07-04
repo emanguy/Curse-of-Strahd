@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1688509987230,
+      "path": "Useful Links and Info.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1688509999649,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1688510023368,
+          "path": "Locations/Barovia/Vallaki/Vallaki.md"
+        }
+      ],
+      "title": "Regions - Quick access"
+    },
+    {
+      "type": "file",
+      "ctime": 1688510049510,
+      "path": "Locations/Barovia/Barovia Town/Barovia Town.md"
+    }
+  ]
+}

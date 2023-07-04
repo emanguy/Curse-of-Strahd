@@ -1,4 +1,6 @@
 # Van Richten's Tower
+#Status/needs-completion
+
 ![[CurseofStrahd_VanRichtensTower_DM.jpg]]
 
 ## History
