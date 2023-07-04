@@ -1,4 +1,5 @@
 # Mordenkainen
+#Status/needs-foundry 
 
 ## History
 * Powerful wizard, came to Barovia to fight [[Strahd]]
