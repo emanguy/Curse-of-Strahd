@@ -98,11 +98,19 @@
   * If the characters get an arm position wrong, a young blue dragon appears and attacks the party until it is reduced to 0HP or the characters successfully open the door
   * When the dance is done properly the door opens automatically and stays open for **10 minutes**
   * The door can be safely opened from inside, and stays open for **1 minute** when opened this way unless held open
-* Beyond the door there's a 5-foot square vestibule with a curtain that conceals the first floor of the tower beyond  
+* Beyond the door there's a 5-foot square vestibule with a curtain that conceals the first floor of the tower beyond 
+  * After going inside, the tower door closes after **1 minute** unless held open
+  * The tower door can be safely opened from inside
 
 ### 3 - Rickety Scaffolding
+> Rotting wooden beams support the scaffolding, which groans and creaks with the slightest breeze. A series of ladders and platforms lead to a hole in the northwest wall on the third floor.
+
+* The scaffolding can't support more than **200 pounds of weight**
+  * If it collapses, anyone on it will fall 20 feet to the ground and take fall damage plus **2d6 piercing damage** from the debris
+  * Creatures under the collapsing scaffolding must make a **DC 13 dex save** or take **4d6 bludgeoning damage** from the debris
 
 ### 4 - Tower, First Floor
+> The flagstone floor is strenw with debris, and a few old crates stand near
 
 ## Second Floor
 
