@@ -117,7 +117,7 @@
 * There are 4 **clay golems** here which defend themselves if attacked who pull on the chains to operate a crude elevator
   * The golems will accept orders from anyone but will only follow orders having to do with raising and lowering the platform
   * They can be yelled to from higher levels
-  * The platform raises **5 feet per round**
+  * The platform raises **5 feet per round** (each level is 20 feet high)
 
 #### Treasure
 * The crates in this room are all empty.
