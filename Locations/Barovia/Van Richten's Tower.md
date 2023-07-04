@@ -110,11 +110,22 @@
   * Creatures under the collapsing scaffolding must make a **DC 13 dex save** or take **4d6 bludgeoning damage** from the debris
 
 ### 4 - Tower, First Floor
-> The flagstone floor is strenw with debris, and a few old crates stand near
+> The flagstone floor is strewn with debris, and a few old crates stand near the east wall. A torn curtain to the south partially obscures the tower vestibule.
+>
+> A 5-foot-square indentation in the center of the floor contains four pulleys attached to taut iron chains that stretch up through a similarly sized holes in the rotted wooden ceiling. Standing next to the chains are four tall clay statues.
+
+* There are 4 **clay golems** here which defend themselves if attacked who pull on the chains to operate a crude elevator
+  * The golems will accept orders from anyone but will only follow orders having to do with raising and lowering the platform
+  * They can be yelled to from higher levels
+  * The platform raises **5 feet per round**
+
+#### Treasure
+* The crates in this room are all empty.
 
 ## Second Floor
 
 ### 5 - Tower, Second Floor
+
 
 ## Third Floor
 
