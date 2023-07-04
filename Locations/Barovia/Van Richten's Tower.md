@@ -145,6 +145,10 @@
 ### 7 - Tower, Fourth Floor
 > Unlike the levels below, this room shows signs of recent habitation, and although the place reeks of mold and mildew, it has plenty of creature comforts, including a cozy bed, a desk with matching chair, bright tapestries, and a large iron stove with plenty of wood to feed it. Light enters through arrow slits as well as through dirt-caked windows with broken shutters. Other features of the room include a standing suit of armor and a wooden chest. Old wooden rafters bend under the weight of the tower roof, which has somehow remained intact. Mounted to the rafters are pulleys around which hang iron chains that support the tower's elevator platform.
 
+* The suit of armor in this room is a set of **Animated Armor** which is incapacitated until someone says the command word "**Khazan**" within 10 feet of it, at which point it follows the activator's commands
+  * If 24 hours pass without the armor receiving a command it becomes incapacitated again
+  * When reduced to 0 HP it falls apart and is destroyed
+* The chest in this room emits a lavender aroma and contains the **preserved, disembodied head of the Vistana named [[Yan]]**
 #### Background
 * [[Rudolph van Richten]] spent a bunch of time in this room researching [[Strahd]], committing his notes to memory and then burning them in the stove
 * [[Ezmerelda d'Avenir]] searched this area already trying to find clues about van Richten's whereabouts
