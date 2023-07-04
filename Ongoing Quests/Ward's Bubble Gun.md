@@ -11,3 +11,4 @@
   * Bat fang
   * This upgrade will also require Ward to mix the holy water with lard during a reload to make it soapy and blow bubbles
 ## What's happened so far
+* Ward has started collecting items for the squirt gun after speaking with Blinksy
