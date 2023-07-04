@@ -7,7 +7,7 @@
 * A wizard named [[Khazan]] helped build [[Castle Ravenloft]] and retired to Lake Baratok where he built this tower
 * The tower would have fallen if [[Khazan]] hadn't put up magic wards
 * [[Rudolph van Richten]] found the tower and set up shop here, then went to live in [[Vallaki]]
-* [[Esmerelda d'Avenir]] now lives here but isn't present when the characters arrive
+* [[Ezmerelda d'Avenir]] now lives here but isn't present when the characters arrive
 
 ## Approaching the Tower
 > You come to a cold mountain lake enclosed by misty woods and rocky bluffs. Thick fog creeps across the dark, still waters. The trail ends at a grass-covered causeway that stretches a hundred yards across the lake to a flat, marshy island with a stone tower on it. The tower is old and decrepit, with collapsing scaffolds clinging to one side where a large gash has split the wall. Timeworn griffon statues, their wings and flanks covered with moss, perch atop buttresses that support the walls.
@@ -143,4 +143,9 @@
 ## Fourth Floor
 
 ### 7 - Tower, Fourth Floor
-> Unlike the levels below, this room shows signs of recent habitation, and although the place reeks of mold and mildew, it has plenty of creature comforts, including a cozsy bed, a desk with matching chair, bright tapestries, and a large iron stove with ple]nty of wood to feed it. Light enters through arrow slits as well as through dirt-caked windows with broken shutters. Other features of the room include a standing suit of armor and a wooden chest. Old wooden rafters bend under the weight of the tower roof, which has somehow 
+> Unlike the levels below, this room shows signs of recent habitation, and although the place reeks of mold and mildew, it has plenty of creature comforts, including a cozy bed, a desk with matching chair, bright tapestries, and a large iron stove with plenty of wood to feed it. Light enters through arrow slits as well as through dirt-caked windows with broken shutters. Other features of the room include a standing suit of armor and a wooden chest. Old wooden rafters bend under the weight of the tower roof, which has somehow remained intact. Mounted to the rafters are pulleys around which hang iron chains that support the tower's elevator platform.
+
+#### Background
+* [[Rudolph van Richten]] spent a bunch of time in this room researching [[Strahd]], committing his notes to memory and then burning them in the stove
+* [[Ezmerelda d'Avenir]] searched this area already trying to find clues about van Richten's whereabouts
+  * She found a rolled up map of Barovia and a burned page from his journal which can both be found in the wagon (see **area 1**)

@@ -1,0 +1,1 @@
+* Former student and Protege of [[Rudolph van Richten]]

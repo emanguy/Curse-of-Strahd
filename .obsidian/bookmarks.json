@@ -11,16 +11,21 @@
       "items": [
         {
           "type": "file",
+          "ctime": 1688510070389,
+          "path": "Locations/Barovia/Barovia (Country).md"
+        },
+        {
+          "type": "file",
+          "ctime": 1688510049510,
+          "path": "Locations/Barovia/Barovia Town/Barovia Town.md"
+        },
+        {
+          "type": "file",
           "ctime": 1688510023368,
           "path": "Locations/Barovia/Vallaki/Vallaki.md"
         }
       ],
       "title": "Regions - Quick access"
-    },
-    {
-      "type": "file",
-      "ctime": 1688510049510,
-      "path": "Locations/Barovia/Barovia Town/Barovia Town.md"
     }
   ]
 }
