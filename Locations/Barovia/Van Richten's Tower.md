@@ -86,6 +86,8 @@
 ### 2 - Tower Door
 > The tower door is made of iron, with no visible handles or hinges. In the middle of the door is a large, embossed symbol - a connected series of lines with eight stick figures set around it. Carved into the lintel above the door is a word: **Khazan**.
 
+![[KhazanDoor.jpg]]
+
 * The door is magically locked and trapped. Attempting to touch the door without disabling the trap makes lightning envelop the tower and everything within 10 feet of it.
   * Players make a **DC 15 dex save** with disadvantage if wearing metal armor, taking **4d10 lightning damage** or half as much on a successful save.
   * The lightning lasts **10 minutes**, and any creature still in it at the start of their turn takes another **4d10 lightning damage**
