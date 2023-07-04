@@ -127,12 +127,14 @@
 ### 5 - Tower, Second Floor
 > Dust and cobwebs fill this otherwise empty room, the wooden floor of which is badly rotted and partially collapsed.
 
-* The 5-foot sections of floor around the center where the elevator is are weak and can only support up to 150 pounds. Anything beyond that threshold will cause the floor to collapse and anyone on that section of floor will fall 20 feet to the first floor
+* The 5-foot sections of floor around the center where the elevator is are weak and can only support up to **150 pounds**. Anything beyond that threshold will cause the floor to collapse and anyone on that section of floor will fall 20 feet to the first floor
 
 ## Third Floor
 
 ### 6 - Tower, Third Floor
 > Time and the elements have all but destroyed this chamber, leaving a gash in the northwest wall and slimy black mildew on the walls. The wooden floor is completely rotted and has begun to fall away in places.
+
+* The 5-foot sections of floor around the center of the elevator can only support **50 pounds** of weight. Anything more than that will cause the floor to collapse and anyone standing on that section of floor will fall 40 feet to the first floor.
 
 ## Fourth Floor
 
