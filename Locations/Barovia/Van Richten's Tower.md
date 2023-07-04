@@ -141,3 +141,4 @@
 ## Fourth Floor
 
 ### 7 - Tower, Fourth Floor
+> Unlike the levels below, this room shows signs of recent habitation, and although the place reeks of mold and mildew, it has plenty of creature comforts, including a cozsy bed, a desk with matching chair, bright tapestries, and a large iron stove with ple]nty of wood to feed it. Light enters through arrow slits as well as through dirt-caked windows with broken shutters. Other features of the room include a standing suit of armor and a wooden chest. Old wooden rafters bend under the weight of the tower roof, which has somehow 
