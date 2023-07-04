@@ -153,3 +153,6 @@
 * [[Rudolph van Richten]] spent a bunch of time in this room researching [[Strahd]], committing his notes to memory and then burning them in the stove
 * [[Ezmerelda d'Avenir]] searched this area already trying to find clues about van Richten's whereabouts
   * She found a rolled up map of Barovia and a burned page from his journal which can both be found in the wagon (see **area 1**)
+
+## Special Events
+_Continue from here_
