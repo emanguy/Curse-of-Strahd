@@ -1,4 +1,6 @@
 # The Wizard of Wines
+#Status/needs-completion #Status/needs-foundry 
+
 ![[CurseofStrahd_WizardofWineWinery_DM.jpg]]
 
 ## History & Current Situation

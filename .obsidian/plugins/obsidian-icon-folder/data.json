@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasWandMagicSparkles",
       "FasUserGroup",
       "FasLocationDot",
       "FasPencil",
-      "FasNewspaper",
-      "FasUser-group"
+      "FasNewspaper"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -19,10 +19,12 @@
       "right": 4,
       "bottom": 0,
       "left": 0
-    }
+    },
+    "iconInTabsEnabled": false
   },
   "Locations": "FasLocationDot",
   "Characters": "FasUserGroup",
   "Ongoing Quests": "FasNewspaper",
-  "Session Notes": "FasPencil"
+  "Session Notes": "FasPencil",
+  "Spell Reference": "FasWandMagicSparkles"
 }

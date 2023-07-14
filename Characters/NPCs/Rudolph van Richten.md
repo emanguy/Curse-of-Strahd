@@ -25,5 +25,5 @@
 * In the meantime, hides in plain sight with a _Hat of Disguise_ and protects his thoughts with a _Ring of Mind Shielding_
 * Trying to learn more about the [[Keepers of the Feather]] to gain a potential ally in the future
 * Wants to take out [[Strahd]]'s allies, starting with the Vistani
-* Unaware that [[Esmerelda d'Avenir]], his former Protege, is roaming around Barovia looking for him
+* Unaware that [[Ezmerelda d'Avenir]], his former Protege, is roaming around Barovia looking for him
   * If he hears about her, he tries to protect her as best he can without putting his plans in jeopardy

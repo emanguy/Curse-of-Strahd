@@ -1,18 +1,20 @@
 # Van Richten's Tower
+#Status/needs-completion #Status/needs-foundry
+
 ![[CurseofStrahd_VanRichtensTower_DM.jpg]]
 
 ## History
 * A wizard named [[Khazan]] helped build [[Castle Ravenloft]] and retired to Lake Baratok where he built this tower
 * The tower would have fallen if [[Khazan]] hadn't put up magic wards
 * [[Rudolph van Richten]] found the tower and set up shop here, then went to live in [[Vallaki]]
-* [[Esmerelda d'Avenir]] now lives here but isn't present when the characters arrive
+* [[Ezmerelda d'Avenir]] now lives here but isn't present when the characters arrive
 
 ## Approaching the Tower
 > You come to a cold mountain lake enclosed by misty woods and rocky bluffs. Thick fog creeps across the dark, still waters. The trail ends at a grass-covered causeway that stretches a hundred yards across the lake to a flat, marshy island with a stone tower on it. The tower is old and decrepit, with collapsing scaffolds clinging to one side where a large gash has split the wall. Timeworn griffon statues, their wings and flanks covered with moss, perch atop buttresses that support the walls.
 > 
 > Parked near the base of the tower, within sight of the entrance, is a barrel-topped wagon splattered with mud
 
-* The tower is affected by a ward called **Khazan's Spell Drain** which acts as the spell _Antimagic Field_ centered on the tower and going out 5 feet from it in all directions
+* The tower is affected by a ward called **Khazan's Spell Drain** which acts as the spell [[antimagic-field|Antimagic Field]] centered on the tower and going out 5 feet from it in all directions
   * This doesn't affect magic spells, traps, or constructs that [[Khazan]] put together
 
 ## First Floor
@@ -86,6 +88,8 @@
 ### 2 - Tower Door
 > The tower door is made of iron, with no visible handles or hinges. In the middle of the door is a large, embossed symbol - a connected series of lines with eight stick figures set around it. Carved into the lintel above the door is a word: **Khazan**.
 
+![[KhazanDoor.jpg]]
+
 * The door is magically locked and trapped. Attempting to touch the door without disabling the trap makes lightning envelop the tower and everything within 10 feet of it.
   * Players make a **DC 15 dex save** with disadvantage if wearing metal armor, taking **4d10 lightning damage** or half as much on a successful save.
   * The lightning lasts **10 minutes**, and any creature still in it at the start of their turn takes another **4d10 lightning damage**
@@ -98,20 +102,57 @@
   * If the characters get an arm position wrong, a young blue dragon appears and attacks the party until it is reduced to 0HP or the characters successfully open the door
   * When the dance is done properly the door opens automatically and stays open for **10 minutes**
   * The door can be safely opened from inside, and stays open for **1 minute** when opened this way unless held open
-* Beyond the door there's a 5-foot square vestibule with a curtain that conceals the first floor of the tower beyond
+* Beyond the door there's a 5-foot square vestibule with a curtain that conceals the first floor of the tower beyond 
+  * After going inside, the tower door closes after **1 minute** unless held open
+  * The tower door can be safely opened from inside
 
 ### 3 - Rickety Scaffolding
+> Rotting wooden beams support the scaffolding, which groans and creaks with the slightest breeze. A series of ladders and platforms lead to a hole in the northwest wall on the third floor.
+
+* The scaffolding can't support more than **200 pounds of weight**
+  * If it collapses, anyone on it will fall 20 feet to the ground and take fall damage plus **2d6 piercing damage** from the debris
+  * Creatures under the collapsing scaffolding must make a **DC 13 dex save** or take **4d6 bludgeoning damage** from the debris
 
 ### 4 - Tower, First Floor
+> The flagstone floor is strewn with debris, and a few old crates stand near the east wall. A torn curtain to the south partially obscures the tower vestibule.
+>
+> A 5-foot-square indentation in the center of the floor contains four pulleys attached to taut iron chains that stretch up through a similarly sized holes in the rotted wooden ceiling. Standing next to the chains are four tall clay statues.
+
+* There are 4 **clay golems** here which defend themselves if attacked who pull on the chains to operate a crude elevator
+  * The golems will accept orders from anyone but will only follow orders having to do with raising and lowering the platform
+  * They can be yelled to from higher levels
+  * The platform raises **5 feet per round** (each level is 20 feet high)
+
+#### Treasure
+* The crates in this room are all empty.
 
 ## Second Floor
 
 ### 5 - Tower, Second Floor
+> Dust and cobwebs fill this otherwise empty room, the wooden floor of which is badly rotted and partially collapsed.
+
+* The 5-foot sections of floor around the center where the elevator is are weak and can only support up to **150 pounds**. Anything beyond that threshold will cause the floor to collapse and anyone on that section of floor will fall 20 feet to the first floor
 
 ## Third Floor
 
 ### 6 - Tower, Third Floor
+> Time and the elements have all but destroyed this chamber, leaving a gash in the northwest wall and slimy black mildew on the walls. The wooden floor is completely rotted and has begun to fall away in places.
+
+* The 5-foot sections of floor around the center of the elevator can only support **50 pounds** of weight. Anything more than that will cause the floor to collapse and anyone standing on that section of floor will fall 40 feet to the first floor.
 
 ## Fourth Floor
 
 ### 7 - Tower, Fourth Floor
+> Unlike the levels below, this room shows signs of recent habitation, and although the place reeks of mold and mildew, it has plenty of creature comforts, including a cozy bed, a desk with matching chair, bright tapestries, and a large iron stove with plenty of wood to feed it. Light enters through arrow slits as well as through dirt-caked windows with broken shutters. Other features of the room include a standing suit of armor and a wooden chest. Old wooden rafters bend under the weight of the tower roof, which has somehow remained intact. Mounted to the rafters are pulleys around which hang iron chains that support the tower's elevator platform.
+
+* The suit of armor in this room is a set of **Animated Armor** which is incapacitated until someone says the command word "**Khazan**" within 10 feet of it, at which point it follows the activator's commands
+  * If 24 hours pass without the armor receiving a command it becomes incapacitated again
+  * When reduced to 0 HP it falls apart and is destroyed
+* The chest in this room emits a lavender aroma and contains the **preserved, disembodied head of the Vistana named [[Yan]]**
+#### Background
+* [[Rudolph van Richten]] spent a bunch of time in this room researching [[Strahd]], committing his notes to memory and then burning them in the stove
+* [[Ezmerelda d'Avenir]] searched this area already trying to find clues about van Richten's whereabouts
+  * She found a rolled up map of Barovia and a burned page from his journal which can both be found in the wagon (see **area 1**)
+
+## Special Events
+_Continue from here_

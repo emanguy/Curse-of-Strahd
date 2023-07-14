@@ -1,6 +1,6 @@
-.prominent-star {
-    display: flex;
-    align-items: center;
-    margin-left: auto;
+/* src/styles.css */
+.prominent-decorated-file {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
 }
-
