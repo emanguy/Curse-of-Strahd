@@ -155,4 +155,4 @@
   * She found a rolled up map of Barovia and a burned page from his journal which can both be found in the wagon (see **area 1**)
 
 ## Special Events
-_Continue from here_
+### 
