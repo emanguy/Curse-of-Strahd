@@ -162,3 +162,8 @@
   * The characters cause the tower to collapse
 *  The loud noise draws the attention of a group of **Werewolves** who will arrive in one hour. They try to stop at the causeway to block exit from the island where the tower resides
 * The werewolves' leader is [[Kiril Stoyanovich]], who is a werewolf with **90 hit points**. He's accompanied by **6 werewolves and 9 wolves**. 
+  * Kiril will try to lure the characters toward the wolves, but he and the pack will retreat if the characters just stay on the island and start making ranged attacks at them
+* If the characters capture a werewolf, they can get it to divulge the fact that there are children in the [[Werewolf Den]] that the werewolves kidnapped
+
+### Ezmerelda's Retreat
+* [[Ezmerelda d'Avenir]] will eventually return to the tower on a **Riding horse** she stole from the Vistani. 
