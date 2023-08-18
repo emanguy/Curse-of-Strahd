@@ -166,4 +166,6 @@
 * If the characters capture a werewolf, they can get it to divulge the fact that there are children in the [[Werewolf Den]] that the werewolves kidnapped
 
 ### Ezmerelda's Retreat
-* [[Ezmerelda d'Avenir]] will eventually return to the tower on a **Riding horse** she stole from the Vistani. 
+* [[Ezmerelda d'Avenir]] will eventually return to the tower on a **Riding horse** she stole from the Vistani. She's only left with **30 HP after an encounter with [[Strahd]]**.
+* She comes back to try and get some supplies from her cart, but if it's blown up she tries to take refuge in the tower (she knows how to get into the door)
+* 
