@@ -155,4 +155,10 @@
   * She found a rolled up map of Barovia and a burned page from his journal which can both be found in the wagon (see **area 1**)
 
 ## Special Events
-### 
+### Pack Attack
+* Triggered in a couple circumstances
+  * The characters blew up Ezmerelda's Wagon
+  * The characters activated the lightning sheath around the tower
+  * The characters cause the tower to collapse
+*  The loud noise draws the attention of a group of **Werewolves** who will arrive in one hour. They try to stop at the causeway to block exit from the island where the tower resides
+* The werewolves' leader is [[Kiril Stoyanovich]], who is a werewolf with **90 hit points**. He's accompanied by **6 werewolves and 9 wolves**. 
