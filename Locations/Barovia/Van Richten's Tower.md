@@ -166,6 +166,7 @@
 * If the characters capture a werewolf, they can get it to divulge the fact that there are children in the [[Werewolf Den]] that the werewolves kidnapped
 
 ### Ezmerelda's Retreat
-* [[Ezmerelda d'Avenir]] will eventually return to the tower on a **Riding horse** she stole from the Vistani. She's only left with **30 HP after an encounter with [[Strahd]]**.
+* [[Ezmerelda d'Avenir]] will eventually return to the tower on a **Riding horse** she stole from the [[Vistani Camp (Vallaki)]]. She's only left with **30 HP after an encounter with [[Strahd]]**.
 * She comes back to try and get some supplies from her cart, but if it's blown up she tries to take refuge in the tower (she knows how to get into the door)
-* 
+* When Ezmerelda returns, **Strahd gains a new goal to try and kill her.** He'll do this by sending druids, werewolves, and human spies/vampire spawn hiding in human settlements to try and get her.
+  * If Strahd learns Ezmerelda is accompanying the party, he sends them an invitation to dine with him at [[Castle Ravenloft]], expecting that Ezmerelda will come too. If the characters attend, they won't run into harmful random encounters on the way
