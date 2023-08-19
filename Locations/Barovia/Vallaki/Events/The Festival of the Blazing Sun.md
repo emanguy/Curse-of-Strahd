@@ -14,3 +14,4 @@
 * If the characters challenge Vargas he has them banished from [[Vallaki]]
   * If they protest, he orders the guards to arrest them, take their weapons, and throw them out at swordpoint
   * If they manage to fend off the guards somehow Vargas retreats with them to the [[Burgomaster's Mansion (Vallaki)]], the characters have free rein of the town, and the townsfolk flee to their homes
+* The players have actually managed to get the townsfolk to throw Vargas out of 
