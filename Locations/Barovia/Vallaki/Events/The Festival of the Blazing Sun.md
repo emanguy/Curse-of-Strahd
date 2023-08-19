@@ -15,7 +15,7 @@
   * If they protest, he orders the guards to arrest them, take their weapons, and throw them out at swordpoint
   * If they manage to fend off the guards somehow Vargas retreats with them to the [[Burgomaster's Mansion (Vallaki)]], the characters have free rein of the town, and the townsfolk flee to their homes
 * The players have actually managed to get the townsfolk to throw Vargas out of Vallaki. Here's what happens as a result of that:
-  * The townsfolk are now referring to the party as The Warriors of the Azure Sun and have a degree of respect for them
+  * The townsfolk are now referring to the party as **The Warriors of the Azure Sun** and have a degree of respect for them
   * The townsfolk are now rioting around the Burgomaster's mansion and are trying to break down the door
   * If the party goes near [[St. Andral's Church]], they'll see [[Izek Strazni]] is tromping towards it with a group of guards. [[Strahd]] has tipped him off about [[Ireena Kolyana]] and is trying to use him to get her out in the open.
     * If he successfully manages to get Ireena out, a **Vampire Spawn** that Strahd broke out of the [[Coffin Maker's Shop]] and 3 **Ghouls** will attempt to take her through the Sunset Gate. If they successfully move ahead for 3 consecutive rounds while grappling Ireena they will capture her successfully.
