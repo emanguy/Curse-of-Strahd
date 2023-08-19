@@ -1,5 +1,4 @@
 # Van Richten's Tower
- #Status/needs-foundry
 
 ![[CurseofStrahd_VanRichtensTower_DM.jpg]]
 
