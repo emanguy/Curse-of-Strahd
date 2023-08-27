@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasInfo",
       "FasWandMagicSparkles",
       "FasUserGroup",
       "FasLocationDot",
-      "FasPencil",
-      "FasNewspaper"
+      "FasPencil"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -26,5 +26,6 @@
   "Characters": "FasUserGroup",
   "Ongoing Quests": "FasNewspaper",
   "Session Notes": "FasPencil",
-  "Spell Reference": "FasWandMagicSparkles"
+  "Spell Reference": "FasWandMagicSparkles",
+  "Useful Links and Info.md": "FasInfo"
 }

@@ -8,3 +8,4 @@
 * [[Strahd]] encountered a silver dragon disguised as a nobleman named Lord [[Argynvost]]
 * Used to be the home base for the [[Order of the Silver Dragon]] until Argynvost was killed
 * Since Argynvost's death, it's now a haunted ruin
+* _Continue taking notes from the "Order of the Silver Dragon" section in Chapter 7_
