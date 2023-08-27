@@ -5,3 +5,4 @@
   * This group of humans were called the [[Order of the Silver Dragon]]
   * Only the highest ranked individuals were told of his true nature
 * Killed when Strahd returned with reinforcements to the valley around Argynvostholt
+  * Strahd had his remains chopped up and shipped his skeleton to [[Castle Ravenloft]] as a trophy

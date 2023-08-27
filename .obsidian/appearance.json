@@ -2,5 +2,5 @@
   "baseFontSize": 16,
   "cssTheme": "Encore",
   "accentColor": "#54e866",
-  "nativeMenus": true
+  "nativeMenus": false
 }
