@@ -4,3 +4,4 @@
 * Was wealthy, so he used his resources to hire human forces to defend the Amber Temple
   * This group of humans were called the [[Order of the Silver Dragon]]
   * Only the highest ranked individuals were told of his true nature
+* Killed when Strahd returned with reinforcements to the valley around Argynvostholt
