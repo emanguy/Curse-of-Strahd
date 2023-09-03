@@ -8,4 +8,8 @@
   * Unicorn dust - Coke, makes them think they have a horn instead of a nose
   * Pixie Stix - Hallucinogenics/shrooms
   * Wyrmweed - makes a smoke trail out of your nose, warm bubbly mood, gives you temporary scales
-  * 
+  * Cloud of daggers - Pyro vision
+  * Giant's toes - tiny pills that look like a toe, makes everything look really big
+  * Sphinx nip - Makes you really friendly, sensory enhancement, makes you want to touch things to your bare skin
+  * Naga bite - liquid in a snake dispenser, sensational enhancer 
+  * Tabaxi juice/haster baster - ENERGY!!!
