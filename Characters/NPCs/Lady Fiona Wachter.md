@@ -9,6 +9,7 @@
     * Reads a devil worship manifesto to her followers at her "book club"
     * Fakes rituals for her most loyal followers - has an invisible imp in the middle of a pentagram that drops electrum for them
       * Calls on the "**Princes of Darkness**" for the ritual
+      * "Obey, pray, slay" - player generated slogan
   * Sleeps with her dead husband [[Nikolai Wachter Sr.]] at night, casting _Gentle Repose_ on his corpse every so often to keep it fresh
   * Willing to help the characters overthrow [[Vargas Vallakovich]] if they come to her looking for help, suggests killing [[Izek Strazni]] and that she'll take care of the rest
     * Turns the party away if they mention they're looking for a way to defeat [[Strahd]]
