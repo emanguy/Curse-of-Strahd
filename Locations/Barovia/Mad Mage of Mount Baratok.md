@@ -1,6 +1,8 @@
+---
+tags:
+  - Status/needs-foundry
+---
 # Mordenkainen
-#Status/needs-foundry 
-
 ## History
 * Powerful wizard, came to Barovia to fight [[Strahd]]
 * Fight didn't go well for him, got thrown off the [[Tser Falls]]

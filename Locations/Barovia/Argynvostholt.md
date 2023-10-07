@@ -1,5 +1,8 @@
+---
+tags:
+  - Status/needs-completion
+---
 # Argynvostholt
-#Status/needs-completion 
 ## Lower Floors
 ![[CurseofStrahd_Argynvostholt_LowerFloors_DM.jpg]]
 ## Upper Floors
